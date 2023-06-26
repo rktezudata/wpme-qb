@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Is an egoist selfish?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Is modesty one of the characteristics of the egotist?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Is an altruist selfish?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Does an introvert pay much attention to himself?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Does an extrovert prefer solitude to companionship?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Are most normal people ambiverts?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Does a misanthrope like people?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Does a misogynist enjoy the company of women?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Does an ascetic lead a life of luxury?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "Does a misogamist try to avoid marriage?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "yes",
+    "2": "no",
+    "3": "no",
+    "4": "yes",
+    "5": "no",
+    "6": "yes",
+    "7": "no",
+    "8": "no",
+    "9": "no",
+    "10": "yes"
+  }
+}

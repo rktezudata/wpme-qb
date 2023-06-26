@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Who lives a lonely, austere life?",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Whose interests are turned outward?",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Who is supremely selfish?",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Who hates people?",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Whose interests are turned both inward and outward?",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Who is incredibly conceited?",
+      "initialLetter": "F",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Who is more interested in the welfare of others than in his own?",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Who hates women?",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Whose interests are turned inward?",
+      "initialLetter": "I",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "Who hates marriage?",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "ascetic",
+    "2": "extrovert",
+    "3": "egoist",
+    "4": "misanthrope",
+    "5": "ambivert",
+    "6": "egotist",
+    "7": "altruist",
+    "8": "misogynist",
+    "9": "introvert",
+    "10": "misogamist"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "columnA": [
+    {
+      "id": "1",
+      "question": "egoist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "egotist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "altruist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "introvert",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "extrovert",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "ambivert",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "misanthrope",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "misogynist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "misogamist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "ascetic",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "turns thoughts inward"
+    },
+    {
+      "id": "b",
+      "question": "hates marriage"
+    },
+    {
+      "id": "c",
+      "question": "talks about accomplishments"
+    },
+    {
+      "id": "d",
+      "question": "hates people"
+    },
+    {
+      "id": "e",
+      "question": "does not pursue pleasures of the flesh"
+    },
+    {
+      "id": "f",
+      "question": "is interested in the welfare of others"
+    },
+    {
+      "id": "g",
+      "question": "believes in self-advancement"
+    },
+    {
+      "id": "h",
+      "question": "turns thoughts both inward and outward"
+    },
+    {
+      "id": "i",
+      "question": "hates women"
+    },
+    {
+      "id": "j",
+      "question": "turns thoughts outward"
+    }
+  ],
+  "answers": {
+    "1": "g",
+    "2": "c",
+    "3": "f",
+    "4": "a",
+    "5": "j",
+    "6": "h",
+    "7": "d",
+    "8": "i",
+    "9": "b",
+    "10": "e"
+  }
+}

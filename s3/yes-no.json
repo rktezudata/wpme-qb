@@ -1,0 +1,125 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Can ambidextrous people use either the left or right hand equally well?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Should a surgeon be manually dexterous?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Is a sinister-looking person frightening?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Is gaucherie a social asset?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Is an adroit speaker likely to be a successful lawyer?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Is a student of anthropology interested in primitive tribes?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Does a gynecologist have more male than female patients?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Is monogamy the custom in Western countries?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Is a misogamist likely to show tendencies toward polygamy?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "Is a bigamist breaking the law?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "Is a philanthropist generally altruistic?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "Does a misanthropist enjoy human relationships?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "Does a misogynist enjoy female companionship?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "Are unmarried people necessarily misogamous?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "Are bachelors necessarily misogynous?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "Is asceticism compatible with luxurious living and the pursuit of pleasure?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "17",
+      "question": "Does a polyandrist have more than one husband?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "yes",
+    "2": "yes",
+    "3": "yes",
+    "4": "no",
+    "5": "yes",
+    "6": "yes",
+    "7": "no",
+    "8": "yes",
+    "9": "no",
+    "10": "yes",
+    "11": "yes",
+    "12": "no",
+    "13": "no",
+    "14": "no",
+    "15": "no",
+    "16": "no",
+    "17": "yes"
+  }
+}

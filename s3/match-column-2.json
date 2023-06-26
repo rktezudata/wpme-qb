@@ -1,0 +1,58 @@
+{
+  "columnA": [
+    {
+      "id": "1",
+      "question": "anthropology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "gynecology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "monogamy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "bigamy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "misogyny",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "system of only one marriage"
+    },
+    {
+      "id": "b",
+      "question": "hatred of women"
+    },
+    {
+      "id": "c",
+      "question": "illegal plurality of marriages"
+    },
+    {
+      "id": "d",
+      "question": "study of human development"
+    },
+    {
+      "id": "e",
+      "question": "study of female ailments"
+    }
+  ],
+  "answers": {
+    "1": "d",
+    "2": "e",
+    "3": "a",
+    "4": "c",
+    "5": "b"
+  }
+}

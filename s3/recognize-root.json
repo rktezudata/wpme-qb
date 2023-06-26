@@ -1,0 +1,102 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "ego",
+      "answer": "",
+      "example": "egoist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "alter",
+      "answer": "",
+      "example": "alternative",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "verto",
+      "answer": "",
+      "example": "introvert",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "misein",
+      "answer": "",
+      "example": "misogynist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "anthropos",
+      "answer": "",
+      "example": "anthropologist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "gyne",
+      "answer": "",
+      "example": "gynecologist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "gamos",
+      "answer": "",
+      "example": "bigamy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "centrum",
+      "answer": "",
+      "example": "egocentric",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "dexter",
+      "answer": "",
+      "example": "dexterous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "droit",
+      "answer": "",
+      "example": "adroit",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "monos",
+      "answer": "",
+      "example": "monogamy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "andros",
+      "answer": "",
+      "example": "polyandry",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "self",
+    "2": "other",
+    "3": "to turn",
+    "4": "to hate",
+    "5": "mankind",
+    "6": "woman",
+    "7": "marriage",
+    "8": "center",
+    "9": "right hand",
+    "10": "right hand",
+    "11": "one",
+    "12": "male"
+  }
+}

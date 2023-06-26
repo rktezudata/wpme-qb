@@ -1,0 +1,58 @@
+{
+  "columnA": [
+    {
+      "id": "1",
+      "question": "polygamy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "misogamy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "asceticism",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "philanthropy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "adroitness",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "devotion to a lonely and austere life"
+    },
+    {
+      "id": "b",
+      "question": "skill, cleverness"
+    },
+    {
+      "id": "c",
+      "question": "custom in which one man has many wives"
+    },
+    {
+      "id": "d",
+      "question": "love of mankind"
+    },
+    {
+      "id": "e",
+      "question": "hatred of marriage"
+    }
+  ],
+  "answers": {
+    "1": "c",
+    "2": "e",
+    "3": "a",
+    "4": "d",
+    "5": "b"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "philosophy of living austerely",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "hatred of women",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "hatred of marriage",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "hatred of mankind",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "skillful",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "awkward",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "evil, threatening",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "describing hatred of women (adj.)",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "skill",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "pertaining to hatred of marriage. (adj.)",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "pertaining to hatred of mankind (adj.)",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "social custom of plural marriage",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "unlawful state of having more than one spouse",
+      "initialLetter": "B",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "doctor specializing in female disorders",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "custom of one marriage at a time",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "one who hates the human race",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "17",
+      "question": "able to use both hands with equal skill",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "18",
+      "question": "study of mankind",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "19",
+      "question": "one who loves mankind",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "20",
+      "question": "skill in the use of both hands",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "asceticism",
+    "2": "misogyny",
+    "3": "misogamy",
+    "4": "misanthropy",
+    "5": "dexterous",
+    "6": "gauche",
+    "7": "sinister",
+    "8": ["misogynous", "misogynistic"],
+    "9": "adroitness",
+    "10": "misogamous",
+    "11": "misanthropic",
+    "12": ["polygamy", "polyandry", "polygyny"],
+    "13": "bigamy",
+    "14": "gynecologist",
+    "15": "monogamy",
+    "16": ["misanthropist", "misanthrope"],
+    "17": "ambidextrous",
+    "18": "anthropology",
+    "19": "philanthropist",
+    "20": "ambidexterity"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "columnA": [
+    {
+      "id": "1",
+      "question": "polygynist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "polyandrist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "anthropologist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "gynecologist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "philanthropist",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "student of the development of mankind"
+    },
+    {
+      "id": "b",
+      "question": "one who engages in charitable works"
+    },
+    {
+      "id": "c",
+      "question": "male with a plurality of wives"
+    },
+    {
+      "id": "d",
+      "question": "women's doctor"
+    },
+    {
+      "id": "e",
+      "question": "female with a plurality of husbands"
+    }
+  ],
+  "answers": {
+    "1": "c",
+    "2": "e",
+    "3": "a",
+    "4": "d",
+    "5": "b"
+  }
+}

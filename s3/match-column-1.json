@@ -1,0 +1,58 @@
+{
+  "columnA": [
+    {
+      "id": "1",
+      "question": "ambidextrous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "dexterous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "sinister",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "gauche",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "misanthropic",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "evil, threatening"
+    },
+    {
+      "id": "b",
+      "question": "hating mankind"
+    },
+    {
+      "id": "c",
+      "question": "skillful"
+    },
+    {
+      "id": "d",
+      "question": "awkward"
+    },
+    {
+      "id": "e",
+      "question": "capable of using both hands with equal skill"
+    }
+  ],
+  "answers": {
+    "1": "e",
+    "2": "c",
+    "3": "a",
+    "4": "d",
+    "5": "b"
+  }
+}

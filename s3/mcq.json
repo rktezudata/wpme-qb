@@ -1,0 +1,70 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Puts selfish desires first:",
+      "options": ["egoist", "egotist", "altruist"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Is self-analytical:",
+      "options": ["extrovert", "introvert", "ambivert"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Hates women:",
+      "options": ["misogamist", "misanthrope", "misogynist"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "One's other self:",
+      "options": ["altercation", "alter ego", "alteration"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Awkward, clumsy:",
+      "options": ["adroit", "dexterous", "gauche"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Plural marriage as a custom:",
+      "options": ["bigamy", "polygamy", "monogamy"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Study of human development:",
+      "options": ["asceticism", "philanthropy", "anthropology"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Plurality of husbands as a custom:",
+      "options": ["misogyny", "polygyny", "polyandry"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "egoist",
+    "2": "introvert",
+    "3": "misogynist",
+    "4": "alter ego",
+    "5": "gauche",
+    "6": "polygamy",
+    "7": "anthropology",
+    "8": "polyandry"
+  }
+}

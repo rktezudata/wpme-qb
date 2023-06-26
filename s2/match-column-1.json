@@ -1,0 +1,68 @@
+{
+  "columnA": [
+    {
+      "id": "1",
+      "question": "ego",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "egocentric",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "altruism",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "to alternate",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "to alter",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "altercation",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "one who is excessively fixated on his own desires, needs, etc."
+    },
+    {
+      "id": "b",
+      "question": "to change"
+    },
+    {
+      "id": "c",
+      "question": "argument"
+    },
+    {
+      "id": "d",
+      "question": "one's concept of oneself"
+    },
+    {
+      "id": "e",
+      "question": "to take one, skip one, etc."
+    },
+    {
+      "id": "f",
+      "question": "philosophy of putting another's welfare above one's own"
+    }
+  ],
+  "answers": {
+    "1": "d",
+    "2": "a",
+    "3": "f",
+    "4": "e",
+    "5": "b",
+    "6": "c"
+  }
+}

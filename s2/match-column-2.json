@@ -1,0 +1,68 @@
+{
+  "columnA": [
+    {
+      "id": "1",
+      "question": "egomaniacal",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "altruistic",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "alternative",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "alteration",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "alter ego",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "alternate (adj.)",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "a change"
+    },
+    {
+      "id": "b",
+      "question": "other possible"
+    },
+    {
+      "id": "c",
+      "question": "interested in the welfare of others"
+    },
+    {
+      "id": "d",
+      "question": "one's other self"
+    },
+    {
+      "id": "e",
+      "question": "a choice"
+    },
+    {
+      "id": "f",
+      "question": "morbidly, obsessively wrapped up in oneself"
+    }
+  ],
+  "answers": {
+    "1": "f",
+    "2": "c",
+    "3": "e",
+    "4": "a",
+    "5": "d",
+    "6": "b"
+  }
+}

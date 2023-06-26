@@ -1,0 +1,83 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Is rejection usually a blow to one's ego?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Are egocentric people easy to get along with?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Does an egomaniac have a normal personality?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Are egomaniacal tendencies a sign of maturity?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Is altruism a characteristic of selfish people?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Are altruistic tendencies common to egoists?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Is an alternate plan necessarily inferior?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Does an alternative allow you some freedom of choice?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Does alteration imply keeping things the same?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "Do excitable people often engage in altercations?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "Is your alter ego usually quite similar to yourself?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "yes",
+    "2": "no",
+    "3": "no",
+    "4": "no",
+    "5": "no",
+    "6": "no",
+    "7": "no",
+    "8": "yes",
+    "9": "no",
+    "10": "yes",
+    "11": "yes"
+  }
+}

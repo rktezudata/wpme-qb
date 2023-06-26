@@ -1,0 +1,70 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "one's other self",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "to change",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "a heated dispute",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "excessively, morbidly obsessed with one's own needs, desires, or ambitions",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "unselfish; more interested in the welfare of others than in one's own",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "utterly involved with oneself; self-centered",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "a choice",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "one who substitutes for another",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "alter ego",
+    "2": "alter",
+    "3": "altercation",
+    "4": "egomaniacal",
+    "5": "altruistic",
+    "6": "egocentric",
+    "7": "alternative",
+    "8": "alternate"
+  }
+}

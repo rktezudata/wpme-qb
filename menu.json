@@ -291,5 +291,46 @@
         }
       }
     ]
+  },
+  {
+    "id": "session-46",
+    "title": "Session 46",
+    "links": [
+      {
+        "text": "Match the column",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s46/match-column.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s46/yes-no-1.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s46/yes-no-2.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s46/recall.json"
+        }
+      },
+      {
+        "text": "Recognize root",
+        "queryParams": {
+          "type": "recognizeRoot",
+          "path": "s46/recognize-root.json"
+        }
+      }
+    ]
   }
 ]

@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "for a suspected brain disorder",
+      "initialLetter": "N",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "for a thorough internal checkup",
+      "initialLetter": "I",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "if you have a skin disease",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "if you have a heart problem",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "if you are tense, fearful, insecure",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "if you are pregnant",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "for some disorder of the female reproductive organs",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "for a checkup for your two-month-old child",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "for faulty vision",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "for curvature of the spine",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "neurologist",
+    "2": "internist",
+    "3": "dermatologist",
+    "4": "cardiologist",
+    "5": "psychiatrist",
+    "6": "obstetrician",
+    "7": "gynecologist",
+    "8": "pediatrician",
+    "9": "ophthalmologist",
+    "10": "orthopedist"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "columnA": [
+    {
+      "id": "1",
+      "question": "mental or emotional disturbances",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "nervous system",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "skin",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "diagnosis; internal organs",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "infants",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "female reproductive organs",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "eyes",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "heart",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "pregnancy, childbirth",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "skeletal system",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "internist"
+    },
+    {
+      "id": "b",
+      "question": "gynecologist"
+    },
+    {
+      "id": "c",
+      "question": "obstetrician"
+    },
+    {
+      "id": "d",
+      "question": "pediatrician"
+    },
+    {
+      "id": "e",
+      "question": "dermatologist"
+    },
+    {
+      "id": "f",
+      "question": "ophthalmologist"
+    },
+    {
+      "id": "g",
+      "question": "orthopedist"
+    },
+    {
+      "id": "h",
+      "question": "cardiologist"
+    },
+    {
+      "id": "i",
+      "question": "neurologist"
+    },
+    {
+      "id": "j",
+      "question": "psychiatrist"
+    }
+  ],
+  "answers": {
+    "1": "j",
+    "2": "i",
+    "3": "e",
+    "4": "a",
+    "5": "d",
+    "6": "b",
+    "7": "f",
+    "8": "b",
+    "9": "c",
+    "10": "g"
+  }
+}

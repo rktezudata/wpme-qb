@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Is an internist an expert in diagnosis?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Is a gynecologist familiar with the female reproductive organs?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Does an obstetrician specialize in diseases of childhood?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Does a pediatrician deliver babies?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "If you had a skin disease, would you visit a dermatologist?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "If you had trouble with your vision would you visit an orthopedist?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Is an ophthalmologist an eye,specialist?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Does a cardiologist treat bone fractures?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Is a neurologist a nerve specialist?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "If you were nervous, tense, overly anxious, constantly fearful for no apparent reasons, would a psychiatrist be the specialist to see?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "yes",
+    "2": "yes",
+    "3": "no",
+    "4": "no",
+    "5": "yes",
+    "6": "no",
+    "7": "yes",
+    "8": "no",
+    "9": "yes",
+    "10": "yes"
+  }
+}

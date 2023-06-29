@@ -255,13 +255,6 @@
           "type": "recall",
           "path": "s7/recall.json"
         }
-      },
-      {
-        "text": "Recognize root",
-        "queryParams": {
-          "type": "recognizeRoot",
-          "path": "s7/recognize-root.json"
-        }
       }
     ]
   },
@@ -304,14 +297,14 @@
         }
       },
       {
-        "text": "Yes/No",
+        "text": "Yes/No - 1",
         "queryParams": {
           "type": "yes-no",
           "path": "s46/yes-no-1.json"
         }
       },
       {
-        "text": "Yes/No",
+        "text": "Yes/No - 2",
         "queryParams": {
           "type": "yes-no",
           "path": "s46/yes-no-2.json"

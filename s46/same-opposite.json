@@ -1,0 +1,97 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "obsequies - rites",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "subsequent - preceding",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "pecuniary - financial",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "sequence - order",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "noxious - harmful",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "imbibe - drink",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "dolor - delight",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "doleful - merry",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "cavalier - courteous",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "cadaver - corpse",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "decadent - resurgent",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "chivalry - gallantry to women",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "condolences - congratulations",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "same",
+    "2": "opposite",
+    "3": "same",
+    "4": "same",
+    "5": "same",
+    "6": "same",
+    "7": "opposite",
+    "8": "opposite",
+    "9": "opposite",
+    "10": "same",
+    "11": "opposite",
+    "12": "same",
+    "13": "opposite"
+  }
+}

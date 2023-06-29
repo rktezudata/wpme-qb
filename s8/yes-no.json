@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Psychological treatment aims at sharpening the intellect.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Psychic phenomena can be explained on rational or physical grounds",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Psychopathic personalities are normal and healthy.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "A psychosomatic symptom is caused by organic disease.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Every therapist uses psychoanalysis.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "A psychogenic illness originates in the mind or emotions.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "A psychotherapist must have a medical degree.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Psychoanalytically oriented therapy uses Freudian techniques.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "A psychopath is often a criminal.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "no",
+    "2": "no",
+    "3": "no",
+    "4": "no",
+    "5": "no",
+    "6": "yes",
+    "7": "no",
+    "8": "yes",
+    "9": "yes"
+  }
+}

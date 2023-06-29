@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "one's inner or mental life, or self-image",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "the adjective that denotes the interactions, especially in illness, between mind and body",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "mentally or emotionally disturbed",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "study of behavior",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "extrasensory",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "treatment by Freudian techniques",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "pertaining to the study of behavior (adj.)",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "of mental or emotional origin",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "general term for treatment of emotional disorders",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "antisocial person",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "psyche",
+    "2": "psychosomatic",
+    "3": "psychopathic",
+    "4": "psychology",
+    "5": "psychic",
+    "6": "psychoanalysis",
+    "7": "psychological",
+    "8": "psychogenic",
+    "9": "psychotherapy",
+    "10": "psychopath"
+  }
+}

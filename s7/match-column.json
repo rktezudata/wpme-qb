@@ -1,0 +1,112 @@
+{
+  "columnNames": {
+    "columnA": "PRACTITIONERS",
+    "columnB": "INTERESTS"
+  },
+  "columnA": [
+    {
+      "id": "1",
+      "question": "psychologist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "psychoanalyst",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "orthodontist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "optometrist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "optician",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "osteopath",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "chiropractor",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "podiatrist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "graphologist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "gerontologist",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "vision"
+    },
+    {
+      "id": "b",
+      "question": "\"the unconscious\""
+    },
+    {
+      "id": "c",
+      "question": "bones and blood vessels"
+    },
+    {
+      "id": "d",
+      "question": "lenses and optical instruments"
+    },
+    {
+      "id": "e",
+      "question": "feet"
+    },
+    {
+      "id": "f",
+      "question": "teeth"
+    },
+    {
+      "id": "g",
+      "question": "problems of aging"
+    },
+    {
+      "id": "h",
+      "question": "joints of the spine"
+    },
+    {
+      "id": "i",
+      "question": "handwriting"
+    },
+    {
+      "id": "j",
+      "question": "behavior"
+    }
+  ],
+  "answers": {
+    "1": "j",
+    "2": "b",
+    "3": "f",
+    "4": "a",
+    "5": "d",
+    "6": "c",
+    "7": "h",
+    "8": "e",
+    "9": "i",
+    "10": "g"
+  }
+}

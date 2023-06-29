@@ -1,0 +1,98 @@
+{
+  "columnA": [
+    {
+      "id": "1",
+      "question": "psychology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "psyche",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "psychic",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "psychopathy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "psychosomatic",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "psychoanalysis",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "psychogenic",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "psychotherapy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "psychopath",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "mental or emotional disturbance"
+    },
+    {
+      "id": "b",
+      "question": "psychological treatment based on Freudian techniques"
+    },
+    {
+      "id": "c",
+      "question": "general term for psychological treatment"
+    },
+    {
+      "id": "d",
+      "question": "originating in the mind or emotions"
+    },
+    {
+      "id": "e",
+      "question": "one's inner or mental life, or self-image"
+    },
+    {
+      "id": "f",
+      "question": "study of the human mind and behavior"
+    },
+    {
+      "id": "g",
+      "question": "describing the interaction of mind and body"
+    },
+    {
+      "id": "h",
+      "question": "pertaining to the mind; extrasensory"
+    },
+    {
+      "id": "i",
+      "question": "person lacking in social conscience or inner censor"
+    }
+  ],
+  "answers": {
+    "1": "f",
+    "2": "e",
+    "3": "h",
+    "4": "a",
+    "5": "g",
+    "6": "b",
+    "7": "d",
+    "8": "c",
+    "9": "i"
+  }
+}

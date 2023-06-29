@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "delves into the unconscious",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "uses either massage and manipulation or other standard medical procedures to treat illness",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "takes care of minor ailments of the feet",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "straightens teeth",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "analyzes handwriting",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "grinds lenses and sells optical goods",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "deals with the non-medical problems of aging",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "manipulates articulations connected to the spinal column",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "studies and explains human behavior",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "measures vision and prescribes glasses",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "psychoanalyst",
+    "2": "osteopath",
+    "3": "podiatrist",
+    "4": "orthodontist",
+    "5": "graphologist",
+    "6": "optician",
+    "7": "gerontologist",
+    "8": "chiropractor",
+    "9": "psychologist",
+    "10": "optometrist"
+  }
+}

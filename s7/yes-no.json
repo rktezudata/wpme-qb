@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "A psychologist must also be a physician.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "A psychoanalyst follows Freudian techniques.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "An orthodontist specializes in straightening teeth.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "An optometrist prescribes and fits glasses.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "An optician may prescribe glasses.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "An osteopath may use massage and other manipulative techniques.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "A chiropractor has a medical degree.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "A podiatrist may perform major surgery.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "A graphologist analyzes character from handwriting.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "A gerontologist is interested in the non-medical problems of adolescence.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "no",
+    "2": "yes",
+    "3": "yes",
+    "4": "yes",
+    "5": "no",
+    "6": "yes",
+    "7": "no",
+    "8": "no",
+    "9": "yes",
+    "10": "no"
+  }
+}

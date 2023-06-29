@@ -1,0 +1,295 @@
+[
+  {
+    "id": "session-1",
+    "title": "Session 1",
+    "links": [
+      {
+        "text": "Match the columns",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s1/match-column.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s1/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s1/recall.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-2",
+    "title": "Session 2",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s2/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s2/match-column-2.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s2/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s2/recall.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-3",
+    "title": "Session 3",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s3/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s3/match-column-2.json"
+        }
+      },
+      {
+        "text": "Match the column - 3",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s3/match-column-3.json"
+        }
+      },
+      {
+        "text": "Match the column - 4",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s3/match-column-4.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s3/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s3/recall.json"
+        }
+      },
+      {
+        "text": "MCQ",
+        "queryParams": {
+          "type": "mcq",
+          "path": "s3/mcq.json"
+        }
+      },
+      {
+        "text": "Recognize root",
+        "queryParams": {
+          "type": "recognizeRoot",
+          "path": "s3/recognize-root.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-4",
+    "title": "Session 4",
+    "links": [
+      {
+        "text": "Match the column",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s4/match-column.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s4/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s4/recall.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-5",
+    "title": "Session 5",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s5/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s5/match-column-2.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s5/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s5/recall.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-6",
+    "title": "Session 6",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s6/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s6/match-column-2.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s6/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s6/recall.json"
+        }
+      },
+      {
+        "text": "MCQ",
+        "queryParams": {
+          "type": "mcq",
+          "path": "s6/mcq.json"
+        }
+      },
+      {
+        "text": "Recognize root",
+        "queryParams": {
+          "type": "recognizeRoot",
+          "path": "s6/recognize-root.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-7",
+    "title": "Session 7",
+    "links": [
+      {
+        "text": "Match the column",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s7/match-column.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s7/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s7/recall.json"
+        }
+      },
+      {
+        "text": "Recognize root",
+        "queryParams": {
+          "type": "recognizeRoot",
+          "path": "s7/recognize-root.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-8",
+    "title": "Session 8",
+    "links": [
+      {
+        "text": "Match the column",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s8/match-column.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s8/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s8/recall.json"
+        }
+      }
+    ]
+  }
+]

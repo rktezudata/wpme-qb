@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Are speeches usually made during obsequies?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Did Margaret Mitchell write a sequel to Gone with the Wind?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Are these numbers in sequence: 5, 6, 7, 8, 9, 10, 11?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Do banks often handle the pecuniary details of an estate?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Is arsenic a noxious chemical?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Do children sometimes imbibe wisdom from their parents?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "If a song is sung in tones of dolor, is it a happy song?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Is a doleful countenance a happy one?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Does a cavalcade contain horses?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "Does a cavalier attitude show a spirit of humility?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "yes",
+    "2": "no",
+    "3": "yes",
+    "4": "yes",
+    "5": "yes",
+    "6": "yes",
+    "7": "no",
+    "8": "no",
+    "9": "yes",
+    "10": "no"
+  }
+}

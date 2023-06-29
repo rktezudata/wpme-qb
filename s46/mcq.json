@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Excessively polite and fawning:",
+      "options": [
+        "querulous",
+        "obsequious",
+        "supercilious"
+      ],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Noisily troublesome:",
+      "options": [
+        "querulous",
+        "impecunious",
+        "obstreperous"
+      ],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Courteous and attentive to women:",
+      "options": [
+        "querulous",
+        "chivalrous",
+        "supercilious"
+      ],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Complaining, nagging:",
+      "options": [
+        "querulous",
+        "supercilious",
+        "innocuous"
+      ],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Haughtily disdainful:",
+      "options": [
+        "supercilious",
+        "bibulous",
+        "dolorous"
+      ],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Gaunt, corpselike:",
+      "options": [
+        "noxious",
+        "cadaverous",
+        "doleful"
+      ],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Highhanded:",
+      "options": [
+        "supercilious",
+        "cavalier",
+        "decadent"
+      ],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Moral decay:",
+      "options": [
+        "decadence",
+        "obsequies",
+        "sequence"
+      ],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Expression of sympathy:",
+      "options": [
+        "bibulousness",
+        "dolefulness",
+        "condolence"
+      ],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "Courtesy to women:",
+      "options": [
+        "dolor",
+        "chivalry",
+        "decadence"
+      ],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "b",
+    "2": "c",
+    "3": "b",
+    "4": "a",
+    "5": "a",
+    "6": "b",
+    "7": "b",
+    "8": "a",
+    "9": "c",
+    "10": "b"
+  }
+}

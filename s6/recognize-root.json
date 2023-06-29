@@ -1,0 +1,166 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "internus",
+      "answer": "",
+      "example": "internist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "paidos (ped-)",
+      "answer": "",
+      "example": "pediatrician",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "pedis",
+      "answer": "",
+      "example": "pedestrian",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "agogos",
+      "answer": "",
+      "example": "pedagogue",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "demos",
+      "answer": "",
+      "example": "demagogue",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "derma",
+      "answer": "",
+      "example": "dermatologist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "hypos",
+      "answer": "",
+      "example": "hypodermic",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "ophthalmos",
+      "answer": "",
+      "example": "ophthalmologist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "oculus",
+      "answer": "",
+      "example": "monocle",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "opsis, optikos",
+      "answer": "",
+      "example": "optician",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "metron",
+      "answer": "",
+      "example": "optometrist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "orthos",
+      "answer": "",
+      "example": "orthopedist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "odontos",
+      "answer": "",
+      "example": "orthodontist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "kardia",
+      "answer": "",
+      "example": "cardiologist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "logos",
+      "answer": "",
+      "example": "anthropologist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "neuron",
+      "answer": "",
+      "example": "neurologist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "17",
+      "question": "algos",
+      "answer": "",
+      "example": "neuralgia",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "18",
+      "question": "psyche",
+      "answer": "",
+      "example": "psychiatrist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "19",
+      "question": "iatreia",
+      "answer": "",
+      "example": "psychiatry",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "20",
+      "question": "geras",
+      "answer": "",
+      "example": "geriatrics",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "inside",
+    "2": "child",
+    "3": "foot",
+    "4": "leading",
+    "5": "people",
+    "6": "skin",
+    "7": "under",
+    "8": "eye",
+    "9": "eye",
+    "10": ["view", "vision", "sight"],
+    "11": "measurement",
+    "12": ["straight", "correct"],
+    "13": "tooth",
+    "14": "heart",
+    "15": ["science", "study"],
+    "16": "nerve",
+    "17": "pain",
+    "18": "mind",
+    "19": "medical healing",
+    "20": "old age"
+  }
+}

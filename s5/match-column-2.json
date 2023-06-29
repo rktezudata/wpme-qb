@@ -1,0 +1,78 @@
+{
+  "columnA": [
+    {
+      "id": "1",
+      "question": "hypodermic",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "epidermis",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "pachyderm",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "dermatitis",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "ophthalmologist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "optometrist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "optician",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "elephant"
+    },
+    {
+      "id": "b",
+      "question": "eye doctor"
+    },
+    {
+      "id": "c",
+      "question": "under the skin"
+    },
+    {
+      "id": "d",
+      "question": "one who measures vision"
+    },
+    {
+      "id": "e",
+      "question": "lens grinder"
+    },
+    {
+      "id": "f",
+      "question": "outer layer of skin"
+    },
+    {
+      "id": "g",
+      "question": "inflammation of the skin"
+    }
+  ],
+  "answers": {
+    "1": "c",
+    "2": "f",
+    "3": "a",
+    "4": "g",
+    "5": "b",
+    "6": "d",
+    "7": "e"
+  }
+}

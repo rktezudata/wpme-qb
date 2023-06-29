@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "specialist who straightens teeth",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "nerve pain",
+      "initialLetter": "N",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "medical specialty dealing with bones and joints",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "medical specialty dealing with emotional disturbances and mental illness",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "inflammation of the nerves",
+      "initialLetter": "N",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "emotional or personality disorder",
+      "initialLetter": "N",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "mentally unbalanced",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "pertaining to the heart",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "specialty dealing with medical problems of the elderly",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "instrument that records heart action",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "record produced by such an instrument",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "orthodontist",
+    "2": "neuralgia",
+    "3": "orthopedics",
+    "4": "psychiatry",
+    "5": "neuritis",
+    "6": "neurosis",
+    "7": "psychotic",
+    "8": "cardiac",
+    "9": "geriatrics",
+    "10": "cardiograph",
+    "11": "cardiogram"
+  }
+}

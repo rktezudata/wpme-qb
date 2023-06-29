@@ -1,0 +1,78 @@
+{
+  "columnA": [
+    {
+      "id": "1",
+      "question": "gynecology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "obstetrics",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "pediatrics",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "pedagogy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "demagoguery",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "dermatology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "taxidermy",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "principles of teaching"
+    },
+    {
+      "id": "b",
+      "question": "stuffing of skins of animals"
+    },
+    {
+      "id": "c",
+      "question": "specialty dealing with the delivery of newborn infants"
+    },
+    {
+      "id": "d",
+      "question": "stirring up discontent among the masses"
+    },
+    {
+      "id": "e",
+      "question": "treatment of skin diseases"
+    },
+    {
+      "id": "f",
+      "question": "specialty dealing with women's diseases"
+    },
+    {
+      "id": "g",
+      "question": "specialty dealing with the treatment of children"
+    }
+  ],
+  "answers": {
+    "1": "f",
+    "2": "c",
+    "3": "g",
+    "4": "a",
+    "5": "d",
+    "6": "e",
+    "7": "b"
+  }
+}

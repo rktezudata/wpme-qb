@@ -1,0 +1,58 @@
+{
+  "columnA": [
+    {
+      "id": "1",
+      "question": "orthopedics",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "orthodontia",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "neuralgia",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "neuritis",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "geriatrics",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "nerve pain"
+    },
+    {
+      "id": "b",
+      "question": "specialty dealing with medical problems of the elderly"
+    },
+    {
+      "id": "c",
+      "question": "straightening of teeth"
+    },
+    {
+      "id": "d",
+      "question": "inflammation of the nerves"
+    },
+    {
+      "id": "e",
+      "question": "treatment of skeletal deformities"
+    }
+  ],
+  "answers": {
+    "1": "e",
+    "2": "c",
+    "3": "a",
+    "4": "d",
+    "5": "b"
+  }
+}

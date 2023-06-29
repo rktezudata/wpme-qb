@@ -1,0 +1,78 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Specialist in female ailments:",
+      "options": ["obstetrician", "gynecologist", "dermatologist"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Specialist in children's diseases:",
+      "options": ["orthopedist", "pediatrician", "internist"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Specialist in eye diseases:",
+      "options": ["cardiologist", "ophthalmologist", "optician"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Specialist in emotional disorders:",
+      "options": ["neurologist", "demagogue", "psychiatrist"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Pertaining to medical treatment of the elderly:",
+      "options": ["neurological", "obstetric", "geriatric"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Straightening of teeth:",
+      "options": ["orthodontia", "orthopedic", "optometry"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Personality disorder:",
+      "options": ["neuritis", "neuralgia", "neurosis"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Mentally unbalanced:",
+      "options": ["neurotic", "psychotic", "cardiac"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Principles of teaching:",
+      "options": ["demagoguery", "pedagogy", "psychosis"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "gynecologist",
+    "2": "pediatrician",
+    "3": "ophthalmologist",
+    "4": "psychiatrist",
+    "5": "geriatric",
+    "6": "orthodontia",
+    "7": "neurosis",
+    "8": "psychotic",
+    "9": "pedagogy"
+  }
+}

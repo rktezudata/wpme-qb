@@ -1,0 +1,142 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "specialty of child delivery",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "outer layer of skin",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "principles of teaching",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "thick-skinned animal",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "skin inflammation",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "one who foments political discontent",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "one who sells optical equipment",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "medical graduate serving his apprenticeship",
+      "initialLetter": "I",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "treatment of childhood diseases",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "practice of stirring up political dissatisfaction for purely personal gain",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "one who stuffs the skins of animals",
+      "initialLetter": "T",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "another title for ophthalmologist",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "treatment of female ailments",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "medical specialty relating to diseases of the eye",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "one-lens eyeglass",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "pertaining to the eye",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "17",
+      "question": "one who measures vision",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "obstetrics",
+    "2": "epidermis",
+    "3": "pedagogy",
+    "4": "pachyderm",
+    "5": "dermatitis",
+    "6": "demagogue",
+    "7": "optician",
+    "8": ["intern", "interne"],
+    "9": "pediatrics",
+    "10": "demagoguery",
+    "11": "taxidermist",
+    "12": "oculist",
+    "13": "gynecology",
+    "14": "ophthalmology",
+    "15": "monocle",
+    "16": "ocular",
+    "17": "optometrist"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "columnA": [
+    {
+      "id": "1",
+      "question": "cardiogram",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "cardiograph",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "neurosis",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "psychosis",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "psychiatry",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "record of heart beats"
+    },
+    {
+      "id": "b",
+      "question": "mental unbalance"
+    },
+    {
+      "id": "c",
+      "question": "emotional disturbance"
+    },
+    {
+      "id": "d",
+      "question": "treatment of personality disorders"
+    },
+    {
+      "id": "e",
+      "question": "instrument for recording heartbeats"
+    }
+  ],
+  "answers": {
+    "1": "a",
+    "2": "e",
+    "3": "c",
+    "4": "b",
+    "5": "d"
+  }
+}

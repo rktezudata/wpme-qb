@@ -202,10 +202,10 @@
         }
       },
       {
-        "text": "Yes/No",
+        "text": "True/False",
         "queryParams": {
           "type": "yes-no",
-          "path": "s6/yes-no.json"
+          "path": "s6/true-false.json"
         }
       },
       {
@@ -243,10 +243,10 @@
         }
       },
       {
-        "text": "Yes/No",
+        "text": "True/False",
         "queryParams": {
           "type": "yes-no",
-          "path": "s7/yes-no.json"
+          "path": "s7/true-false.json"
         }
       },
       {
@@ -308,6 +308,13 @@
         "queryParams": {
           "type": "yes-no",
           "path": "s46/yes-no-2.json"
+        }
+      },
+      {
+        "text": "Same - Opposite",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s46/same-opposite.json"
         }
       },
       {

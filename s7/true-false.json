@@ -61,16 +61,17 @@
       "wrongAnsSelected": false
     }
   ],
+  "answerType": "true-false",
   "answers": {
-    "1": "no",
-    "2": "yes",
-    "3": "yes",
-    "4": "yes",
-    "5": "no",
-    "6": "yes",
-    "7": "no",
-    "8": "no",
-    "9": "yes",
-    "10": "no"
+    "1": "false",
+    "2": "true",
+    "3": "true",
+    "4": "true",
+    "5": "false",
+    "6": "true",
+    "7": "false",
+    "8": "false",
+    "9": "true",
+    "10": "false"
   }
 }

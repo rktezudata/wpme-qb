@@ -79,6 +79,7 @@
       "wrongAnsSelected": false
     }
   ],
+  "answerType": "same-opposite",
   "answers": {
     "1": "same",
     "2": "opposite",

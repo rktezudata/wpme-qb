@@ -79,19 +79,20 @@
       "wrongAnsSelected": false
     }
   ],
+  "answerType": "true-false",
   "answers": {
-    "1": "no",
-    "2": "yes",
-    "3": "yes",
-    "4": "yes",
-    "5": "yes",
-    "6": "no",
-    "7": "no",
-    "8": "yes",
-    "9": "yes",
-    "10": "yes",
-    "11": "yes",
-    "12": "no",
-    "13": "no"
+    "1": "false",
+    "2": "true",
+    "3": "true",
+    "4": "true",
+    "5": "true",
+    "6": "false",
+    "7": "false",
+    "8": "true",
+    "9": "true",
+    "10": "true",
+    "11": "true",
+    "12": "false",
+    "13": "false"
   }
 }

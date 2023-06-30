@@ -1,0 +1,88 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "lupine",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "equine",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "piscine",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "phonetician",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "impotent",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "ubiquity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "reincarnate (v.)",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "incarnate (v.)",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "fishlike"
+		},
+		{
+			"id": "b",
+			"question": "powerless"
+		},
+		{
+			"id": "c",
+			"question": "wolflike"
+		},
+		{
+			"id": "d",
+			"question": "bring back into a new body or form"
+		},
+		{
+			"id": "e",
+			"question": "occurrence, or existence, everywhere"
+		},
+		{
+			"id": "f",
+			"question": "horselike"
+		},
+		{
+			"id": "g",
+			"question": "expert in speech sounds"
+		},
+		{
+			"id": "h",
+			"question": "embody; make real; put into bodily form"
+		}
+	],
+	"answers": {
+		"1": "a",
+		"2": "f",
+		"3": "e",
+		"4": "g",
+		"5": "b",
+		"6": "c",
+		"7": "d",
+		"8": "h"
+	}
+}

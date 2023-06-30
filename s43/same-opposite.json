@@ -2,61 +2,49 @@
   "questions": [
     {
       "id": "1",
-      "question": "simulated - genuine",
+      "question": "enervating-refreshing",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "2",
-      "question": "dissimulate - pretend",
+      "question": "synergistic - neutralizing",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "3",
-      "question": "dissemblebe -  truthful",
+      "question": "castigation - scolding",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "4",
-      "question": "intimation - hint",
+      "question": "self-abnegation - egoism",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "5",
-      "question": "alleviation - reduction",
+      "question": "negate - accept",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "6",
-      "question": "levitate - sink",
+      "question": "decapitate - behead",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "7",
-      "question": "levity - flippancy",
+      "question": "recapitulatory - summarizing",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "8",
-      "question": "vacillation - decisiveness",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "9",
-      "question": "ambivalent - confused",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "10",
-      "question": "oscillate - sway",
+      "question": "capitulate - resist",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     }
@@ -64,14 +52,12 @@
   "answerType": "same-opposite",
   "answers": {
     "1": "opposite",
-    "2": "same",
-    "3": "opposite",
-    "4": "same",
-    "5": "same",
-    "6": "opposite",
+    "2": "opposite",
+    "3": "same",
+    "4": "opposite",
+    "5": "opposite",
+    "6": "same",
     "7": "same",
-    "8": "opposite",
-    "9": "same",
-    "10": "same"
+    "8": "opposite"
   }
 }

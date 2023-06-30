@@ -2,107 +2,107 @@
   "columnA": [
     {
       "id": "1",
-      "question": "enervate",
+      "question": "leonine",
       "wrongAnsSelected": false
     },
     {
       "id": "2",
-      "question": "castigate",
+      "question": "canine",
       "wrongAnsSelected": false
     },
     {
       "id": "3",
-      "question": "self-abnegate",
+      "question": "feline",
       "wrongAnsSelected": false
     },
     {
       "id": "4",
-      "question": "recapitulate",
+      "question": "porcine",
       "wrongAnsSelected": false
     },
     {
       "id": "5",
-      "question": "vegetate",
+      "question": "vulpine",
       "wrongAnsSelected": false
     },
     {
       "id": "6",
-      "question": "simulate",
+      "question": "ursine",
       "wrongAnsSelected": false
     },
     {
       "id": "7",
-      "question": "intimate",
+      "question": "voracious",
       "wrongAnsSelected": false
     },
     {
       "id": "8",
-      "question": "alleviate",
+      "question": "omnipotent",
       "wrongAnsSelected": false
     },
     {
       "id": "9",
-      "question": "commiserate",
+      "question": "omniscient",
       "wrongAnsSelected": false
     },
     {
       "id": "10",
-      "question": "vacillate",
+      "question": "surreptitious",
       "wrongAnsSelected": false
     }
   ],
   "columnB": [
     {
       "id": "a",
-      "question": "deny oneself"
+      "question": "doglike"
     },
     {
       "id": "b",
-      "question": "stagnate"
+      "question": "greedy, devouring"
     },
     {
       "id": "c",
-      "question": "suggest; hint"
+      "question": "foxlike"
     },
     {
       "id": "d",
-      "question": "sympathize"
+      "question": "all-powerful"
     },
     {
       "id": "e",
-      "question": "waver"
+      "question": "stealthy, clandestine"
     },
     {
       "id": "f",
-      "question": "exhaust"
+      "question": "lionlike"
     },
     {
       "id": "g",
-      "question": "lessen; lighten"
+      "question": "all-knowing"
     },
     {
       "id": "h",
-      "question": "summarize"
+      "question": "bearlike"
     },
     {
       "id": "i",
-      "question": "pretend"
+      "question": "catlike"
     },
     {
       "id": "j",
-      "question": "censure; scold; slash at verbally"
+      "question": "piglike"
     }
   ],
   "answers": {
     "1": "f",
-    "2": "j",
-    "3": "a",
-    "4": "h",
-    "5": "b",
-    "6": "i",
-    "7": "c",
-    "8": "g",
-    "9": "d",
+    "2": "a",
+    "3": "i",
+    "4": "j",
+    "5": "c",
+    "6": "h",
+    "7": "b",
+    "8": "d",
+    "9": "g",
     "10": "e"
   }
 }

@@ -1,0 +1,91 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "An omnivorous reader does very little reading.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "A voracious eater is gluttonous.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "True omnipotence is unattainable by human beings.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "No one is omniscient.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "Fear of economic ruin was practically omnipresent in the early nineteen-thirties.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "When an airplane lands for refueling, the ubiquitous little red gasoline wagon comes rolling up.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "An author's omnibus contains all his published writings.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "Carnelian is a deep blue color.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "Carnality is much respected in a puritanical society.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "There is considerable carnage in war.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "A surreptitious glance is meant to be conspicuous.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "A person who is evil incarnate is a vicious character.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answerType": "true-false",
+	"answers": {
+		"1": "false",
+		"2": "true",
+		"3": "true",
+		"4": "true",
+		"5": "true",
+		"6": "true",
+		"7": "true",
+		"8": "false",
+		"9": "false",
+		"10": "true",
+		"11": "false",
+		"12": "true"
+	}
+}

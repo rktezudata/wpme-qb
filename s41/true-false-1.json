@@ -2,76 +2,76 @@
 	"questions": [
 		{
 			"id": "1",
-			"question": "simulated - genuine",
+			"question": "A person of leonine appearance looks like a tiger.",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "2",
-			"question": "dissimulate - pretend",
+			"question": "Canine habits refers to the habits of dogs.",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "3",
-			"question": "dissemblebe -  truthful",
+			"question": "Feline grace means catlike grace.",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "4",
-			"question": "intimation - hint",
+			"question": "Porcine appearance means wolflike appearance.",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "5",
-			"question": "alleviation - reduction",
+			"question": "Vulpine craftiness means foxlike craftiness.",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "6",
-			"question": "levitate - sink",
+			"question": "Ursine means bearlike.",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "7",
-			"question": "levity - flippancy",
+			"question": "Nostalgic feelings refer to a longing for past experiences.",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "8",
-			"question": "vacillation - decisiveness",
+			"question": "Cacophonous music is pleasant and sweet.",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "9",
-			"question": "ambivalent - confused",
+			"question": "An elephant is a carnivore.",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "10",
-			"question": "oscillate - sway",
+			"question": "Deer are herbivorous.",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		}
 	],
-	"answerType": "same-opposite",
+	"answerType": "true-false",
 	"answers": {
-		"1": "opposite",
-		"2": "same",
-		"3": "opposite",
-		"4": "same",
-		"5": "same",
-		"6": "opposite",
-		"7": "same",
-		"8": "opposite",
-		"9": "same",
-		"10": "same"
+		"1": "false",
+		"2": "true",
+		"3": "true",
+		"4": "false",
+		"5": "true",
+		"6": "true",
+		"7": "true",
+		"8": "false",
+		"9": "false",
+		"10": "true"
 	}
 }

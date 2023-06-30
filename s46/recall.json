@@ -1,169 +1,166 @@
 {
-  "questions": [
-    {
-      "id": "1",
-      "question": "harmful",
-      "initialLetter": "N",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "a literary work or an event that follows another",
-      "initialLetter": "S",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "drink in",
-      "initialLetter": "I",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "poetic word for sorrow",
-      "initialLetter": "D",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "burial ceremonies",
-      "initialLetter": "O",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "horseman",
-      "initialLetter": "E",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "horsewoman",
-      "initialLetter": "E",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "8",
-      "question": "horselike",
-      "initialLetter": "E",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "9",
-      "question": "following (adj.)",
-      "initialLetter": "S",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "10",
-      "question": "relating to money (adj.)",
-      "initialLetter": "P",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "11",
-      "question": "exaggeratedly sad",
-      "initialLetter": "D",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "12",
-      "question": "proper order",
-      "initialLetter": "S",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "13",
-      "question": "parade of mounted riders",
-      "initialLetter": "C",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "14",
-      "question": "offhand; unmindful of another's feelings",
-      "initialLetter": "C",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "15",
-      "question": "mounted soldiers",
-      "initialLetter": "C",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "16",
-      "question": "a corpse",
-      "initialLetter": "C",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "17",
-      "question": "morally deteriorating (adj.)",
-      "initialLetter": "D",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "18",
-      "question": "spiritual decay",
-      "initialLetter": "D",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "19",
-      "question": "expression of sympathy",
-      "initialLetter": "C",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "20",
-      "question": "gallantry to women",
-      "initialLetter": "C",
-      "answer": "",
-      "wrongAnsSelected": false
-    }
-  ],
-  "answers": {
-    "1": "noxious",
-    "2": "sequel",
-    "3": "imbibe",
-    "4": "dolor",
-    "5": "obsequies",
-    "6": "equestrian",
-    "7": "equestrienne",
-    "8": "equine",
-    "9": "subsequent",
-    "10": "pecuniary",
-    "11": "doleful",
-    "12": "sequence",
-    "13": "cavalcade",
-    "14": "cavalier",
-    "15": "cavalry",
-    "16": "cadaver",
-    "17": "decadent",
-    "18": "decay",
-    "19": "condolences",
-    "20": [
-      "chivalry",
-      "chivalrousness"
-    ]
-  }
+	"questions": [
+		{
+			"id": "1",
+			"question": "harmful",
+			"initialLetter": "N",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "a literary work or an event that follows another",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "drink in",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "poetic word for sorrow",
+			"initialLetter": "D",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "burial ceremonies",
+			"initialLetter": "O",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "horseman",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "horsewoman",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "horselike",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "following (adj.)",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "relating to money (adj.)",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "exaggeratedly sad",
+			"initialLetter": "D",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "proper order",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "parade of mounted riders",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "14",
+			"question": "offhand; unmindful of another's feelings",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "15",
+			"question": "mounted soldiers",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "16",
+			"question": "a corpse",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "17",
+			"question": "morally deteriorating (adj.)",
+			"initialLetter": "D",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "18",
+			"question": "spiritual decay",
+			"initialLetter": "D",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "19",
+			"question": "expression of sympathy",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "20",
+			"question": "gallantry to women",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "noxious",
+		"2": "sequel",
+		"3": "imbibe",
+		"4": "dolor",
+		"5": "obsequies",
+		"6": "equestrian",
+		"7": "equestrienne",
+		"8": "equine",
+		"9": "subsequent",
+		"10": "pecuniary",
+		"11": "doleful",
+		"12": "sequence",
+		"13": "cavalcade",
+		"14": "cavalier",
+		"15": "cavalry",
+		"16": "cadaver",
+		"17": "decadent",
+		"18": "decay",
+		"19": "condolences",
+		"20": ["chivalry", "chivalrousness"]
+	}
 }

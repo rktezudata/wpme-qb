@@ -1,0 +1,262 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "penuria",
+			"answer": "",
+			"example": "penury",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "fluo",
+			"answer": "",
+			"example": "affluent",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "opulentus",
+			"answer": "",
+			"example": "wealthy",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "ephemera",
+			"answer": "",
+			"example": "ephemeral",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "vanesco",
+			"answer": "",
+			"example": "evanescent",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "pheme",
+			"answer": "",
+			"example": "euphemism",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "phone",
+			"answer": "",
+			"example": "phonetics",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "logos",
+			"answer": "",
+			"example": "eulogy",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "thanatos",
+			"answer": "",
+			"example": "euthanasia",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "platys",
+			"answer": "",
+			"example": "platitude, platypus",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "odyne",
+			"answer": "",
+			"example": "anodyne",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "leo",
+			"answer": "",
+			"example": "leonine",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "felis",
+			"answer": "",
+			"example": "feline",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "14",
+			"question": "porcus",
+			"answer": "",
+			"example": "porcine",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "15",
+			"question": "canis",
+			"answer": "",
+			"example": "canine",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "16",
+			"question": "vulpus",
+			"answer": "",
+			"example": "vulpine",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "17",
+			"question": "lupus",
+			"answer": "",
+			"example": "lupine",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "18",
+			"question": "equus",
+			"answer": "",
+			"example": "equine",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "19",
+			"question": "piscis",
+			"answer": "",
+			"example": "piscine",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "20",
+			"question": "nostos",
+			"answer": "",
+			"example": "nostalgia",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "21",
+			"question": "algos",
+			"answer": "",
+			"example": "nostalgic",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "22",
+			"question": "kakos",
+			"answer": "",
+			"example": "cacophonous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "23",
+			"question": "xylon",
+			"answer": "",
+			"example": "xylophone",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "24",
+			"question": "carnis",
+			"answer": "",
+			"example": "carnivorous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "25",
+			"question": "voro",
+			"answer": "",
+			"example": "omnivorous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "26",
+			"question": "herba",
+			"answer": "",
+			"example": "herbivorous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "27",
+			"question": "omnis",
+			"answer": "",
+			"example": "omnipotent",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "28",
+			"question": "potens, potentis",
+			"answer": "",
+			"example": "impotent",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "29",
+			"question": "sciens",
+			"answer": "",
+			"example": "omniscience",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "30",
+			"question": "ubique",
+			"answer": "",
+			"example": "ubiquitous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "31",
+			"question": "vale!",
+			"answer": "",
+			"example": "carnival",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "32",
+			"question": "clam",
+			"answer": "",
+			"example": "clandestine",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": ["want", "neediness"],
+		"2": "to flow",
+		"3": "wealthy",
+		"4": "dayfly",
+		"5": "to vanish",
+		"6": "voice",
+		"7": "sound",
+		"8": ["word", "speech"],
+		"9": "death",
+		"10": ["flat", "broad"],
+		"11": "pain",
+		"12": "lion",
+		"13": "cat",
+		"14": "pig",
+		"15": "dog",
+		"16": "fox",
+		"17": "wolf",
+		"18": "horse",
+		"19": "fish",
+		"20": "a return",
+		"21": "pain",
+		"22": ["bad", "harsh", "ugly"],
+		"23": "wood",
+		"24": "flesh",
+		"25": "to devour",
+		"26": "herb",
+		"27": "all",
+		"28": "powerful",
+		"29": "knowing",
+		"30": "everywhere",
+		"31": "farewell!",
+		"32": "secretly"
+	}
+}

@@ -1,86 +1,86 @@
 {
-  "questions": [
-    {
-      "id": "1",
-      "question": "sorrowful",
-      "initialLetter": "D",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "servilely attentive; overly polite",
-      "initialLetter": "O",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "haggard; gaunt; pale",
-      "initialLetter": "C",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "complaining; whining",
-      "initialLetter": "Q",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "addicted to alcohol; likely to drink past the point of sobriety",
-      "initialLetter": "B",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "arrogant; haughty",
-      "initialLetter": "S",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "harmless",
-      "initialLetter": "I",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "8",
-      "question": "noisily unmanageable",
-      "initialLetter": "O",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "9",
-      "question": "attentive and courteous to women",
-      "initialLetter": "C",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "10",
-      "question": "short of money; without funds",
-      "initialLetter": "I",
-      "answer": "",
-      "wrongAnsSelected": false
-    }
-  ],
-  "answers": {
-    "1": "dolorous",
-    "2": "obsequious",
-    "3": "cadaverous",
-    "4": "querulous",
-    "5": "bibulous",
-    "6": "supercilious",
-    "7": "innocuous",
-    "8": "obstreperous",
-    "9": "chivalrous",
-    "10": "impecunious"
-  }
+	"questions": [
+		{
+			"id": "1",
+			"question": "sorrowful",
+			"initialLetter": "D",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "servilely attentive; overly polite",
+			"initialLetter": "O",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "haggard; gaunt; pale",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "complaining; whining",
+			"initialLetter": "Q",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "addicted to alcohol; likely to drink past the point of sobriety",
+			"initialLetter": "B",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "arrogant; haughty",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "harmless",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "noisily unmanageable",
+			"initialLetter": "O",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "attentive and courteous to women",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "short of money; without funds",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "dolorous",
+		"2": "obsequious",
+		"3": "cadaverous",
+		"4": "querulous",
+		"5": "bibulous",
+		"6": "supercilious",
+		"7": "innocuous",
+		"8": "obstreperous",
+		"9": "chivalrous",
+		"10": "impecunious"
+	}
 }

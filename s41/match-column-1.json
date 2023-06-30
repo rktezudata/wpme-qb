@@ -2,107 +2,107 @@
 	"columnA": [
 		{
 			"id": "1",
-			"question": "obsequious",
+			"question": "leonine",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "2",
-			"question": "querulous",
+			"question": "canine",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "3",
-			"question": "supercilious",
+			"question": "feline",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "4",
-			"question": "obstreperous",
+			"question": "porcine",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "5",
-			"question": "impecunious",
+			"question": "vulpine",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "6",
-			"question": "chivalrous",
+			"question": "ursine",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "7",
-			"question": "innocuous",
+			"question": "voracious",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "8",
-			"question": "bibulous",
+			"question": "omnipotent",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "9",
-			"question": "cadaverous",
+			"question": "omniscient",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "10",
-			"question": "dolorous",
+			"question": "surreptitious",
 			"wrongAnsSelected": false
 		}
 	],
 	"columnB": [
 		{
 			"id": "a",
-			"question": "snobbish"
+			"question": "doglike"
 		},
 		{
 			"id": "b",
-			"question": "harmless"
+			"question": "greedy, devouring"
 		},
 		{
 			"id": "c",
-			"question": "gaunt"
+			"question": "foxlike"
 		},
 		{
 			"id": "d",
-			"question": "short of funds"
+			"question": "all-powerful"
 		},
 		{
 			"id": "e",
-			"question": "fawning; excessively, ingratiatingly, polite"
+			"question": "stealthy, clandestine"
 		},
 		{
 			"id": "f",
-			"question": "sorrowful"
+			"question": "lionlike"
 		},
 		{
 			"id": "g",
-			"question": "addicted to drink"
+			"question": "all-knowing"
 		},
 		{
 			"id": "h",
-			"question": "courteous to women"
+			"question": "bearlike"
 		},
 		{
 			"id": "i",
-			"question": "complaining"
+			"question": "catlike"
 		},
 		{
 			"id": "j",
-			"question": "unmanageable"
+			"question": "piglike"
 		}
 	],
 	"answers": {
-		"1": "e",
-		"2": "i",
-		"3": "a",
+		"1": "f",
+		"2": "a",
+		"3": "i",
 		"4": "j",
-		"5": "d",
+		"5": "c",
 		"6": "h",
 		"7": "b",
-		"8": "g",
-		"9": "c",
-		"10": "f"
+		"8": "d",
+		"9": "g",
+		"10": "e"
 	}
 }

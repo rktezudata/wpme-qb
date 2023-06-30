@@ -1,0 +1,46 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "secretly",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "secretly",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "in a harsh and noisy manner",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "in a homesick manner",
+			"initialLetter": "N",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "in a greedy, devouring manner",
+			"initialLetter": "V",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "clandestinely",
+		"2": "surreptitiously",
+		"3": "cacophonously",
+		"4": "nostalgically",
+		"5": "voraciously"
+	}
+}

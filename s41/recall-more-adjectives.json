@@ -1,0 +1,54 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "all-powerful",
+			"initialLetter": "O",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "all-knowing",
+			"initialLetter": "O",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "present or existing everywhere",
+			"initialLetter": "O",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "found everywhere",
+			"initialLetter": "U",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "lewd, lascivious, lecherous",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "secret",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "omnipotent",
+		"2": "omniscient",
+		"3": "omnipresent",
+		"4": "ubiquitous",
+		"5": "carnal",
+		"6": "clandestine"
+	}
+}

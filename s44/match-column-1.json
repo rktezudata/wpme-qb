@@ -1,108 +1,108 @@
 {
-  "columnA": [
-    {
-      "id": "1",
-      "question": "simulation",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "dissemble",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "intimation",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "alleviation",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "levitate",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "levity",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "commiseration",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "8",
-      "question": "vacillation",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "9",
-      "question": "ambivalence",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "10",
-      "question": "oscillation",
-      "wrongAnsSelected": false
-    }
-  ],
-  "columnB": [
-    {
-      "id": "a",
-      "question": "hint"
-    },
-    {
-      "id": "b",
-      "question": "flippancy or joking when seriousness is required"
-    },
-    {
-      "id": "c",
-      "question": "a sharing of grief"
-    },
-    {
-      "id": "d",
-      "question": "physical swaying; swinging action, as of a pendulum"
-    },
-    {
-      "id": "e",
-      "question": "a swinging back and forth in indecision"
-    },
-    {
-      "id": "f",
-      "question": "pretense"
-    },
-    {
-      "id": "g",
-      "question": "conflicted and contrary feelings"
-    },
-    {
-      "id": "h",
-      "question": "rise in the air (as by magic or illusion)"
-    },
-    {
-      "id": "i",
-      "question": "pretend"
-    },
-    {
-      "id": "j",
-      "question": "a lightening; a making less severe"
-    }
-  ],
-  "answers": {
-    "1": "f",
-    "2": "i",
-    "3": "a",
-    "4": "j",
-    "5": "h",
-    "6": "b",
-    "7": "c",
-    "8": "e",
-    "9": "g",
-    "10": "d"
-  }
+	"columnA": [
+		{
+			"id": "1",
+			"question": "simulation",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "dissemble",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "intimation",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "alleviation",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "levitate",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "levity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "commiseration",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "vacillation",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "ambivalence",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "oscillation",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "hint"
+		},
+		{
+			"id": "b",
+			"question": "flippancy or joking when seriousness is required"
+		},
+		{
+			"id": "c",
+			"question": "a sharing of grief"
+		},
+		{
+			"id": "d",
+			"question": "physical swaying; swinging action, as of a pendulum"
+		},
+		{
+			"id": "e",
+			"question": "a swinging back and forth in indecision"
+		},
+		{
+			"id": "f",
+			"question": "pretense"
+		},
+		{
+			"id": "g",
+			"question": "conflicted and contrary feelings"
+		},
+		{
+			"id": "h",
+			"question": "rise in the air (as by magic or illusion)"
+		},
+		{
+			"id": "i",
+			"question": "pretend"
+		},
+		{
+			"id": "j",
+			"question": "a lightening; a making less severe"
+		}
+	],
+	"answers": {
+		"1": "f",
+		"2": "i",
+		"3": "a",
+		"4": "j",
+		"5": "h",
+		"6": "b",
+		"7": "c",
+		"8": "e",
+		"9": "g",
+		"10": "d"
+	}
 }

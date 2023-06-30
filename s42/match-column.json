@@ -1,0 +1,108 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "enervate",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "castigate",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "self-abnegate",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "recapitulate",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "vegetate",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "simulate",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "intimate",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "alleviate",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "commiserate",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "vacillate",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "deny oneself"
+		},
+		{
+			"id": "b",
+			"question": "stagnate"
+		},
+		{
+			"id": "c",
+			"question": "suggest; hint"
+		},
+		{
+			"id": "d",
+			"question": "sympathize"
+		},
+		{
+			"id": "e",
+			"question": "waver"
+		},
+		{
+			"id": "f",
+			"question": "exhaust"
+		},
+		{
+			"id": "g",
+			"question": "lessen; lighten"
+		},
+		{
+			"id": "h",
+			"question": "summarize"
+		},
+		{
+			"id": "i",
+			"question": "pretend"
+		},
+		{
+			"id": "j",
+			"question": "censure; scold; slash at verbally"
+		}
+	],
+	"answers": {
+		"1": "f",
+		"2": "j",
+		"3": "a",
+		"4": "h",
+		"5": "b",
+		"6": "i",
+		"7": "c",
+		"8": "g",
+		"9": "d",
+		"10": "e"
+	}
+}

@@ -1,0 +1,86 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "pretend",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "scold",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "sacrifice one's desires",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "waver",
+			"initialLetter": "V",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "exhaust",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "sympathize",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "summarize",
+			"initialLetter": "R",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "lighten",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "hint",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "stagnate",
+			"initialLetter": "V",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "simulate",
+		"2": "castigate",
+		"3": "self-abnegate",
+		"4": "vacillate",
+		"5": "enervate",
+		"6": "commiserate",
+		"7": "recapitulate",
+		"8": "alleviate",
+		"9": "intimate",
+		"10": "vegetate"
+	}
+}

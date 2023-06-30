@@ -1,76 +1,76 @@
 {
-  "questions": [
-    {
-      "id": "1",
-      "question": "Do obsequious people usually command our respect?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "Are querulous people satisfied?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "Are supercilious people usually popular?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "Is a person of affluence impecunious?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "Do some women like chivalrous men?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "Are innocuous people dangerous?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "Is a bibulous character a teetotaler?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "8",
-      "question": "Is a cadaverous-looking individual the picture of health?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "9",
-      "question": "Is a dolorous attitude characteristic of jovial people?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "10",
-      "question": "Is an obstreperous child difficult to manage?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    }
-  ],
-  "answers": {
-    "1": "no",
-    "2": "no",
-    "3": "no",
-    "4": "no",
-    "5": "yes",
-    "6": "no",
-    "7": "no",
-    "8": "no",
-    "9": "no",
-    "10": "yes"
-  }
+	"questions": [
+		{
+			"id": "1",
+			"question": "Do obsequious people usually command our respect?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "Are querulous people satisfied?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "Are supercilious people usually popular?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "Is a person of affluence impecunious?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "Do some women like chivalrous men?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "Are innocuous people dangerous?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "Is a bibulous character a teetotaler?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "Is a cadaverous-looking individual the picture of health?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "Is a dolorous attitude characteristic of jovial people?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "Is an obstreperous child difficult to manage?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "no",
+		"2": "no",
+		"3": "no",
+		"4": "no",
+		"5": "yes",
+		"6": "no",
+		"7": "no",
+		"8": "no",
+		"9": "no",
+		"10": "yes"
+	}
 }

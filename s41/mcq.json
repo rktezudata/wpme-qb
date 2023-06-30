@@ -1,0 +1,158 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "Utter want:",
+			"options": ["affluence", "opulence", "penury"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "Experienced secondhand:",
+			"options": ["ephemeral", "vicarious", "evanescent"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "Inoffensive circumlocution:",
+			"options": ["badinage", "persiflage", "euphemism"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "Homesick:",
+			"options": ["nostalgic", "bromide", "clandestine"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "Meat-eating:",
+			"options": ["herbivorous", "voracious", "carnivorous"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "Stingy:",
+			"options": ["indigent", "parsimonious", "opulent"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "Extreme financial need:",
+			"options": ["destitution", "affluence", "parsimony"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "Great and increasing wealth:",
+			"options": ["periuriousness", "affluence", "omnipresence"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "Remaining for a short time:",
+			"options": ["euphemistic", "evanescent", "eulogistic"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "Sweet-sounding:",
+			"options": ["euphonious", "cacophonous", "euphoric"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "Praise glowingly:",
+			"options": ["evanesce", "eulogize", "reincarnate"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "Sense of physical well-being:",
+			"options": ["euthanasia", "euphoria", "persiflage"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "Hackneyed expression:",
+			"options": ["anodyne", "badinage", "cliche"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "14",
+			"question": "Catlike:",
+			"options": ["leonine", "feline", "canine"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "15",
+			"question": "Bearlike:",
+			"options": ["vulpine", "ursine", "porcine"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "16",
+			"question": "All-knowing:",
+			"options": ["omnipotent", "omniscient", "omnipresent"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "17",
+			"question": "Found everywhere:",
+			"options": ["ubiquitous", "omnivorous", "omnibus"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "18",
+			"question": "Destruction:",
+			"options": ["carnage", "carnality", "reincarnation"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "19",
+			"question": "Stealthy:",
+			"options": ["voracious", "surreptitious", "incarnate"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "c",
+		"2": "b",
+		"3": "c",
+		"4": "a",
+		"5": "c",
+		"6": "b",
+		"7": "a",
+		"8": "b",
+		"9": "b",
+		"10": "a",
+		"11": "b",
+		"12": "b",
+		"13": "c",
+		"14": "b",
+		"15": "b",
+		"16": "b",
+		"17": "a",
+		"18": "a",
+		"19": "b"
+	}
+}

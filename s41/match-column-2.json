@@ -1,0 +1,78 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "nostalgic",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "cacophonous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "herbivorous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "omnivorous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "ubiquitous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "carnal",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "incarnate",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "harsh-sounding"
+		},
+		{
+			"id": "b",
+			"question": "eating everything"
+		},
+		{
+			"id": "c",
+			"question": "lewd, lecherous, lubricious"
+		},
+		{
+			"id": "d",
+			"question": "found everywhere"
+		},
+		{
+			"id": "e",
+			"question": "homesick"
+		},
+		{
+			"id": "f",
+			"question": "grass-eating"
+		},
+		{
+			"id": "g",
+			"question": "in the flesh"
+		}
+	],
+	"answers": {
+		"1": "e",
+		"2": "a",
+		"3": "f",
+		"4": "b",
+		"5": "d",
+		"6": "c",
+		"7": "g"
+	}
+}

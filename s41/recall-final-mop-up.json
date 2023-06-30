@@ -1,0 +1,86 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "wolftike",
+			"initialLetter": "L",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "horselike",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "fishlike",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "referring to speech sounds",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "expert in speech sounds",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "powerless",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "existence everywhere",
+			"initialLetter": "U",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "existence everywhere",
+			"initialLetter": "U",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "to bring back into another body or form",
+			"initialLetter": "R",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "to embody, make real, or put into bodily form",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "lupine",
+		"2": "equine",
+		"3": "piscine",
+		"4": "phonetic",
+		"5": "phonetician",
+		"6": "impotent",
+		"7": ["ubiquity", "ubiquitousness"],
+		"8": "omnipresence",
+		"9": "reincarnate",
+		"10": "incarnate"
+	}
+}

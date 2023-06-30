@@ -1,0 +1,110 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "lionlike",
+			"initialLetter": "L",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "doglike",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "catlike",
+			"initialLetter": "F",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "cowlike",
+			"initialLetter": "B",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "foxlike",
+			"initialLetter": "V",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "bearlike",
+			"initialLetter": "U",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "homesick",
+			"initialLetter": "N",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "grating in sound",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "meat-eating",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "grass-eating",
+			"initialLetter": "H",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "all-eating; indiscriminate",
+			"initialLetter": "O",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "devouring; greedy",
+			"initialLetter": "V",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "in the flesh",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "leonine",
+		"2": "canine",
+		"3": "feline",
+		"4": "bovine",
+		"5": "vulpine",
+		"6": "ursine",
+		"7": "nostalgic",
+		"8": "cacophonous",
+		"9": "carnivorous",
+		"10": "herbivorous",
+		"11": "omnivorous",
+		"12": "voracious",
+		"13": "incarnate"
+	}
+}

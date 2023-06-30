@@ -1,76 +1,76 @@
 {
-  "questions": [
-    {
-      "id": "1",
-      "question": "Is a cavalry officer usually a good horseman?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "Would an equestrian statue of General Grant show him with or on a horse?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "Is an equestrienne a man?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "Do humans possess many equine characteristics?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "Is a cadaver alive?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "Is an iconoclast likely to consider religion a decadent institution?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "Is decadence a desirable quality?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "8",
-      "question": "Is chivalry dead?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "9",
-      "question": "Is it appropriate to condole with someone who has suffered a loss through death?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "10",
-      "question": "Are condolences appropriate at a wedding ceremony?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    }
-  ],
-  "answers": {
-    "1": "yes",
-    "2": "yes",
-    "3": "no",
-    "4": "no",
-    "5": "no",
-    "6": "yes",
-    "7": "no",
-    "8": "yes",
-    "9": "yes",
-    "10": "no"
-  }
+	"questions": [
+		{
+			"id": "1",
+			"question": "Is a cavalry officer usually a good horseman?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "Would an equestrian statue of General Grant show him with or on a horse?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "Is an equestrienne a man?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "Do humans possess many equine characteristics?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "Is a cadaver alive?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "Is an iconoclast likely to consider religion a decadent institution?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "Is decadence a desirable quality?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "Is chivalry dead?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "Is it appropriate to condole with someone who has suffered a loss through death?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "Are condolences appropriate at a wedding ceremony?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "yes",
+		"2": "yes",
+		"3": "no",
+		"4": "no",
+		"5": "no",
+		"6": "yes",
+		"7": "no",
+		"8": "yes",
+		"9": "yes",
+		"10": "no"
+	}
 }

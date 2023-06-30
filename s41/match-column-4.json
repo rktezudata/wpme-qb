@@ -2,87 +2,87 @@
 	"columnA": [
 		{
 			"id": "1",
-			"question": "enervation",
+			"question": "lupine",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "2",
-			"question": "synergism, synergy",
+			"question": "equine",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "3",
-			"question": "castigation",
+			"question": "piscine",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "4",
-			"question": "self-abnegation",
+			"question": "phonetician",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "5",
-			"question": "negation",
+			"question": "impotent",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "6",
-			"question": "decapitation",
+			"question": "ubiquity",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "7",
-			"question": "recapitulation",
+			"question": "reincarnate (v.)",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "8",
-			"question": "capitulation",
+			"question": "incarnate (v.)",
 			"wrongAnsSelected": false
 		}
 	],
 	"columnB": [
 		{
 			"id": "a",
-			"question": "tongue-lashing"
+			"question": "fishlike"
 		},
 		{
 			"id": "b",
-			"question": "denial; destruction"
+			"question": "powerless"
 		},
 		{
 			"id": "c",
-			"question": "a lopping off of one's head"
+			"question": "wolflike"
 		},
 		{
 			"id": "d",
-			"question": "summary; review of main points"
+			"question": "bring back into a new body or form"
 		},
 		{
 			"id": "e",
-			"question": "self-denial"
+			"question": "occurrence, or existence, everywhere"
 		},
 		{
 			"id": "f",
-			"question": "utter exhaustion; mental, emotional, and physical drain"
+			"question": "horselike"
 		},
 		{
 			"id": "g",
-			"question": "a working together for greater effect"
+			"question": "expert in speech sounds"
 		},
 		{
 			"id": "h",
-			"question": "surrender"
+			"question": "embody; make real; put into bodily form"
 		}
 	],
 	"answers": {
-		"1": "f",
-		"2": "h",
-		"3": "a",
-		"4": "e",
+		"1": "a",
+		"2": "f",
+		"3": "e",
+		"4": "g",
 		"5": "b",
 		"6": "c",
 		"7": "d",
-		"8": "g"
+		"8": "h"
 	}
 }

@@ -1,208 +1,208 @@
 {
-  "columnA": [
-    {
-      "id": "1",
-      "question": "obsequies",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "subsequent",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "sequel",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "sequence",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "pecuniary",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "noxious",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "imbibe",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "8",
-      "question": "dolor",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "9",
-      "question": "doleful",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "10",
-      "question": "cavalcade",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "11",
-      "question": "cavalier (adj.)",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "12",
-      "question": "cavalry",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "13",
-      "question": "equestrian",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "14",
-      "question": "equestrienne",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "15",
-      "question": "equine",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "16",
-      "question": "cadaver",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "17",
-      "question": "decadent",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "18",
-      "question": "decadence",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "19",
-      "question": "chivalry",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "20",
-      "question": "condolence",
-      "wrongAnsSelected": false
-    }
-  ],
-  "columnB": [
-    {
-      "id": "a",
-      "question": "proper order"
-    },
-    {
-      "id": "b",
-      "question": "drink; absorb; take in"
-    },
-    {
-      "id": "c",
-      "question": "harmful, poiSonous"
-    },
-    {
-      "id": "d",
-      "question": "pain, sorrow (poetic)"
-    },
-    {
-      "id": "e",
-      "question": "coming later or afterward"
-    },
-    {
-      "id": "f",
-      "question": "procession of mounted riders"
-    },
-    {
-      "id": "g",
-      "question": "offhand, haughty"
-    },
-    {
-      "id": "h",
-      "question": "a following event or literary work"
-    },
-    {
-      "id": "i",
-      "question": "horsewoman"
-    },
-    {
-      "id": "j",
-      "question": "pertaining to money"
-    },
-    {
-      "id": "k",
-      "question": "mounted military division; soldiers on horseback"
-    },
-    {
-      "id": "l",
-      "question": "funeral rites"
-    },
-    {
-      "id": "m",
-      "question": "exaggeratedly sorrowful"
-    },
-    {
-      "id": "n",
-      "question": "horselike"
-    },
-    {
-      "id": "o",
-      "question": "horseman"
-    },
-    {
-      "id": "p",
-      "question": "spiritual decline"
-    },
-    {
-      "id": "q",
-      "question": "morally decaying"
-    },
-    {
-      "id": "r",
-      "question": "corpse"
-    },
-    {
-      "id": "s",
-      "question": "expression of sympathy"
-    },
-    {
-      "id": "t",
-      "question": "gallant courtesy to women"
-    }
-  ],
-  "answers": {
-    "1": "l",
-    "2": "e",
-    "3": "h",
-    "4": "a",
-    "5": "j",
-    "6": "c",
-    "7": "b",
-    "8": "d",
-    "9": "m",
-    "10": "f",
-    "11": "g",
-    "12": "k",
-    "13": "o",
-    "14": "i",
-    "15": "n",
-    "16": "r",
-    "17": "q",
-    "18": "p",
-    "19": "t",
-    "20": "s"
-  }
+	"columnA": [
+		{
+			"id": "1",
+			"question": "obsequies",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "subsequent",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "sequel",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "sequence",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "pecuniary",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "noxious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "imbibe",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "dolor",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "doleful",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "cavalcade",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "cavalier (adj.)",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "cavalry",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "equestrian",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "14",
+			"question": "equestrienne",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "15",
+			"question": "equine",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "16",
+			"question": "cadaver",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "17",
+			"question": "decadent",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "18",
+			"question": "decadence",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "19",
+			"question": "chivalry",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "20",
+			"question": "condolence",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "proper order"
+		},
+		{
+			"id": "b",
+			"question": "drink; absorb; take in"
+		},
+		{
+			"id": "c",
+			"question": "harmful, poiSonous"
+		},
+		{
+			"id": "d",
+			"question": "pain, sorrow (poetic)"
+		},
+		{
+			"id": "e",
+			"question": "coming later or afterward"
+		},
+		{
+			"id": "f",
+			"question": "procession of mounted riders"
+		},
+		{
+			"id": "g",
+			"question": "offhand, haughty"
+		},
+		{
+			"id": "h",
+			"question": "a following event or literary work"
+		},
+		{
+			"id": "i",
+			"question": "horsewoman"
+		},
+		{
+			"id": "j",
+			"question": "pertaining to money"
+		},
+		{
+			"id": "k",
+			"question": "mounted military division; soldiers on horseback"
+		},
+		{
+			"id": "l",
+			"question": "funeral rites"
+		},
+		{
+			"id": "m",
+			"question": "exaggeratedly sorrowful"
+		},
+		{
+			"id": "n",
+			"question": "horselike"
+		},
+		{
+			"id": "o",
+			"question": "horseman"
+		},
+		{
+			"id": "p",
+			"question": "spiritual decline"
+		},
+		{
+			"id": "q",
+			"question": "morally decaying"
+		},
+		{
+			"id": "r",
+			"question": "corpse"
+		},
+		{
+			"id": "s",
+			"question": "expression of sympathy"
+		},
+		{
+			"id": "t",
+			"question": "gallant courtesy to women"
+		}
+	],
+	"answers": {
+		"1": "l",
+		"2": "e",
+		"3": "h",
+		"4": "a",
+		"5": "j",
+		"6": "c",
+		"7": "b",
+		"8": "d",
+		"9": "m",
+		"10": "f",
+		"11": "g",
+		"12": "k",
+		"13": "o",
+		"14": "i",
+		"15": "n",
+		"16": "r",
+		"17": "q",
+		"18": "p",
+		"19": "t",
+		"20": "s"
+	}
 }

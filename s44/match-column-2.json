@@ -1,78 +1,78 @@
 {
-  "columnA": [
-    {
-      "id": "1",
-      "question": "dissimulate",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "dissemblance",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "alleviative",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "levitation",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "vacillatory",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "ambivalent",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "oscillate",
-      "wrongAnsSelected": false
-    }
-  ],
-  "columnB": [
-    {
-      "id": "a",
-      "question": "pretense of ignorance"
-    },
-    {
-      "id": "b",
-      "question": "a rising and floating in air"
-    },
-    {
-      "id": "c",
-      "question": "having simultaneous and contrary feelings"
-    },
-    {
-      "id": "d",
-      "question": "tending to swing back and forth in indecision"
-    },
-    {
-      "id": "e",
-      "question": "to swing back and forth like a pendulum"
-    },
-    {
-      "id": "f",
-      "question": "to hide real feelings by pretending opposite feelings"
-    },
-    {
-      "id": "g",
-      "question": "tending to ease (pain, burdens, suffering, etc.)"
-    }
-  ],
-  "answers": {
-    "1": "f",
-    "2": "a",
-    "3": "g",
-    "4": "b",
-    "5": "d",
-    "6": "c",
-    "7": "e"
-  }
+	"columnA": [
+		{
+			"id": "1",
+			"question": "dissimulate",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "dissemblance",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "alleviative",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "levitation",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "vacillatory",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "ambivalent",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "oscillate",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "pretense of ignorance"
+		},
+		{
+			"id": "b",
+			"question": "a rising and floating in air"
+		},
+		{
+			"id": "c",
+			"question": "having simultaneous and contrary feelings"
+		},
+		{
+			"id": "d",
+			"question": "tending to swing back and forth in indecision"
+		},
+		{
+			"id": "e",
+			"question": "to swing back and forth like a pendulum"
+		},
+		{
+			"id": "f",
+			"question": "to hide real feelings by pretending opposite feelings"
+		},
+		{
+			"id": "g",
+			"question": "tending to ease (pain, burdens, suffering, etc.)"
+		}
+	],
+	"answers": {
+		"1": "f",
+		"2": "a",
+		"3": "g",
+		"4": "b",
+		"5": "d",
+		"6": "c",
+		"7": "e"
+	}
 }

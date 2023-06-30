@@ -1,77 +1,77 @@
 {
-  "questions": [
-    {
-      "id": "1",
-      "question": "enervated - exhilarated",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "castigate - praise",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "self-abnegate - deny oneself",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "recapitulate - summarize",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "vegetate - stagnate",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "simulate - pretend",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "intimate - hint",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "8",
-      "question": "alleviate - make worse",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "9",
-      "question": "commiserate - sympathize",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "10",
-      "question": "vacillate - decide",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    }
-  ],
-  "answerType": "same-opposite",
-  "answers": {
-    "1": "opposite",
-    "2": "opposite",
-    "3": "same",
-    "4": "same",
-    "5": "same",
-    "6": "same",
-    "7": "same",
-    "8": "opposite",
-    "9": "same",
-    "10": "opposite"
-  }
+	"questions": [
+		{
+			"id": "1",
+			"question": "enervated - exhilarated",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "castigate - praise",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "self-abnegate - deny oneself",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "recapitulate - summarize",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "vegetate - stagnate",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "simulate - pretend",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "intimate - hint",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "alleviate - make worse",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "commiserate - sympathize",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "vacillate - decide",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answerType": "same-opposite",
+	"answers": {
+		"1": "opposite",
+		"2": "opposite",
+		"3": "same",
+		"4": "same",
+		"5": "same",
+		"6": "same",
+		"7": "same",
+		"8": "opposite",
+		"9": "same",
+		"10": "opposite"
+	}
 }

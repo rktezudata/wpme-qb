@@ -1,108 +1,108 @@
 {
-  "columnA": [
-    {
-      "id": "1",
-      "question": "leonine",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "canine",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "feline",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "porcine",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "vulpine",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "ursine",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "voracious",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "8",
-      "question": "omnipotent",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "9",
-      "question": "omniscient",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "10",
-      "question": "surreptitious",
-      "wrongAnsSelected": false
-    }
-  ],
-  "columnB": [
-    {
-      "id": "a",
-      "question": "doglike"
-    },
-    {
-      "id": "b",
-      "question": "greedy, devouring"
-    },
-    {
-      "id": "c",
-      "question": "foxlike"
-    },
-    {
-      "id": "d",
-      "question": "all-powerful"
-    },
-    {
-      "id": "e",
-      "question": "stealthy, clandestine"
-    },
-    {
-      "id": "f",
-      "question": "lionlike"
-    },
-    {
-      "id": "g",
-      "question": "all-knowing"
-    },
-    {
-      "id": "h",
-      "question": "bearlike"
-    },
-    {
-      "id": "i",
-      "question": "catlike"
-    },
-    {
-      "id": "j",
-      "question": "piglike"
-    }
-  ],
-  "answers": {
-    "1": "f",
-    "2": "a",
-    "3": "i",
-    "4": "j",
-    "5": "c",
-    "6": "h",
-    "7": "b",
-    "8": "d",
-    "9": "g",
-    "10": "e"
-  }
+	"columnA": [
+		{
+			"id": "1",
+			"question": "leonine",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "canine",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "feline",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "porcine",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "vulpine",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "ursine",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "voracious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "omnipotent",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "omniscient",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "surreptitious",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "doglike"
+		},
+		{
+			"id": "b",
+			"question": "greedy, devouring"
+		},
+		{
+			"id": "c",
+			"question": "foxlike"
+		},
+		{
+			"id": "d",
+			"question": "all-powerful"
+		},
+		{
+			"id": "e",
+			"question": "stealthy, clandestine"
+		},
+		{
+			"id": "f",
+			"question": "lionlike"
+		},
+		{
+			"id": "g",
+			"question": "all-knowing"
+		},
+		{
+			"id": "h",
+			"question": "bearlike"
+		},
+		{
+			"id": "i",
+			"question": "catlike"
+		},
+		{
+			"id": "j",
+			"question": "piglike"
+		}
+	],
+	"answers": {
+		"1": "f",
+		"2": "a",
+		"3": "i",
+		"4": "j",
+		"5": "c",
+		"6": "h",
+		"7": "b",
+		"8": "d",
+		"9": "g",
+		"10": "e"
+	}
 }

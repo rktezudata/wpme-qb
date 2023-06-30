@@ -1,89 +1,88 @@
 {
-  "columnA": [
-    {
-      "id": "1",
-      "question": "enervation",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "synergism, synergy",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "castigation",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "self-abnegation",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "negation",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "decapitation",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "recapitulation",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "8",
-      "question": "capitulation",
-      "wrongAnsSelected": false
-    }
-  ],
-  "columnB": [
-    {
-      "id": "a",
-      "question": "tongue-lashing"
-      
-    },
-    {
-      "id": "b",
-      "question": "denial; destruction"
-    },
-    {
-      "id": "c",
-      "question": "a lopping off of one's head"
-    },
-    {
-      "id": "d",
-      "question": "summary; review of main points"
-    },
-    {
-      "id": "e",
-      "question": "self-denial"
-    },
-    {
-      "id": "f",
-      "question": "utter exhaustion; mental, emotional, and physical drain"
-    },
-    {
-      "id": "g",
-      "question": "a working together for greater effect"
-    },
-    {
-      "id": "h",
-      "question": "surrender"
-    }
-  ],
-  "answers": {
-    "1": "f",
-    "2": "h",
-    "3": "a",
-    "4": "e",
-    "5": "b",
-    "6": "c",
-    "7": "d",
-    "8": "g"
-  }
+	"columnA": [
+		{
+			"id": "1",
+			"question": "enervation",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "synergism, synergy",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "castigation",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "self-abnegation",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "negation",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "decapitation",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "recapitulation",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "capitulation",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "tongue-lashing"
+		},
+		{
+			"id": "b",
+			"question": "denial; destruction"
+		},
+		{
+			"id": "c",
+			"question": "a lopping off of one's head"
+		},
+		{
+			"id": "d",
+			"question": "summary; review of main points"
+		},
+		{
+			"id": "e",
+			"question": "self-denial"
+		},
+		{
+			"id": "f",
+			"question": "utter exhaustion; mental, emotional, and physical drain"
+		},
+		{
+			"id": "g",
+			"question": "a working together for greater effect"
+		},
+		{
+			"id": "h",
+			"question": "surrender"
+		}
+	],
+	"answers": {
+		"1": "f",
+		"2": "h",
+		"3": "a",
+		"4": "e",
+		"5": "b",
+		"6": "c",
+		"7": "d",
+		"8": "g"
+	}
 }

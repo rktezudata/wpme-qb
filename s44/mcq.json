@@ -1,117 +1,78 @@
 {
-  "questions": [
-    {
-      "id": "1",
-      "question": "Complete exhaustion:",
-      "options": [
-        "synergism",
-        "enervation",
-        "negation"
-      ],
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "Co-operation in producing effects:",
-      "options": [
-        "synergy",
-        "castigation",
-        "capitulation"
-      ],
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "Lop off the head of:",
-      "options": [
-        "castigate",
-        "capitulate",
-        "decapitate"
-      ],
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "Deny; render ineffective:",
-      "options": [
-        "castigate",
-        "negate",
-        "recapitulate"
-      ],
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "Stagnate:",
-      "options": [
-        "intimate",
-        "simulate",
-        "vegetate"
-      ],
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "Concealment of true feelings:",
-      "options": [
-        "simulation",
-        "dissimulation",
-        "dissemblance"
-      ],
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "Sympathy:",
-      "options": [
-        "levity",
-        "ambivalence",
-        "commiseration"
-      ],
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "8",
-      "question": "Indecisiveness:",
-      "options": [
-        "vacillation",
-        "oscillation",
-        "dissimulation"
-      ],
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "9",
-      "question": "Aware of contrary feelings:",
-      "options": [
-        "alleviative",
-        "dissimulating",
-        "ambivalent"
-      ],
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    }
-  ],
-  "answers": {
-    "1": "b",
-    "2": "a",
-    "3": "c",
-    "4": "b",
-    "5": "c",
-    "6": [
-      "b",
-      "c"
-    ],
-    "7": "c",
-    "8": "a",
-    "9": "c"
-  }
+	"questions": [
+		{
+			"id": "1",
+			"question": "Complete exhaustion:",
+			"options": ["synergism", "enervation", "negation"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "Co-operation in producing effects:",
+			"options": ["synergy", "castigation", "capitulation"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "Lop off the head of:",
+			"options": ["castigate", "capitulate", "decapitate"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "Deny; render ineffective:",
+			"options": ["castigate", "negate", "recapitulate"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "Stagnate:",
+			"options": ["intimate", "simulate", "vegetate"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "Concealment of true feelings:",
+			"options": ["simulation", "dissimulation", "dissemblance"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "Sympathy:",
+			"options": ["levity", "ambivalence", "commiseration"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "Indecisiveness:",
+			"options": ["vacillation", "oscillation", "dissimulation"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "Aware of contrary feelings:",
+			"options": ["alleviative", "dissimulating", "ambivalent"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "b",
+		"2": "a",
+		"3": "c",
+		"4": "b",
+		"5": "c",
+		"6": ["b", "c"],
+		"7": "c",
+		"8": "a",
+		"9": "c"
+	}
 }

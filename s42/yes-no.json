@@ -1,76 +1,76 @@
 {
-  "questions": [
-  {
-      "id": "1",
-      "question": "Should you feel enervated after a good night's sleep?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-  },
-  {
-      "id": "2",
-      "question": "Do motorists who have been caught speeding sometimes start castigating the traffic officer?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-  },
-  {
-      "id": "3",
-      "question": "Do people who are completely self-abnegating say 'No!' to their needs and desires?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-  },
-  {
-      "id": "4",
-      "question": "When you recapitulate, do you cover new material?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-  },
-  {
-      "id": "5",
-      "question": "Do people possessed of joie de vivre usually feel that they are vegetating?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-  },
-  {
-      "id": "6",
-      "question": "When you simulate alertness, do you purposely act somnolent?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-  },
-  {
-      "id": "7",
-      "question": "When you intimate, do you make a direct statement?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-  },
-  {
-      "id": "8",
-      "question": "Does aspirin often have an alleviating effect on pain?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-  },
-  {
-      "id": "9",
-      "question": "Do we naturally commiserate with people who have suffered a bereavement?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-  },
-  {
-      "id": "10",
-      "question": "Do decisive people often vacillate?",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-  }
-],
-"answers": {
-  "1": "no",
-  "2": "yes",
-  "3": "yes",
-  "4": "no",
-  "5": "no",
-  "6": "no",
-  "7": "no",
-  "8": "yes",
-  "9": "yes",
-  "10": "no"
-}
+	"questions": [
+		{
+			"id": "1",
+			"question": "Should you feel enervated after a good night's sleep?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "Do motorists who have been caught speeding sometimes start castigating the traffic officer?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "Do people who are completely self-abnegating say 'No!' to their needs and desires?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "When you recapitulate, do you cover new material?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "Do people possessed of joie de vivre usually feel that they are vegetating?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "When you simulate alertness, do you purposely act somnolent?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "When you intimate, do you make a direct statement?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "Does aspirin often have an alleviating effect on pain?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "Do we naturally commiserate with people who have suffered a bereavement?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "Do decisive people often vacillate?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "no",
+		"2": "yes",
+		"3": "yes",
+		"4": "no",
+		"5": "no",
+		"6": "no",
+		"7": "no",
+		"8": "yes",
+		"9": "yes",
+		"10": "no"
+	}
 }

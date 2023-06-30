@@ -1,86 +1,86 @@
 {
-  "questions": [
-    {
-      "id": "1",
-      "question": "to give in",
-      "initialLetter": "C",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "working together for greater effect (adj.)",
-      "initialLetter": "S",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "total fatigue",
-      "initialLetter": "E",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "for the purpose of summarizing or review (adj.)",
-      "initialLetter": "R",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "self-denial",
-      "initialLetter": "S",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "deny; render ineffective; nullify",
-      "initialLetter": "N",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "process by which two or more substances produce a greater effect than the sum of the individual effects",
-      "initialLetter": "S",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "8",
-      "question": "to cut off the head of",
-      "initialLetter": "D",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "9",
-      "question": "strong censure",
-      "initialLetter": "C",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "10",
-      "question": "to surrender",
-      "initialLetter": "C",
-      "answer": "",
-      "wrongAnsSelected": false
-    }
-  ],
-  "answers": {
-    "1": "capitulate",
-    "2": "synergistic",
-    "3": "enervation",
-    "4": "recapitulatory",
-    "5": "self-abnegation",
-    "6": "negate",
-    "7": ["synergism", "synergy"],
-    "8": "decapitate",
-    "9": "castigation",
-    "10": "capitulate"
-  }
+	"questions": [
+		{
+			"id": "1",
+			"question": "to give in",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "working together for greater effect (adj.)",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "total fatigue",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "for the purpose of summarizing or review (adj.)",
+			"initialLetter": "R",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "self-denial",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "deny; render ineffective; nullify",
+			"initialLetter": "N",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "process by which two or more substances produce a greater effect than the sum of the individual effects",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "to cut off the head of",
+			"initialLetter": "D",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "strong censure",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "to surrender",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "capitulate",
+		"2": "synergistic",
+		"3": "enervation",
+		"4": "recapitulatory",
+		"5": "self-abnegation",
+		"6": "negate",
+		"7": ["synergism", "synergy"],
+		"8": "decapitate",
+		"9": "castigation",
+		"10": "capitulate"
+	}
 }

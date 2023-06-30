@@ -1,63 +1,63 @@
 {
-  "questions": [
-    {
-      "id": "1",
-      "question": "enervating-refreshing",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "synergistic - neutralizing",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "castigation - scolding",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "self-abnegation - egoism",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "negate - accept",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "decapitate - behead",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "recapitulatory - summarizing",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "8",
-      "question": "capitulate - resist",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    }
-  ],
-  "answerType": "same-opposite",
-  "answers": {
-    "1": "opposite",
-    "2": "opposite",
-    "3": "same",
-    "4": "opposite",
-    "5": "opposite",
-    "6": "same",
-    "7": "same",
-    "8": "opposite"
-  }
+	"questions": [
+		{
+			"id": "1",
+			"question": "enervating-refreshing",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "synergistic - neutralizing",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "castigation - scolding",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "self-abnegation - egoism",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "negate - accept",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "decapitate - behead",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "recapitulatory - summarizing",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "capitulate - resist",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answerType": "same-opposite",
+	"answers": {
+		"1": "opposite",
+		"2": "opposite",
+		"3": "same",
+		"4": "opposite",
+		"5": "opposite",
+		"6": "same",
+		"7": "same",
+		"8": "opposite"
+	}
 }

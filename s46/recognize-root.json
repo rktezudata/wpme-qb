@@ -1,86 +1,86 @@
 {
-  "questions": [
-    {
-      "id": "1",
-      "question": "sequor",
-      "answer": "",
-      "example": "subsequent",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "queror",
-      "answer": "",
-      "example": "querulous",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "cilium",
-      "answer": "",
-      "example": "supercilious",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "super",
-      "answer": "",
-      "example": "supervision",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "strepo",
-      "answer": "",
-      "example": "obstreperous",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "pecus",
-      "answer": "",
-      "example": "pecuniary",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "cheval",
-      "answer": "",
-      "example": "chivalry",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "8",
-      "question": "caballus (caval-)",
-      "answer": "",
-      "example": "cavalier",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "9",
-      "question": "equus",
-      "answer": "",
-      "example": "equine",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "10",
-      "question": "cado",
-      "answer": "",
-      "example": "decadence",
-      "wrongAnsSelected": false
-    }
-  ],
-  "answers": {
-    "1": "to follow",
-    "2": "to complain",
-    "3": "eyelid",
-    "4": "above",
-    "5": "to make a noise",
-    "6": "cattle",
-    "7": "horse",
-    "8": "horse",
-    "9": "horse",
-    "10": "to fall"
-  }
+	"questions": [
+		{
+			"id": "1",
+			"question": "sequor",
+			"answer": "",
+			"example": "subsequent",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "queror",
+			"answer": "",
+			"example": "querulous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "cilium",
+			"answer": "",
+			"example": "supercilious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "super",
+			"answer": "",
+			"example": "supervision",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "strepo",
+			"answer": "",
+			"example": "obstreperous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "pecus",
+			"answer": "",
+			"example": "pecuniary",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "cheval",
+			"answer": "",
+			"example": "chivalry",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "caballus (caval-)",
+			"answer": "",
+			"example": "cavalier",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "equus",
+			"answer": "",
+			"example": "equine",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "cado",
+			"answer": "",
+			"example": "decadence",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "to follow",
+		"2": "to complain",
+		"3": "eyelid",
+		"4": "above",
+		"5": "to make a noise",
+		"6": "cattle",
+		"7": "horse",
+		"8": "horse",
+		"9": "horse",
+		"10": "to fall"
+	}
 }

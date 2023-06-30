@@ -1,108 +1,108 @@
 {
-  "columnA": [
-    {
-      "id": "1",
-      "question": "obsequious",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "querulous",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "supercilious",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "obstreperous",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "impecunious",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "chivalrous",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "innocuous",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "8",
-      "question": "bibulous",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "9",
-      "question": "cadaverous",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "10",
-      "question": "dolorous",
-      "wrongAnsSelected": false
-    }
-  ],
-  "columnB": [
-    {
-      "id": "a",
-      "question": "snobbish"
-    },
-    {
-      "id": "b",
-      "question": "harmless"
-    },
-    {
-      "id": "c",
-      "question": "gaunt"
-    },
-    {
-      "id": "d",
-      "question": "short of funds"
-    },
-    {
-      "id": "e",
-      "question": "fawning; excessively, ingratiatingly, polite"
-    },
-    {
-      "id": "f",
-      "question": "sorrowful"
-    },
-    {
-      "id": "g",
-      "question": "addicted to drink"
-    },
-    {
-      "id": "h",
-      "question": "courteous to women"
-    },
-    {
-      "id": "i",
-      "question": "complaining"
-    },
-    {
-      "id": "j",
-      "question": "unmanageable"
-    }
-  ],
-  "answers": {
-    "1": "e",
-    "2": "i",
-    "3": "a",
-    "4": "j",
-    "5": "d",
-    "6": "h",
-    "7": "b",
-    "8": "g",
-    "9": "c",
-    "10": "f"
-  }
+	"columnA": [
+		{
+			"id": "1",
+			"question": "obsequious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "querulous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "supercilious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "obstreperous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "impecunious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "chivalrous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "innocuous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "bibulous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "cadaverous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "dolorous",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "snobbish"
+		},
+		{
+			"id": "b",
+			"question": "harmless"
+		},
+		{
+			"id": "c",
+			"question": "gaunt"
+		},
+		{
+			"id": "d",
+			"question": "short of funds"
+		},
+		{
+			"id": "e",
+			"question": "fawning; excessively, ingratiatingly, polite"
+		},
+		{
+			"id": "f",
+			"question": "sorrowful"
+		},
+		{
+			"id": "g",
+			"question": "addicted to drink"
+		},
+		{
+			"id": "h",
+			"question": "courteous to women"
+		},
+		{
+			"id": "i",
+			"question": "complaining"
+		},
+		{
+			"id": "j",
+			"question": "unmanageable"
+		}
+	],
+	"answers": {
+		"1": "e",
+		"2": "i",
+		"3": "a",
+		"4": "j",
+		"5": "d",
+		"6": "h",
+		"7": "b",
+		"8": "g",
+		"9": "c",
+		"10": "f"
+	}
 }

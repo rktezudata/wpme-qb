@@ -1,128 +1,128 @@
 {
-  "columnA": [
-    {
-      "id": "1",
-      "question": "phonetics",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "carnivore",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "voracity",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "omnipotence",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "omniscience",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "omnipresence",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "omnibus",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "8",
-      "question": "carnelian",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "9",
-      "question": "carnality",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "10",
-      "question": "carnage",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "11",
-      "question": "surreptitiousness",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "12",
-      "question": "reincarnation",
-      "wrongAnsSelected": false
-    }
-  ],
-  "columnB": [
-    {
-      "id": "a",
-      "question": "universality"
-    },
-    {
-      "id": "b",
-      "question": "a color"
-    },
-    {
-      "id": "c",
-      "question": "infinite power"
-    },
-    {
-      "id": "d",
-      "question": "furtiveness; stealth; sneakiness"
-    },
-    {
-      "id": "e",
-      "question": "lechery, lasciviousness, lubricity"
-    },
-    {
-      "id": "f",
-      "question": "infinite wisdom"
-    },
-    {
-      "id": "g",
-      "question": "science of speech sounds"
-    },
-    {
-      "id": "h",
-      "question": "slaughter"
-    },
-    {
-      "id": "i",
-      "question": "a collection of all things"
-    },
-    {
-      "id": "j",
-      "question": "greediness"
-    },
-    {
-      "id": "k",
-      "question": "meat-eater"
-    },
-    {
-      "id": "l",
-      "question": "a return to life in a new body or form"
-    }
-  ],
-  "answers": {
-    "1": "g",
-    "2": "k",
-    "3": "j",
-    "4": "c",
-    "5": "f",
-    "6": "a",
-    "7": "i",
-    "8": "b",
-    "9": "e",
-    "10": "h",
-    "11": "d",
-    "12": "l"
-  }
+	"columnA": [
+		{
+			"id": "1",
+			"question": "phonetics",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "carnivore",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "voracity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "omnipotence",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "omniscience",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "omnipresence",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "omnibus",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "carnelian",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "carnality",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "carnage",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "surreptitiousness",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "reincarnation",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "universality"
+		},
+		{
+			"id": "b",
+			"question": "a color"
+		},
+		{
+			"id": "c",
+			"question": "infinite power"
+		},
+		{
+			"id": "d",
+			"question": "furtiveness; stealth; sneakiness"
+		},
+		{
+			"id": "e",
+			"question": "lechery, lasciviousness, lubricity"
+		},
+		{
+			"id": "f",
+			"question": "infinite wisdom"
+		},
+		{
+			"id": "g",
+			"question": "science of speech sounds"
+		},
+		{
+			"id": "h",
+			"question": "slaughter"
+		},
+		{
+			"id": "i",
+			"question": "a collection of all things"
+		},
+		{
+			"id": "j",
+			"question": "greediness"
+		},
+		{
+			"id": "k",
+			"question": "meat-eater"
+		},
+		{
+			"id": "l",
+			"question": "a return to life in a new body or form"
+		}
+	],
+	"answers": {
+		"1": "g",
+		"2": "k",
+		"3": "j",
+		"4": "c",
+		"5": "f",
+		"6": "a",
+		"7": "i",
+		"8": "b",
+		"9": "e",
+		"10": "h",
+		"11": "d",
+		"12": "l"
+	}
 }

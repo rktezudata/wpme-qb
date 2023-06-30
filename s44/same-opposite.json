@@ -1,77 +1,77 @@
 {
-  "questions": [
-    {
-      "id": "1",
-      "question": "simulated - genuine",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "dissimulate - pretend",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "dissemblebe -  truthful",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "intimation - hint",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "alleviation - reduction",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "levitate - sink",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "levity - flippancy",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "8",
-      "question": "vacillation - decisiveness",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "9",
-      "question": "ambivalent - confused",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "10",
-      "question": "oscillate - sway",
-      "selectedAnswer": null,
-      "wrongAnsSelected": false
-    }
-  ],
-  "answerType": "same-opposite",
-  "answers": {
-    "1": "opposite",
-    "2": "same",
-    "3": "opposite",
-    "4": "same",
-    "5": "same",
-    "6": "opposite",
-    "7": "same",
-    "8": "opposite",
-    "9": "same",
-    "10": "same"
-  }
+	"questions": [
+		{
+			"id": "1",
+			"question": "simulated - genuine",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "dissimulate - pretend",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "dissemblebe -  truthful",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "intimation - hint",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "alleviation - reduction",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "levitate - sink",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "levity - flippancy",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "vacillation - decisiveness",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "ambivalent - confused",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "oscillate - sway",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answerType": "same-opposite",
+	"answers": {
+		"1": "opposite",
+		"2": "same",
+		"3": "opposite",
+		"4": "same",
+		"5": "same",
+		"6": "opposite",
+		"7": "same",
+		"8": "opposite",
+		"9": "same",
+		"10": "same"
+	}
 }

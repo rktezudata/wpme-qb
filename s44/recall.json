@@ -1,0 +1,95 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "to swing back and forth",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "feeling both ways at the same time (adj.)",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "to conceal real feelings",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "pretense",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "to pretend ignorance though knowing the facts",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "joking; frivolity; flippancy",
+      "initialLetter": "L",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "indecisive",
+      "initialLetter": "V",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "to rise in the air, as by illusion",
+      "initialLetter": "L",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "tending to ease (pain, etc.) (adj.)",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "a sharing of another's grief (n.)",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "oscillate",
+    "2": "ambivalent",
+    "3": [
+      "dissimulate",
+      "dissemble"
+    ],
+    "4": "simulation",
+    "5": "dissemble",
+    "6": "levity",
+    "7": [
+      "vacillatory",
+      "vacillating"
+    ],
+    "8": "levitate",
+    "9": [
+      "alleviative",
+      "alleviating"
+    ],
+    "10": "commiseration"
+  }
+}

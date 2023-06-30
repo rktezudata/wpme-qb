@@ -62,15 +62,15 @@
     }
   ],
   "answers": {
-    "1": "OPPOSITE",
-    "2": "SAME",
-    "3": "OPPOSITE",
-    "4": "SAME",
-    "5": "SAME",
-    "6": "OPPOSITE",
-    "7": "SAME",
-    "8": "OPPOSITE",
-    "9": "SAME",
-    "10": "SAME"
+    "1": "opposite",
+    "2": "same",
+    "3": "opposite",
+    "4": "same",
+    "5": "same",
+    "6": "opposite",
+    "7": "same",
+    "8": "opposite",
+    "9": "same",
+    "10": "same"
   }
 }

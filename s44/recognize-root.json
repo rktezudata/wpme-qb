@@ -1,0 +1,118 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "nervus",
+      "answer": "",
+      "example": "enervate",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "ergon",
+      "answer": "",
+      "example": "energy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "nego",
+      "answer": "",
+      "example": "self-abnegation",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "caput, capitis",
+      "answer": "",
+      "example": "decapitate",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "capitulum",
+      "answer": "",
+      "example": "recapitulate",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "vegeto",
+      "answer": "",
+      "example": "vegetate",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "simulo",
+      "answer": "",
+      "example": "dissimulate",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "similis",
+      "answer": "",
+      "example": "similarity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "levis",
+      "answer": "",
+      "example": "levity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "intimus",
+      "answer": "",
+      "example": "intimation",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "miser",
+      "answer": "",
+      "example": "commiserate",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "vacillo",
+      "answer": "",
+      "example": "vacillate",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "ambi",
+      "answer": "",
+      "example": "ambivalent",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "oscillum",
+      "answer": "",
+      "example": "oscillate",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "nerve",
+    "2": "work",
+    "3": "deny",
+    "4": "head",
+    "5": "little head, chapter, heading",
+    "6": "live and grow",
+    "7": "to copy",
+    "8": "like, similar",
+    "9": "light",
+    "10": "innermost",
+    "11": "wretched",
+    "12": "swing back and forth",
+    "13": "both",
+    "14": "a swing"
+  }
+}

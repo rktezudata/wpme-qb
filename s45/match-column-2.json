@@ -1,0 +1,112 @@
+{
+  "columnNames": {
+    "columnA": "WORD",
+    "columnB": "OPPOSITE MEANING"
+  },
+  "columnA": [
+    {
+      "id": "1",
+      "question": "obsequious",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "querulous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "supercilious",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "obstreperous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "impecunious",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "chivalrous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "innocuous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "bibulous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "cadaverous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "dolorous",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "content; uncomplaining; satisfied"
+    },
+    {
+      "id": "b",
+      "question": "affluent"
+    },
+    {
+      "id": "c",
+      "question": "healthy"
+    },
+    {
+      "id": "d",
+      "question": "rude"
+    },
+    {
+      "id": "e",
+      "question": "sober"
+    },
+    {
+      "id": "f",
+      "question": "dangerous"
+    },
+    {
+      "id": "g",
+      "question": "humble"
+    },
+    {
+      "id": "h",
+      "question": "misogynous"
+    },
+    {
+      "id": "i",
+      "question": "happy; cheerful"
+    },
+    {
+      "id": "j",
+      "question": "quiet"
+    }
+  ],
+  "answers": {
+    "1": "d",
+    "2": "a",
+    "3": "g",
+    "4": "j",
+    "5": "b",
+    "6": "h",
+    "7": "f",
+    "8": "e",
+    "9": "c",
+    "10": "i"
+  }
+}

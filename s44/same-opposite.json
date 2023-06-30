@@ -2,75 +2,75 @@
   "questions": [
     {
       "id": "1",
-      "question": "Do obsequious people usually command our respect?",
+      "question": "simulated - genuine",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "2",
-      "question": "Are querulous people satisfied?",
+      "question": "dissimulate - pretend",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "3",
-      "question": "Are supercilious people usually popular?",
+      "question": "dissemblebe -  truthful",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "4",
-      "question": "Is a person of affluence impecunious?",
+      "question": "intimation - hint",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "5",
-      "question": "Do some women like chivalrous men?",
+      "question": "alleviation - reduction",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "6",
-      "question": "Are innocuous people dangerous?",
+      "question": "levitate - sink",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "7",
-      "question": "Is a bibulous character a teetotaler?",
+      "question": "levity - flippancy",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "8",
-      "question": "Is a cadaverous-looking individual the picture of health?",
+      "question": "vacillation - decisiveness",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "9",
-      "question": "Is a dolorous attitude characteristic of jovial people?",
+      "question": "ambivalent - confused",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "10",
-      "question": "Is an obstreperous child difficult to manage?",
+      "question": "oscillate - sway",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     }
   ],
   "answers": {
-    "1": "no",
-    "2": "no",
-    "3": "no",
-    "4": "no",
-    "5": "yes",
-    "6": "no",
-    "7": "no",
-    "8": "no",
-    "9": "no",
-    "10": "yes"
+    "1": "OPPOSITE",
+    "2": "SAME",
+    "3": "OPPOSITE",
+    "4": "SAME",
+    "5": "SAME",
+    "6": "OPPOSITE",
+    "7": "SAME",
+    "8": "OPPOSITE",
+    "9": "SAME",
+    "10": "SAME"
   }
 }

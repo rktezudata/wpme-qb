@@ -1,0 +1,83 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "Is it easy to preserve one's equanimity under trying circumstances?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "Do we bear animus toward our enemies?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "Do we usually feel great animosity toward our friends?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "Do we admire versatility?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "Does a stoic usually complain?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "Is stoicism a mark of an uninhibited personality?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "Do cowards show intrepidity in the face of danger?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "Do cowards often feel a certain amount of trepidation?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "Is a scintilla of evidence a great amount?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "Do dull people scintillate?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "Is urbanity a characteristic of boorish people?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "no",
+		"2": "yes",
+		"3": "no",
+		"4": "yes",
+		"5": "no",
+		"6": "no",
+		"7": "no",
+		"8": "yes",
+		"9": "no",
+		"10": "no",
+		"11": "no"
+	}
+}

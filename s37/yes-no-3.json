@@ -1,0 +1,55 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "Is New York City a rural community?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "Is a village an urban community?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "Do you rusticate in the city?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "Are extroverts very introspective?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "Does an introvert spend a good deal of time in introspection?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "In dangerous circumstances, is it wise to be circumspect?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "Do specious arguments often sound convincing?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "no",
+		"2": "no",
+		"3": "no",
+		"4": "no",
+		"5": "yes",
+		"6": "yes",
+		"7": "yes"
+	}
+}

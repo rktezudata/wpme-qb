@@ -1,0 +1,108 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "convivial",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "indefatigable",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "ingenuous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "perspicacious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "magnanimous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "versatile",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "stoical",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "intrepid",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "scintillating",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "urbane",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "frank"
+		},
+		{
+			"id": "b",
+			"question": "noble, forgiving"
+		},
+		{
+			"id": "c",
+			"question": "unflinching; unemotional"
+		},
+		{
+			"id": "d",
+			"question": "courteous; polished; suave"
+		},
+		{
+			"id": "e",
+			"question": "companionable, gregarious"
+		},
+		{
+			"id": "f",
+			"question": "witty"
+		},
+		{
+			"id": "g",
+			"question": "capable in many directions"
+		},
+		{
+			"id": "h",
+			"question": "brave"
+		},
+		{
+			"id": "i",
+			"question": "keen-minded"
+		},
+		{
+			"id": "j",
+			"question": "tireless"
+		}
+	],
+	"answers": {
+		"1": "e",
+		"2": "j",
+		"3": "a",
+		"4": "i",
+		"5": "b",
+		"6": "g",
+		"7": "c",
+		"8": "h",
+		"9": "f",
+		"10": "d"
+	}
+}

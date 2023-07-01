@@ -1,0 +1,87 @@
+{
+	"title": "Change these adjectives to nouns lot ending in -ness",
+	"questions": [
+		{
+			"id": "1",
+			"question": "indefatigable",
+			"initialLetter": "",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "perspicacious",
+			"initialLetter": "",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "stoical",
+			"initialLetter": "",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "urbane",
+			"initialLetter": "",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "naive",
+			"initialLetter": "",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "incredulous",
+			"initialLetter": "",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "incredible",
+			"initialLetter": "",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "perspicuous",
+			"initialLetter": "",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "magnanimous",
+			"initialLetter": "",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "pusillanimous",
+			"initialLetter": "",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "indefatigability",
+		"2": "perspicacity",
+		"3": "stoicism",
+		"4": "urbanity",
+		"5": "naiveté",
+		"6": "incredulity",
+		"7": "incredibility",
+		"8": "perspicuity",
+		"9": "magnanimity",
+		"10": "pusillanimity"
+	}
+}

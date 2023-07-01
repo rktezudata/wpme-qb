@@ -1,0 +1,108 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "perspicacity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "perspicuity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "stoic",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "scintilla",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "scintillate",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "rural",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "rusticate",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "introspect",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "perspicuous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "perspicacious",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "clearness"
+		},
+		{
+			"id": "b",
+			"question": "to be witty"
+		},
+		{
+			"id": "c",
+			"question": "spend time in the country"
+		},
+		{
+			"id": "d",
+			"question": "one who controls his emotions"
+		},
+		{
+			"id": "e",
+			"question": "to look inward"
+		},
+		{
+			"id": "f",
+			"question": "a very small amount"
+		},
+		{
+			"id": "g",
+			"question": "keen intelligence"
+		},
+		{
+			"id": "h",
+			"question": "clear, understandable"
+		},
+		{
+			"id": "i",
+			"question": "keen-minded"
+		},
+		{
+			"id": "j",
+			"question": "pertaining to the country"
+		}
+	],
+	"answers": {
+		"1": "g",
+		"2": "a",
+		"3": "d",
+		"4": "f",
+		"5": "b",
+		"6": "j",
+		"7": "c",
+		"8": "e",
+		"9": "h",
+		"10": "i"
+	}
+}

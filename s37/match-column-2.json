@@ -1,0 +1,88 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "stoicism",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "intrepidity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "trepidation",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "scintillation",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "urbanity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "introspection",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "circumspection",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "speciousness",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "fearlessness"
+		},
+		{
+			"id": "b",
+			"question": "sparkle"
+		},
+		{
+			"id": "c",
+			"question": "inward look"
+		},
+		{
+			"id": "d",
+			"question": "uncomplaining attitude to pain or trouble"
+		},
+		{
+			"id": "e",
+			"question": "falsity"
+		},
+		{
+			"id": "f",
+			"question": "polish, cultivation"
+		},
+		{
+			"id": "g",
+			"question": "care, cautiousness"
+		},
+		{
+			"id": "h",
+			"question": "fear"
+		}
+	],
+	"answers": {
+		"1": "d",
+		"2": "a",
+		"3": "h",
+		"4": "b",
+		"5": "f",
+		"6": "c",
+		"7": "g",
+		"8": "e"
+	}
+}

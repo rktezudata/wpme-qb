@@ -1,0 +1,98 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "exurbs",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "pusillanimous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "unanimous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "animus",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "rustic",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "urban",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "introspective",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "circumspect",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "specious",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "of one mind"
+		},
+		{
+			"id": "b",
+			"question": "ill will"
+		},
+		{
+			"id": "c",
+			"question": "pertaining to the city"
+		},
+		{
+			"id": "d",
+			"question": "petty"
+		},
+		{
+			"id": "e",
+			"question": "self-analytical"
+		},
+		{
+			"id": "f",
+			"question": "regions far from the city"
+		},
+		{
+			"id": "g",
+			"question": "cautious"
+		},
+		{
+			"id": "h",
+			"question": "false, though plausible"
+		},
+		{
+			"id": "i",
+			"question": "countrified"
+		}
+	],
+	"answers": {
+		"1": "f",
+		"2": "d",
+		"3": "a",
+		"4": "b",
+		"5": "i",
+		"6": "c",
+		"7": "e",
+		"8": "g",
+		"9": "h"
+	}
+}

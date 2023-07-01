@@ -1,0 +1,88 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "parsimony",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "destitution",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "opulence",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "evanescence",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "euphony",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "euphoria",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "euthanasia",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "platitude",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "lavish luxury"
+		},
+		{
+			"id": "b",
+			"question": "painless death"
+		},
+		{
+			"id": "c",
+			"question": "pleasant sound"
+		},
+		{
+			"id": "d",
+			"question": "trite remark"
+		},
+		{
+			"id": "e",
+			"question": "impermanence"
+		},
+		{
+			"id": "f",
+			"question": "feeling of well-being"
+		},
+		{
+			"id": "g",
+			"question": "stinginess"
+		},
+		{
+			"id": "h",
+			"question": "poverty"
+		}
+	],
+	"answers": {
+		"1": "g",
+		"2": "h",
+		"3": "a",
+		"4": "e",
+		"5": "c",
+		"6": "f",
+		"7": "b",
+		"8": "d"
+	}
+}

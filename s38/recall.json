@@ -71,16 +71,9 @@
 			"wrongAnsSelected": false
 		},
 		{
-			"id": "11a",
+			"id": "11",
 			"question": "sincere; valid; in good faith",
 			"initialLetter": "B",
-			"answer": "",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "11b",
-			"question": "sincere; valid; in good faith",
-			"initialLetter": "F",
 			"answer": "",
 			"wrongAnsSelected": false
 		},
@@ -99,16 +92,9 @@
 			"wrongAnsSelected": false
 		},
 		{
-			"id": "14a",
+			"id": "14",
 			"question": "masterpiece",
 			"initialLetter": "M",
-			"answer": "",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "14b",
-			"question": "masterpiece",
-			"initialLetter": "O",
 			"answer": "",
 			"wrongAnsSelected": false
 		},
@@ -155,16 +141,9 @@
 			"wrongAnsSelected": false
 		},
 		{
-			"id": "21a",
+			"id": "21",
 			"question": "joy of life",
 			"initialLetter": "J",
-			"answer": "",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "21b",
-			"question": "joy of life",
-			"initialLetter": "V",
 			"answer": "",
 			"wrongAnsSelected": false
 		},
@@ -243,20 +222,17 @@
 		"8": "patrimony",
 		"9": "polytheism",
 		"10": "militant",
-		"11a": "bona",
-		"11b": "fide",
+		"11": "bona fide",
 		"12": "garrulous",
 		"13": "soliloquize",
-		"14a": "magnum",
-		"14b": "opus",
+		"14": "magnum opus",
 		"15": "magnanimous",
 		"16": "ambulatory",
 		"17": "insomnia",
 		"18": "acrophobia",
 		"19": "fratricide",
 		"20": "antonymous",
-		"21a": "joie de",
-		"21b": "vivre",
+		"21": "joie de vivre",
 		"22": "devitalize",
 		"23": "naivete",
 		"24": "punctilious",

@@ -1,0 +1,108 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "magnanimity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "pusillanimity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "unanimity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "equanimity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "animosity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "versatility",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "stoicism",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "intrepidity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "trepidation",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "scintillation",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "calmness, composure"
+		},
+		{
+			"id": "b",
+			"question": "ability either to do many different things well, or to function successfully in many areas"
+		},
+		{
+			"id": "c",
+			"question": "fearlessness; great courage"
+		},
+		{
+			"id": "d",
+			"question": "unemotionality; bearing of pain, etc. without complaint"
+		},
+		{
+			"id": "e",
+			"question": "big-heartedness; generosity; quality of forgiving easily"
+		},
+		{
+			"id": "f",
+			"question": "sparkling with wit or cleverness"
+		},
+		{
+			"id": "g",
+			"question": "fear and trembling; alarm"
+		},
+		{
+			"id": "h",
+			"question": "complete agreement, all being of one mind"
+		},
+		{
+			"id": "i",
+			"question": "petty-mindedness"
+		},
+		{
+			"id": "j",
+			"question": "anger, hostility, resentment, hatred"
+		}
+	],
+	"answers": {
+		"1": "e",
+		"2": "i",
+		"3": "h",
+		"4": "a",
+		"5": "j",
+		"6": "b",
+		"7": "d",
+		"8": "c",
+		"9": "g",
+		"10": "f"
+	}
+}

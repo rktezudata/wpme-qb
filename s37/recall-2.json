@@ -1,0 +1,46 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "unflinching fortitude",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "countrified; unpolished",
+			"initialLetter": "R",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "pertaining to the countryside (adj)",
+			"initialLetter": "R",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "a looking back to the past",
+			"initialLetter": "R",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "nobleness of mind or spirit",
+			"initialLetter": "M",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "stoicism",
+		"2": "rustic",
+		"3": "rural",
+		"4": "retrospect",
+		"5": "magnanimity"
+	}
+}

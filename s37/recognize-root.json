@@ -1,0 +1,161 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "vivo",
+			"answer": "",
+			"example": "vivacious"
+		},
+		{
+			"id": "2",
+			"question": "sectus",
+			"answer": "",
+			"example": "vivisection"
+		},
+		{
+			"id": "3",
+			"question": "pareo",
+			"answer": "",
+			"example": "viviparous"
+		},
+		{
+			"id": "4",
+			"question": "ovum",
+			"answer": "",
+			"example": "oviparous"
+		},
+		{
+			"id": "5",
+			"question": "vita",
+			"answer": "",
+			"example": "vital"
+		},
+		{
+			"id": "6",
+			"question": "bon",
+			"answer": "",
+			"example": "bon vivant"
+		},
+		{
+			"id": "7",
+			"question": "credo",
+			"answer": "",
+			"example": "credible"
+		},
+		{
+			"id": "8",
+			"question": "specto",
+			"answer": "",
+			"example": "spectator"
+		},
+		{
+			"id": "9",
+			"question": "acuo",
+			"answer": "",
+			"example": "acupuncture"
+		},
+		{
+			"id": "10",
+			"question": "punctus",
+			"answer": "",
+			"example": "punctuate"
+		},
+		{
+			"id": "11",
+			"question": "pungo",
+			"answer": "",
+			"example": "pungent"
+		},
+		{
+			"id": "12",
+			"question": "animus",
+			"answer": "",
+			"example": "animosity"
+		},
+		{
+			"id": "13",
+			"question": "pusillus",
+			"answer": "",
+			"example": "pusillanimous"
+		},
+		{
+			"id": "14",
+			"question": "magnus",
+			"answer": "",
+			"example": "magnanimous"
+		},
+		{
+			"id": "15",
+			"question": "unus",
+			"answer": "",
+			"example": "unanimous"
+		},
+		{
+			"id": "16",
+			"question": "aequus (equ-)",
+			"answer": "",
+			"example": "equanimity"
+		},
+		{
+			"id": "17",
+			"question": "verto, versus",
+			"answer": "",
+			"example": "versatile"
+		},
+		{
+			"id": "18",
+			"question": "stoa",
+			"answer": "",
+			"example": "stoical"
+		},
+		{
+			"id": "19",
+			"question": "trepido",
+			"answer": "",
+			"example": "trepidation"
+		},
+		{
+			"id": "20",
+			"question": "scintilla",
+			"answer": "",
+			"example": "scintillate"
+		},
+		{
+			"id": "21",
+			"question": "urbs",
+			"answer": "",
+			"example": "urban"
+		},
+		{
+			"id": "22",
+			"question": "rus, ruris",
+			"answer": "",
+			"example": "rural, rustic"
+		}
+	],
+
+	"answers": {
+		"1": "to live",
+		"2": "cut",
+		"3": ["to give birth", "produce"],
+		"4": "egg",
+		"5": "life",
+		"6": "good",
+		"7": "to believe",
+		"8": "to look",
+		"9": "to sharpen",
+		"10": "point",
+		"11": "to pierce sharply",
+		"12": "mind",
+		"13": "tiny",
+		"14": ["big", "great", "large"],
+		"15": "one",
+		"16": "equal",
+		"17": "to turn",
+		"18": "porch",
+		"19": "to tremble",
+		"20": "spark",
+		"21": "city",
+		"22": ["country", "countryside"]
+	}
+}

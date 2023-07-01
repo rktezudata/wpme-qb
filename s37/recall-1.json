@@ -1,0 +1,46 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "ability in many fields",
+			"initialLetter": "V",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "pertaining to the city (adj.)",
+			"initialLetter": "U",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "to spend time in the country",
+			"initialLetter": "R",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "merest spark; small amount",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "courage",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "versatility",
+		"2": "urban",
+		"3": "rusticate",
+		"4": "scintilla",
+		"5": "intrepidity"
+	}
+}

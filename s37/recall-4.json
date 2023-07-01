@@ -1,0 +1,46 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "keenness of mind",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "keenness of mind",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "clearness of style or language",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "one who keeps his emotions, during times of trouble, hidden",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "sophistication, courtesy, refinement",
+			"initialLetter": "U",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": ["perspicacity", "perspicaciousness"],
+		"2": ["acumen", "acuity", "acuteness"],
+		"3": "perspicuity",
+		"4": "stoic",
+		"5": "urbanity"
+	}
+}

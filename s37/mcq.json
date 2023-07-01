@@ -1,0 +1,118 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "Tireless:",
+			"options": ["convivial", "indefatigable", "versatile"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "Frank, unsophisticated:",
+			"options": ["ingenuous", "ingenious", "intrepid"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "Unflinching, uncomplaining:",
+			"options": ["perspicacious", "urbane", "stoical"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "Noble, forgiving, generous:",
+			"options": ["pusillanimous", "unanimous", "magnanimous"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "Between cities:",
+			"options": ["interurban", "intraurban", "exurban"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "Giving birth to live young:",
+			"options": ["oviparous", "ovulation", "viviparous"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "Tedium, boredom:",
+			"options": ["ennui", "joie de vivre", "vitality"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "Connoisseur of choice food:",
+			"options": ["gourmet", "gourmand", "glutton"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "Inexperienced in the ways of the world:",
+			"options": ["credulous", "naive", "credible"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "Easily tricked:",
+			"options": ["gullible", "incredulous", "ingenious"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "Backward look:",
+			"options": ["prospect", "retrospect", "introspection"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "Clearness:",
+			"options": ["perspicacity", "perspicuity", "intrepidity"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "Resentment:",
+			"options": ["animosity", "stoicism", "urbanity"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "14",
+			"question": "Countrified:",
+			"options": ["rustic", "specious", "circumspect"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "b",
+		"2": "a",
+		"3": "c",
+		"4": "c",
+		"5": "a",
+		"6": "c",
+		"7": "a",
+		"8": "a",
+		"9": "b",
+		"10": "a",
+		"11": "b",
+		"12": "b",
+		"13": "a",
+		"14": "a"
+	}
+}

@@ -1,0 +1,108 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "urbanity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "suburbia",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "exurbia",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "animus",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "interurban",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "intraurban",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "rural",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "rustic",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "rusticate",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "pejorative",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "referring to the countryside"
+		},
+		{
+			"id": "b",
+			"question": "word with negative or derogatory connotation; describing such a word or words"
+		},
+		{
+			"id": "c",
+			"question": "to spend time in the country"
+		},
+		{
+			"id": "d",
+			"question": "residential areas near big cities; customs, etc. of the inhabitants of such areas"
+		},
+		{
+			"id": "e",
+			"question": "residential areas far from big cities; customs, etc. of the inhabitants of such areas"
+		},
+		{
+			"id": "f",
+			"question": "between cities"
+		},
+		{
+			"id": "g",
+			"question": "roughhewn, farmlike; unsophisticated, uncultured"
+		},
+		{
+			"id": "h",
+			"question": "sophistication, courtesy, polish, etc."
+		},
+		{
+			"id": "i",
+			"question": "anger, hatred, hostility"
+		},
+		{
+			"id": "j",
+			"question": "within one city"
+		}
+	],
+	"answers": {
+		"1": "h",
+		"2": "d",
+		"3": "e",
+		"4": "i",
+		"5": "f",
+		"6": "j",
+		"7": "a",
+		"8": "g",
+		"9": "c",
+		"10": "b"
+	}
+}

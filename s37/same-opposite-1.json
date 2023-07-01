@@ -1,0 +1,155 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "retrospect - prospect",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "acute - perspicacious",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "acumen - stupidity",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "perspicuous - confused",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "magnanimous - noble",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "pusillanimous - petty",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "unanimous - divided",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "equanimity - nervousness",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "animosity - hostility",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "animus - friendliness",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "versatility - monomania",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "stoicism - cowardice",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "intrepidity - fear",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "14",
+			"question": "trepidation - courage",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "15",
+			"question": "scintilla - slight amount",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "16",
+			"question": "urbanity - refinement",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "17",
+			"question": "rustic - crude",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "18",
+			"question": "rural - urban",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "19",
+			"question": "introspective - self-analytic",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "20",
+			"question": "circumspect - careless",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "21",
+			"question": "specious - true ",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+
+	"answerType": "same-opposite",
+	"answers": {
+		"1": "opposite",
+		"2": "same",
+		"3": "opposite",
+		"4": "opposite",
+		"5": "same",
+		"6": "same",
+		"7": "opposite",
+		"8": "opposite",
+		"9": "same",
+		"10": "opposite",
+		"11": "opposite",
+		"12": "opposite",
+		"13": "opposite",
+		"14": "opposite",
+		"15": "same",
+		"16": "same",
+		"17": "same",
+		"18": "opposite",
+		"19": "same",
+		"20": "opposite",
+		"21": "opposite"
+	}
+}

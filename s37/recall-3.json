@@ -1,0 +1,46 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "keen-mindedness",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "clear, lucid",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "petty, mean",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "all of one mind or opinion",
+			"initialLetter": "U",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "ill will",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "acuity",
+		"2": "perspicuous",
+		"3": "pusillanimous",
+		"4": "unanimous",
+		"5": ["animus", "animosity"]
+	}
+}

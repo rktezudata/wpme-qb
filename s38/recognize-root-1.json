@@ -1,0 +1,206 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "scribo, scriptus",
+			"answer": "",
+			"example": "proscribe",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "aequus (equ-)",
+			"answer": "",
+			"example": "equivocal",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "malus",
+			"answer": "",
+			"example": "malign",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "dico, dictus",
+			"answer": "",
+			"example": "malediction",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "volo",
+			"answer": "",
+			"example": "malevolent",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "facio",
+			"answer": "",
+			"example": "malefactor",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "bonus, bene",
+			"answer": "",
+			"example": "benevolent",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "fides",
+			"answer": "",
+			"example": "infidelity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "dono",
+			"answer": "",
+			"example": "condone",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "nox, noctis",
+			"answer": "",
+			"example": "equinox",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "equus",
+			"answer": "",
+			"example": "equestrian",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "libra",
+			"answer": "",
+			"example": "equilibrium",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "taceo",
+			"answer": "",
+			"example": "taciturn",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "14",
+			"question": "loquor",
+			"answer": "",
+			"example": "loquacious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "15",
+			"question": "solus",
+			"answer": "",
+			"example": "soliloquy",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "16",
+			"question": "venter, ventris",
+			"answer": "",
+			"example": "ventral",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "17",
+			"question": "magnus",
+			"answer": "",
+			"example": "magniloquence",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "18",
+			"question": "verbum ",
+			"answer": "",
+			"example": "verbatim",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "19",
+			"question": "volvo, volutus",
+			"answer": "",
+			"example": "voluble",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "20",
+			"question": "animus",
+			"answer": "",
+			"example": "pusillanimous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "21",
+			"question": "dorsum",
+			"answer": "",
+			"example": "endorse",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "22",
+			"question": "vox, vocis",
+			"answer": "",
+			"example": "vocal",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "23",
+			"question": "fero",
+			"answer": "",
+			"example": "vociferous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "24",
+			"question": "ambulo",
+			"answer": "",
+			"example": "somnambulist",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "25",
+			"question": "somnus",
+			"answer": "",
+			"example": "somnolent",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "to write",
+		"2": "equal",
+		"3": ["bad", "evil"],
+		"4": ["to say", "to tell"],
+		"5": "to wish",
+		"6": ["to do", "make"],
+		"7": ["good", "well"],
+		"8": "faith",
+		"9": "to give",
+		"10": "night",
+		"11": "horse",
+		"12": ["balance", "pound"],
+		"13": "to be silent",
+		"14": "to speak",
+		"15": "alone",
+		"16": "belly",
+		"17": ["big", "large", "great"],
+		"18": "word",
+		"19": "to roll",
+		"20": "mind",
+		"21": "back",
+		"22": "voice",
+		"23": ["to bear", "carry"],
+		"24": "to walk",
+		"25": "sleep"
+	}
+}

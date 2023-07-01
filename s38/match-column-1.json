@@ -1,0 +1,108 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "is lewd and lustful",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "caters to the rich",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "is an accomplished musician",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "sneers at traditions",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "is the mother-ruler of a family tribe, or nation",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "has an irresistible urge to steal",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "is excessively patriotic",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "is a loud-mouthed woman",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "is a beginner",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "is a dabbler",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "chauvinist"
+		},
+		{
+			"id": "b",
+			"question": "sycophant"
+		},
+		{
+			"id": "c",
+			"question": "dilettante"
+		},
+		{
+			"id": "d",
+			"question": "iconoclast"
+		},
+		{
+			"id": "e",
+			"question": "lecher"
+		},
+		{
+			"id": "f",
+			"question": "tyro"
+		},
+		{
+			"id": "g",
+			"question": "virtuoso"
+		},
+		{
+			"id": "h",
+			"question": "termagant"
+		},
+		{
+			"id": "i",
+			"question": "matriarch"
+		},
+		{
+			"id": "j",
+			"question": "kleptomaniac"
+		}
+	],
+	"answers": {
+		"1": "e",
+		"2": "b",
+		"3": "g",
+		"4": "d",
+		"5": "i",
+		"6": "j",
+		"7": "a",
+		"8": "h",
+		"9": "f",
+		"10": "c"
+	}
+}

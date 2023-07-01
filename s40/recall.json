@@ -1,0 +1,246 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "a statement, usually untrue, meant to alleviate fear",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "light banter",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "a hackneyed phrase",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "fleeting-lasting a very short time (adj.)",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "laudatory-delivered in tones of formal praise (adj.)",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "process of painlessly putting to death a victim of an incurable disease",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "stingy (adj.)",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "in want (adj.)",
+			"initialLetter": "D",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "wealth",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "immense wealth",
+			"initialLetter": "O",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "adverb describing the manner of responding empathetically to another's acts",
+			"initialLetter": "V",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "stinginess (noun)",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "poverty",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "14",
+			"question": "poverty",
+			"initialLetter": "D",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "15",
+			"question": "impermanence",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "16",
+			"question": "pleasing sound",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "17",
+			"question": "substituting inoffensive words (adj.)",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "18",
+			"question": "sense of well-being",
+			"initialLetter": "",
+			"answer": "E",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "19",
+			"question": "trite remark",
+			"initialLetter": "B",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "20",
+			"question": "banal remark",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "21",
+			"question": "begin to vanish (v.)",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "22",
+			"question": "poverty-stricken (adj.)",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "23",
+			"question": "wealthy (adj.)",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "24",
+			"question": "wealthy (adj.)",
+			"initialLetter": "O",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "25",
+			"question": "feeling tiptop (adj.)",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "26",
+			"question": "pleasant in sound (adj.)",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "27",
+			"question": "formal praise",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "28",
+			"question": "trite (adj.)",
+			"initialLetter": "B",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "29",
+			"question": "flat, dull (adj.)",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "30",
+			"question": "to praise",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "anodyne",
+		"2": "persiflage",
+		"3": "cliche",
+		"4": "evanescent",
+		"5": "eulogistic",
+		"6": "euthanasia",
+		"7": ["parsimonious", "penurious"],
+		"8": "destitute",
+		"9": "affluence",
+		"10": "opulence",
+		"11": "vicariously",
+		"12": ["parsimony", "penuriousness"],
+		"13": "indigence",
+		"14": "destitution",
+		"15": "evanescence",
+		"16": "euphony",
+		"17": "euphemistic",
+		"18": "euphoria",
+		"19": "bromide",
+		"20": "platitude",
+		"21": "evanesce",
+		"22": "indigent",
+		"23": "affluent",
+		"24": "opulent",
+		"25": "euphoric",
+		"26": ["euphonic", "euphonious"],
+		"27": "eulogy",
+		"28": "bromidic",
+		"29": "platitudinous",
+		"30": "eulogize"
+	}
+}

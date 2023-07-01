@@ -1,0 +1,206 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "phanein",
+			"answer": "",
+			"example": "sycophant",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "vir",
+			"answer": "",
+			"example": "virago",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "pater, patris",
+			"answer": "",
+			"example": "patricide",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "onyma",
+			"answer": "",
+			"example": "synonym",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "homos",
+			"answer": "",
+			"example": "homonym",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "phone",
+			"answer": "",
+			"example": "homophone",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "archein",
+			"answer": "",
+			"example": "matriarch",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "mater, matris",
+			"answer": "",
+			"example": "matron",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "caedo (-cide)",
+			"answer": "",
+			"example": "suicide",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "homo",
+			"answer": "",
+			"example": "homicide",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "uxor",
+			"answer": "",
+			"example": "uxorious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "maritus",
+			"answer": "",
+			"example": "mariticide",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "pyros",
+			"answer": "",
+			"example": "pyromania",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "14",
+			"question": "theos",
+			"answer": "",
+			"example": "atheist",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "15",
+			"question": "vivo",
+			"answer": "",
+			"example": "viviparous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "16",
+			"question": "credo",
+			"answer": "",
+			"example": "credulous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "17",
+			"question": "pungo",
+			"answer": "",
+			"example": "pungency",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "18",
+			"question": "unus",
+			"answer": "",
+			"example": "unanimous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "19",
+			"question": "trepido",
+			"answer": "",
+			"example": "intrepid",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "20",
+			"question": "scintilla",
+			"answer": "",
+			"example": "scintillate",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "21",
+			"question": "urbs",
+			"answer": "",
+			"example": "urbanity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "22",
+			"question": "rus, ruris",
+			"answer": "",
+			"example": "rural, rustic",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "23",
+			"question": "gnosis",
+			"answer": "",
+			"example": "prognosis",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "24",
+			"question": "pan",
+			"answer": "",
+			"example": "pantheism",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "25",
+			"question": "omnis",
+			"answer": "",
+			"example": "omniscient",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "to show",
+		"2": ["man", "male"],
+		"3": "father",
+		"4": "name",
+		"5": "the same",
+		"6": "sound",
+		"7": "to rule",
+		"8": "mother",
+		"9": ["to kill", "killing"],
+		"10": "person",
+		"11": "wife",
+		"12": "husband",
+		"13": "fire",
+		"14": "God",
+		"15": "to live",
+		"16": "to believe",
+		"17": "to pierce sharply",
+		"18": "one",
+		"19": "to tremble",
+		"20": "spark",
+		"21": "city",
+		"22": ["country", "countryside"],
+		"23": "knowledge",
+		"24": "all",
+		"25": "all"
+	}
+}

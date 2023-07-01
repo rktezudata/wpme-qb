@@ -1,0 +1,78 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "anodyne",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "bromide",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "persiflage",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "eulogy",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "penuriousness",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "indigence",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "affluence",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "light, teasing banter"
+		},
+		{
+			"id": "b",
+			"question": "tightfistedness"
+		},
+		{
+			"id": "c",
+			"question": "statement intended to allay anxiety"
+		},
+		{
+			"id": "d",
+			"question": "poverty, want"
+		},
+		{
+			"id": "e",
+			"question": "high, formal praise"
+		},
+		{
+			"id": "f",
+			"question": "wealth"
+		},
+		{
+			"id": "g",
+			"question": "trite statement"
+		}
+	],
+	"answers": {
+		"1": "c",
+		"2": "g",
+		"3": "a",
+		"4": "e",
+		"5": "b",
+		"6": "d",
+		"7": "f"
+	}
+}

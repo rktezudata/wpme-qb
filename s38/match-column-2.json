@@ -1,0 +1,108 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "does not know whether or not God exists",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "is a criminal",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "is a connoisseur of good food",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "sets fires for revenge",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "meets adversity or pain without flinching",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "walks in his sleep",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "is obsessively addicted to drink",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "has imaginary ailments",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "compulsively sets fires",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "is a woman who is sexually insatiable",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "dipsomaniac"
+		},
+		{
+			"id": "b",
+			"question": "pyromaniac"
+		},
+		{
+			"id": "c",
+			"question": "agnostic"
+		},
+		{
+			"id": "d",
+			"question": "hypochondriac"
+		},
+		{
+			"id": "e",
+			"question": "gourmet"
+		},
+		{
+			"id": "f",
+			"question": "stoic"
+		},
+		{
+			"id": "g",
+			"question": "malefactor"
+		},
+		{
+			"id": "h",
+			"question": "somnambulist"
+		},
+		{
+			"id": "i",
+			"question": "nymphomaniac"
+		},
+		{
+			"id": "j",
+			"question": "incendiary"
+		}
+	],
+	"answers": {
+		"1": "c",
+		"2": "g",
+		"3": "e",
+		"4": "j",
+		"5": "f",
+		"6": "h",
+		"7": "a",
+		"8": "d",
+		"9": "b",
+		"10": "i"
+	}
+}

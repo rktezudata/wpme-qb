@@ -1,0 +1,88 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "penurious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "indigent",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "affluent",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "evanescent",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "euphemistic",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "euphonious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "euphoric",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "platitudinous",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "poor; of limited means"
+		},
+		{
+			"id": "b",
+			"question": "inoffensive"
+		},
+		{
+			"id": "c",
+			"question": "flat, trite"
+		},
+		{
+			"id": "d",
+			"question": "feeling tiptop"
+		},
+		{
+			"id": "e",
+			"question": "wealthy"
+		},
+		{
+			"id": "f",
+			"question": "pleasant in sound"
+		},
+		{
+			"id": "g",
+			"question": "stingy; tight-fisted"
+		},
+		{
+			"id": "h",
+			"question": "fleeting"
+		}
+	],
+	"answers": {
+		"1": "g",
+		"2": "a",
+		"3": "e",
+		"4": "h",
+		"5": "b",
+		"6": "f",
+		"7": "d",
+		"8": "c"
+	}
+}

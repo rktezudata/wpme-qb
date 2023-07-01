@@ -2,75 +2,75 @@
 	"questions": [
 		{
 			"id": "1",
-			"question": "Do wealthy people normally live in penury?",
+			"question": "Do penurious people satisfy their extravagant desires?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "2",
-			"question": "Is a vicarious thrill one that comes from direct participation?",
+			"question": "Is penuriousness the characteristic of a miser?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "3",
-			"question": "Do ephemeral things last a very short time?",
+			"question": "If you are parsimonious with praise, do you lavish it on others?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "4",
-			"question": "Is a euphemism the substitution of an inoffensive term for another of the same meaning that may sound offensive, vulgar, or indelicate?",
+			"question": "Are people with extremely low incomes forced to live a life of parsimony?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "5",
-			"question": "Does badinage show lighthearted frivolity?",
+			"question": "Is indigence a sign of wealth?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "6",
-			"question": "Are bovine people high-strung and nervous?",
+			"question": "Are indigent people often aided by state welfare?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "7",
-			"question": "Does one get a feeling of nostalgia for past occurrences and relationships?",
+			"question": "If you live in a state of destitution, do you have all the money you need?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "8",
-			"question": "Is cacophony pleasant and musical?",
+			"question": "Is a completely destitute person likely to have to live in want?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "9",
-			"question": "Do carnivorous animals eat meat?",
+			"question": "Does a person of affluence generally have petty money worries?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "10",
-			"question": "Is a clandestine meeting conducted in secrecy?",
+			"question": "Are opulent surroundings indicative of great wealth?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		}
 	],
 	"answers": {
 		"1": "no",
-		"2": "no",
-		"3": "yes",
+		"2": "yes",
+		"3": "no",
 		"4": "yes",
-		"5": "yes",
-		"6": "no",
-		"7": "yes",
-		"8": "no",
-		"9": "yes",
+		"5": "no",
+		"6": "yes",
+		"7": "no",
+		"8": "yes",
+		"9": "no",
 		"10": "yes"
 	}
 }

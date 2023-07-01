@@ -1,0 +1,41 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "Is a platitude flat and dull?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "If a person uses bromides, is he likely to be an interesting conversationalist?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "If you indulge in persiflage, are you being facetious?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "Are the works of Beethoven considered euphonious?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "Can parents receive a vicarious thrill from their children's triumphs?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "yes",
+		"2": "no",
+		"3": "yes",
+		"4": "yes",
+		"5": "yes"
+	}
+}

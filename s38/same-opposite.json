@@ -1,0 +1,146 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "disparage - praise",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "proscribe - prohibit",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "placate - irritate",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "taciturn - talkative",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "cogent - brilliant",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "atheistic - religious",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "convivial - unfriendly",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "ingenuous - naive",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "perspicacious - keen-minded",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "intrepid - fearful",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "malign - praise",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "inarticulate - verbal",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "verbose - laconic",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "14",
+			"question": "tyro - virtuoso",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "15",
+			"question": "megalomania - modesty",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "16",
+			"question": "satyriasis - nymphomania",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "17",
+			"question": "claustrophobia - agoraphobia",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "18",
+			"question": "indefatigability - tirelessness",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "19",
+			"question": "credulous - skeptical",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "20",
+			"question": "animosity - hostility",
+			"selectedAnswer": null
+		}
+	],
+	"answerType": "same-opposite",
+	"answers": {
+		"1": "opposite",
+		"2": "same",
+		"3": "opposite",
+		"4": "opposite",
+		"5": "same",
+		"6": "opposite",
+		"7": "opposite",
+		"8": "same",
+		"9": "same",
+		"10": "opposite",
+		"11": "opposite",
+		"12": "opposite",
+		"13": "opposite",
+		"14": "opposite",
+		"15": "opposite",
+		"16": "opposite",
+		"17": "opposite",
+		"18": "same",
+		"19": "opposite",
+		"20": "same"
+	}
+}

@@ -1,0 +1,246 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "to make unnecessary",
+			"initialLetter": "O",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "to flatter fulsomely",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "to spread slander about",
+			"initialLetter": "M",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "economical in speech",
+			"initialLetter": "L",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "trite and hackneyed",
+			"initialLetter": "B",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "word for word",
+			"initialLetter": "V",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "killing of masses of people",
+			"initialLetter": "G",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "inheritance from one's father",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "belief in many gods",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "a person aggressively fighting for a cause",
+			"initialLetter": "M",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "sincere; valid; in good faith",
+			"initialLetter": "B",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "babbling ceaselessly about trivia (adj.)",
+			"initialLetter": "G",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "to speak to oneself, as in a play",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "14",
+			"question": "masterpiece",
+			"initialLetter": "M",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "15",
+			"question": "unselfish; not revengeful",
+			"initialLetter": "M",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "16",
+			"question": "able to walk after being bedridden",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "17",
+			"question": "inability to fall asleep",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "18",
+			"question": "morbid fear of heights",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "19",
+			"question": "the killing of one's brother",
+			"initialLetter": "F",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "20",
+			"question": "opposite in meaning (adj.)",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "21",
+			"question": "joy of life",
+			"initialLetter": "J",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "22",
+			"question": "to rob of life or vigor",
+			"initialLetter": "D",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "23",
+			"question": "inexperience, unsophistication",
+			"initialLetter": "N",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "24",
+			"question": "scrupulously careful in the observance of proper procedure",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "25",
+			"question": "clear, understandable (of style or language)",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "26",
+			"question": "wary, cautious, watchful",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "27",
+			"question": "a backward look",
+			"initialLetter": "R",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "28",
+			"question": "all of one mind (adj.)",
+			"initialLetter": "U",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "29",
+			"question": "uncomplaining in face of pain, misfortune, or emotional difficulties (adj.)",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "30",
+			"question": "between cities (adj.)",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "obviate",
+		"2": "adulate",
+		"3": "malign",
+		"4": "laconic",
+		"5": "banal",
+		"6": "verbatim",
+		"7": "genocide",
+		"8": "patrimony",
+		"9": "polytheism",
+		"10": "militant",
+		"11": "bona fide",
+		"12": "garrulous",
+		"13": "soliloquize",
+		"14": "magnum opus",
+		"15": "magnanimous",
+		"16": "ambulatory",
+		"17": "insomnia",
+		"18": "acrophobia",
+		"19": "fratricide",
+		"20": "antonymous",
+		"21": "joie de vivre",
+		"22": "devitalize",
+		"23": "naivete",
+		"24": "punctilious",
+		"25": "perspicuous",
+		"26": "circumspect",
+		"27": "retrospect",
+		"28": "unanimous",
+		"29": "stoical",
+		"30": "interurban"
+	}
+}

@@ -2,107 +2,107 @@
 	"columnA": [
 		{
 			"id": "1",
-			"question": "penury",
+			"question": "parsimonious",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "2",
-			"question": "vicarious",
+			"question": "destitute",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "3",
-			"question": "ephemeral",
+			"question": "opulent",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "4",
-			"question": "euphemism",
+			"question": "vicarious",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "5",
-			"question": "badinage",
+			"question": "euphonic",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "6",
-			"question": "bovine",
+			"question": "eulogistic",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "7",
-			"question": "nostalgia",
+			"question": "evanesce",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "8",
-			"question": "cacophony",
+			"question": "eulogize",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "9",
-			"question": "carnivorous",
+			"question": "bromidic",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "10",
-			"question": "clandestine",
+			"question": "cliche",
 			"wrongAnsSelected": false
 		}
 	],
 	"columnB": [
 		{
 			"id": "a",
-			"question": "impermanent"
+			"question": "begin to vanish"
 		},
 		{
 			"id": "b",
-			"question": "banter"
+			"question": "stingy, frugal"
 		},
 		{
 			"id": "c",
-			"question": "homesickness"
+			"question": "highly praising"
 		},
 		{
 			"id": "d",
-			"question": "meat-eating"
+			"question": "hackneyed phrase"
 		},
 		{
 			"id": "e",
-			"question": "circumlocution"
+			"question": "ostentatiously wealthy"
 		},
 		{
 			"id": "f",
-			"question": "harsh noise"
+			"question": "stilted in expression"
 		},
 		{
 			"id": "g",
-			"question": "poverty"
+			"question": "pleasant-sounding"
 		},
 		{
 			"id": "h",
-			"question": "secret"
+			"question": "in want"
 		},
 		{
 			"id": "i",
-			"question": "placid; stolid; cowlike"
+			"question": "secondhand"
 		},
 		{
 			"id": "j",
-			"question": "secondhand"
+			"question": "praise"
 		}
 	],
 	"answers": {
-		"1": "g",
-		"2": "j",
-		"3": "a",
-		"4": "e",
-		"5": "b",
-		"6": "i",
-		"7": "c",
-		"8": "f",
-		"9": "d",
-		"10": "h"
+		"1": "b",
+		"2": "h",
+		"3": "e",
+		"4": "i",
+		"5": "g",
+		"6": "c",
+		"7": "a",
+		"8": "j",
+		"9": "f",
+		"10": "d"
 	}
 }

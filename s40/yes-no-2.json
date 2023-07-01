@@ -2,67 +2,67 @@
 	"questions": [
 		{
 			"id": "1",
-			"question": "Do wealthy people normally live in penury?",
+			"question": "Can you engage in vicarious exploits by reading spy novels?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "2",
-			"question": "Is a vicarious thrill one that comes from direct participation?",
+			"question": "Does an evanescent feeling remain for a considerable time?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "3",
-			"question": "Do ephemeral things last a very short time?",
+			"question": "Do parents generally indulge in euphemisms in front of young children?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "4",
-			"question": "Is a euphemism the substitution of an inoffensive term for another of the same meaning that may sound offensive, vulgar, or indelicate?",
+			"question": "Is poetry generally euphonious?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "5",
-			"question": "Does badinage show lighthearted frivolity?",
+			"question": "Does a sincere eulogy indicate one's feeling of admiration?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "6",
-			"question": "Are bovine people high-strung and nervous?",
+			"question": "Is euphoria a feeling of malaise?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "7",
-			"question": "Does one get a feeling of nostalgia for past occurrences and relationships?",
+			"question": "Is euthanasia practiced on animals?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "8",
-			"question": "Is cacophony pleasant and musical?",
+			"question": "Is persiflage an indication of seriousness?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "9",
-			"question": "Do carnivorous animals eat meat?",
+			"question": "Does a liberal use of cliches show original thinking?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "10",
-			"question": "Is a clandestine meeting conducted in secrecy?",
+			"question": "Is an anodyne intended to relieve fears?",
 			"selectedAnswer": null,
 			"wrongAnsSelected": false
 		}
 	],
 	"answers": {
-		"1": "no",
+		"1": "yes",
 		"2": "no",
 		"3": "yes",
 		"4": "yes",
@@ -70,7 +70,7 @@
 		"6": "no",
 		"7": "yes",
 		"8": "no",
-		"9": "yes",
+		"9": "no",
 		"10": "yes"
 	}
 }

@@ -65,14 +65,14 @@
 		}
 	],
 	"answers": {
-		"1": "b",
-		"2": "a",
-		"3": "c",
-		"4": "b",
-		"5": "c",
-		"6": ["b", "c"],
-		"7": "c",
-		"8": "a",
-		"9": "c"
+		"1": "enervation",
+		"2": "synergy",
+		"3": "decapitate",
+		"4": "negate",
+		"5": "vegetate",
+		"6": ["dissimulation", "dissemblance"],
+		"7": "commiseration",
+		"8": "vacillation",
+		"9": "ambivalent"
 	}
 }

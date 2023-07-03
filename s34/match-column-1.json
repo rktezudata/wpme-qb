@@ -1,0 +1,88 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "indefatigability",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "ingenuousness",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "disingenuousness",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "naivete",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "credibility",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "incredulity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "credence",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "credo",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "cunning"
+		},
+		{
+			"id": "b",
+			"question": "skepticism"
+		},
+		{
+			"id": "c",
+			"question": "personal code of ethics"
+		},
+		{
+			"id": "d",
+			"question": "frankness"
+		},
+		{
+			"id": "e",
+			"question": "belief, trust"
+		},
+		{
+			"id": "f",
+			"question": "tirelessness"
+		},
+		{
+			"id": "g",
+			"question": "believability"
+		},
+		{
+			"id": "h",
+			"question": "inexperience; unworldliness"
+		}
+	],
+	"answers": {
+		"1": "f",
+		"2": "d",
+		"3": "a",
+		"4": "h",
+		"5": "g",
+		"6": "b",
+		"7": "e",
+		"8": "c"
+	}
+}

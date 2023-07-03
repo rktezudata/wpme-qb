@@ -1,0 +1,108 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "acute",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "acuity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "punctuate",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "puncture",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "pungence, pungency",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "perspicuity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "prospective",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "introspective",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "circumspection",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "specious",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "pierce; make a hole in; (noun) a small hole"
+		},
+		{
+			"id": "b",
+			"question": "clarity; lucidity; ability to be understood quickly and easily "
+		},
+		{
+			"id": "c",
+			"question": "sounding plausible, or looking right, but actually false or untrue"
+		},
+		{
+			"id": "d",
+			"question": "in the future; describing that which, or one who, can be looked forward to"
+		},
+		{
+			"id": "e",
+			"question": "care; watchfulness; caution"
+		},
+		{
+			"id": "f",
+			"question": "sharp; sudden; keen-minded"
+		},
+		{
+			"id": "g",
+			"question": "tending to examine and to think about one's motives, feelings, etc."
+		},
+		{
+			"id": "h",
+			"question": "interrupt sharply or suddenly"
+		},
+		{
+			"id": "i",
+			"question": "sharpness or spiciness of taste, smell, wit, etc."
+		},
+		{
+			"id": "j",
+			"question": "keeness of mind, thinking, or intellect"
+		}
+	],
+	"answers": {
+		"1": "f",
+		"2": "j",
+		"3": "h",
+		"4": "a",
+		"5": "i",
+		"6": "b",
+		"7": "d",
+		"8": "g",
+		"9": "e",
+		"10": "c"
+	}
+}

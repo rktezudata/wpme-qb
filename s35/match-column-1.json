@@ -1,0 +1,108 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "perspicacious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "acumen",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "acupuncture",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "punctilious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "pungent",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "perspicuous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "retrospect",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "prospect",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "introspective",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "circumspect",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "extremely careful, exact, or proper in procedure"
+		},
+		{
+			"id": "b",
+			"question": "clear; easy to understand"
+		},
+		{
+			"id": "c",
+			"question": "a forward look"
+		},
+		{
+			"id": "d",
+			"question": "looking inside, or examining or analyzing, oneself"
+		},
+		{
+			"id": "e",
+			"question": "keen-minded"
+		},
+		{
+			"id": "f",
+			"question": "sharp; spicy; piercing"
+		},
+		{
+			"id": "g",
+			"question": "careful, watchful, wary, cautious; \"looking around\""
+		},
+		{
+			"id": "h",
+			"question": "sharpness of mind or thinking"
+		},
+		{
+			"id": "i",
+			"question": "a backward look"
+		},
+		{
+			"id": "j",
+			"question": "medical insertion of needles"
+		}
+	],
+	"answers": {
+		"1": "e",
+		"2": "h",
+		"3": "j",
+		"4": "a",
+		"5": "f",
+		"6": "b",
+		"7": "i",
+		"8": "c",
+		"9": "d",
+		"10": "g"
+	}
+}

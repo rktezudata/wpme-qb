@@ -3,56 +3,56 @@
 		{
 			"id": "1",
 			"question": "Does life often seem pleasanter in retrospect?",
-			"selectedAnswer": "null",
-			"wrongAnsSelected": "false"
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
 		},
 		{
 			"id": "2",
 			"question": "Are people of acuity gullible?",
-			"selectedAnswer": "null",
-			"wrongAnsSelected": "false"
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
 		},
 		{
 			"id": "3",
 			"question": "Is perspicacity a common characteristic?",
-			"selectedAnswer": "null",
-			"wrongAnsSelected": "false"
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
 		},
 		{
 			"id": "4",
 			"question": "Is a person of acumen likely to be naive?",
-			"selectedAnswer": "null",
-			"wrongAnsSelected": "false"
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
 		},
 		{
 			"id": "5",
 			"question": "Is a perspicuous style of writing easy to read?",
-			"selectedAnswer": "null",
-			"wrongAnsSelected": "false"
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
 		},
 		{
 			"id": "6",
 			"question": "Should all writers aim at perspicuity?",
-			"selectedAnswer": "null",
-			"wrongAnsSelected": "false"
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
 		},
 		{
 			"id": "7",
 			"question": "Is magnanimity a characteristic of small-minded people?",
-			"selectedAnswer": "null",
-			"wrongAnsSelected": "false"
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
 		},
 		{
 			"id": "8",
 			"question": "Does a person of pusillanimous mind often think of petty revenge?",
-			"selectedAnswer": "null",
-			"wrongAnsSelected": "false"
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
 		},
 		{
 			"id": "9",
 			"question": "Is a unanimous opinion one in which all concur?",
-			"selectedAnswer": "null",
-			"wrongAnsSelected": "false"
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
 		}
 	],
 	"answers": {

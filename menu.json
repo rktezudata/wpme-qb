@@ -674,7 +674,7 @@
         "text": "Recall - more adjectives",
         "queryParams": {
           "type": "recall",
-          "path": "s41/recall-adjectives.json"
+          "path": "s41/recall-more-adjectives.json"
         }
       },
       {

@@ -1,0 +1,102 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "inexperience; unsophistication",
+			"initialLetter": "N",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "believing (adj.)",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "religious belief",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "believable",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "great reservoir of energy",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "frankness",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "crafty; dishonest",
+			"initialLetter": "D",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "inventive; clever",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "easily tricked",
+			"initialLetter": "G",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "skeptical",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "unbelievable",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "personal code",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "naive",
+		"2": "credulous",
+		"3": "creed",
+		"4": "credible",
+		"5": "indefatigability",
+		"6": "ingenuousness",
+		"?": "disingenuous",
+		"8": "ingenious",
+		"9": "gullible",
+		"10": "incredulous",
+		"11": "incredible",
+		"12": "credo"
+	}
+}

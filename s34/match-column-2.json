@@ -1,0 +1,88 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "ingenious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "credulous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "gullible",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "incredible",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "creed",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "credentials",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "ingenuity",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "naive",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "easily tricked"
+		},
+		{
+			"id": "b",
+			"question": "religious belief"
+		},
+		{
+			"id": "c",
+			"question": "inexperienced; unworldly"
+		},
+		{
+			"id": "d",
+			"question": "document proving privileges, identity, etc."
+		},
+		{
+			"id": "e",
+			"question": "unbelievable"
+		},
+		{
+			"id": "f",
+			"question": "shrewdness; cleverness"
+		},
+		{
+			"id": "g",
+			"question": "clever; inventive; shrewd"
+		},
+		{
+			"id": "h",
+			"question": "willing to believe"
+		}
+	],
+	"answers": {
+		"1": "a",
+		"2": "b",
+		"3": "g",
+		"4": "e",
+		"5": "h",
+		"6": "d",
+		"7": "f",
+		"8": "c"
+	}
+}

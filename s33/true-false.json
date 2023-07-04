@@ -1,0 +1,69 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "Humans are viviparous.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "Cows are oviparous.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "Ovulation takes places in females only when they are married.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "An antivivisectionist believes in experimenting on live animals.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "Vitamins are essential to good health.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "A bon vivant lives like a hermit.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "A gourmet stuffs himself with food.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "It is normal for young children to be overwhelmed with ennui.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "People who are keenly alive possess joie de vivre.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "true",
+		"2": "false",
+		"3": "false",
+		"4": "false",
+		"5": "true",
+		"6": "false",
+		"7": "false",
+		"8": "false",
+		"9": "true"
+	}
+}

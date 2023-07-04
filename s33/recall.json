@@ -1,0 +1,158 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "bearing young by eggs (adj.)",
+			"initialLetter": "O",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "bearing live young (adj.)",
+			"initialLetter": "V",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "good-fellowship",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "operating on live animals",
+			"initialLetter": "V",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "one who is opposed to such an activity",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "the process of releasing an egg from the ovary",
+			"initialLetter": "O",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "to remove life or vigor from",
+			"initialLetter": "D",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "joy of living",
+			"initialLetter": "J",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "one who eats like a pig",
+			"initialLetter": "G",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "a high liver",
+			"initialLetter": "B",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "one who is a connoisseur of good food",
+			"initialLetter": "G",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "one who gets a sensual enjoyment from good food",
+			"initialLetter": "G",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "to stuff oneself like a pig; to eat greedily",
+			"initialLetter": "G",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "14",
+			"question": "boredom; discontent; tedium",
+			"initialLetter": "E",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "15",
+			"question": "liveliness, pep",
+			"initialLetter": "V",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "16",
+			"question": "egg-shaped",
+			"initialLetter": "O",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "17",
+			"question": "to bring renewed life or vigor to",
+			"initialLetter": "R",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "18",
+			"question": "referring to the ovary (adj.)",
+			"initialLetter": "O",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "19",
+			"question": "essential to life; crucial; of utmost importance ",
+			"initialLetter": "V",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "oviparous",
+		"2": "viviparous",
+		"3": "conviviality",
+		"4": "vivisection",
+		"5": "antivivisectionist",
+		"6": "ovulation",
+		"7": "devitalize",
+		"8": "joie de vivre",
+		"9": "glutton",
+		"10": "bon vivant",
+		"11": "gourmet",
+		"12": "gourmand",
+		"13": ["gluttonize", "gormandize"],
+		"14": "ennui",
+		"15": ["vivacity", "vivaciousness", "vitality"],
+		"16": ["oval", "ovoid"],
+		"17": ["revitalize", "revive"],
+		"18": "ovarian",
+		"19": "vital"
+	}
+}

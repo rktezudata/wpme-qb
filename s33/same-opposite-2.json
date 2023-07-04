@@ -1,0 +1,70 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "vivacity - liveliness",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "revival - renewal",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "vivisection - experimentation on corpses",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "ovulation - egg-releasing",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "devitalize - reinvigorate",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "vitality - fatigue",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "gluttonous - greedy",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "gourmand - ascetic",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "ovoid - egg-shaped",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answerType": "same-opposite",
+	"answers": {
+		"1": "same",
+		"2": "same",
+		"3": "opposite",
+		"4": "same",
+		"5": "opposite",
+		"6": "opposite",
+		"7": "same",
+		"8": "opposite",
+		"9": "same"
+	}
+}

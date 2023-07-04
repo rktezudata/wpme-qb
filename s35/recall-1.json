@@ -1,0 +1,86 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "plausible, but false or incorrect",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "spiciness, sharpness; piercing quality",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "clear; easily understood",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "sharpness of mind or of intelligence",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "care and caution; wariness",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "piercing of the skin with needles for medical purposes",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "tending to examine one's motives, etc.; looking inward (adj.)",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "exact in the observance of proper procedure",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "to pierce and make a small hole in",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "a backward look or view or",
+			"initialLetter": "R",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "specious",
+		"2": ["pungence", " pungency"],
+		"3": "perspicuous",
+		"4": ["acumen", "acuteness ", "acuity"],
+		"5": ["circumspection", "circumspectness"],
+		"6": "acupuncture",
+		"7": "introspective",
+		"8": "punctilious",
+		"9": "puncture",
+		"10": "retrospect"
+	}
+}

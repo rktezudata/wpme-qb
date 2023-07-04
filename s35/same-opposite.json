@@ -1,0 +1,98 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "perspicacious - dull-witted",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "acumen - stupidity",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "acute - sharp",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "acuity - perspicacity",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "punctilious - casual",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "pungent - flat, dull",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "perspicuous - clear",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "retrospect - backward look",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "prospect - expectation",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "introspective - extroverted",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "prospective - in the past",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "circumspect - careless",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "specious - true",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answerType": "same-opposite",
+	"answers": {
+		"1": "opposite",
+		"2": "opposite",
+		"3": "same",
+		"4": "same",
+		"5": "opposite",
+		"6": "opposite",
+		"7": "same",
+		"8": "same",
+		"9": "same",
+		"10": "opposite",
+		"11": "opposite",
+		"12": "opposite",
+		"13": "opposite"
+	}
+}

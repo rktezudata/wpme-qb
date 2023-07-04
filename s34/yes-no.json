@@ -1,0 +1,83 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "Is indefatigability a sign of physical and emotional health?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "Is ingenuousness a normal quality of young childhood?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "Is ingenuity a characteristic of inventors?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "Are some adolescents naive?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "Are unintelligent people often gullible?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "Is incredulity the mark of the agnostic?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "Does an incredible story invite belief?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "Do people generally live by a credo?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "Does our Constitution guarantee certain rights to Americans irrespective of their creed?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "Are ingenious people sometimes disingenuous?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "Do we generally give credence to incredible statements?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "yes",
+		"2": "yes",
+		"3": "yes",
+		"4": "yes",
+		"5": "yes",
+		"6": "yes",
+		"7": "no",
+		"8": "yes",
+		"9": "yes",
+		"10": "yes",
+		"11": "no"
+	}
+}

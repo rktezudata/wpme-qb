@@ -295,6 +295,174 @@
   },
 
   {
+    "id": "session-32",
+    "title": "Session 32",
+    "sessionLinkPath": "09.%20how-to-flatter-your-friends/session-32",
+    "links": [
+      {
+        "text": "Match the column",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s32/match-column.json"
+        }
+      },
+      {
+        "text": "True/False",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s32/true-false.json"
+        }
+      },
+      {
+        "text": "Same - Opposite",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s32/same-opposite.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s32/recall.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-33",
+    "title": "Session 33",
+    "sessionLinkPath": "09.%20how-to-flatter-your-friends/session-33",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s33/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s33/match-column-2.json"
+        }
+      },
+      {
+        "text": "Match the column - 3",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s33/match-column-3.json"
+        }
+      },
+      {
+        "text": "True/False",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s33/true-false.json"
+        }
+      },
+      {
+        "text": "Same - Opposite - 1",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s33/same-opposite-1.json"
+        }
+      },
+      {
+        "text": "Same - Opposite - 2",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s33/same-opposite-2.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s33/recall.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-34",
+    "title": "Session 34",
+    "sessionLinkPath": "09.%20how-to-flatter-your-friends/session-34",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s34/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s34/match-column-2.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s34/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s34/recall.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-35",
+    "title": "Session 35",
+    "sessionLinkPath": "09.%20how-to-flatter-your-friends/session-35",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s35/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s35/match-column-2.json"
+        }
+      },
+      {
+        "text": "Same - Opposite",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s35/same-opposite.json"
+        }
+      },
+      {
+        "text": "Can you recall - 1",
+        "queryParams": {
+          "type": "recall",
+          "path": "s35/recall-1.json"
+        }
+      },
+      {
+        "text": "Can you recall - 2",
+        "queryParams": {
+          "type": "recall",
+          "path": "s35/recall-2.json"
+        }
+      }
+    ]
+  },
+  {
     "id": "session-36",
     "title": "Session 36",
     "sessionLinkPath": "09.%20how-to-flatter-your-friends/session-36",

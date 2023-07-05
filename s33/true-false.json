@@ -55,6 +55,7 @@
 			"wrongAnsSelected": false
 		}
 	],
+	"answerType": "true-false",
 	"answers": {
 		"1": "true",
 		"2": "false",

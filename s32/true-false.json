@@ -61,6 +61,7 @@
 			"wrongAnsSelected": false
 		}
 	],
+	"answerType": "true-false",
 	"answers": {
 		"1": "false",
 		"2": "false",

@@ -1,0 +1,77 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "conviviality - asceticism",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "vivacious - apathetic",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "vivid - dull",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "revive - kill",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "revitalize - rejuvenate",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "ennui - boredom",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "bon vivant - man about town",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "gormandize - starve",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "glutton - ascetic",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "joie de vivre - boredom",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answerType": "same-opposite",
+	"answers": {
+		"1": "opposite",
+		"2": "opposite",
+		"3": "opposite",
+		"4": "opposite",
+		"5": "same",
+		"6": "same",
+		"7": "same",
+		"8": "opposite",
+		"9": "opposite",
+		"10": "opposite"
+	}
+}

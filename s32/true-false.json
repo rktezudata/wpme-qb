@@ -1,0 +1,76 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "Convivial people are unfriendly.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "Anyone who is indefatigable tires easily.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "An ingenuous person is artful and untrustworthy.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "A perspicacious person is hard to fool.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "A magnanimous person is easily insulted.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "A versatile person does many things well.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "A stoical person always complains of his hard lot.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "An intrepid explorer is not easily frightened.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "A scintillating speaker is interesting to listen to.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "Someone who is urbane is always making enemies.",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "false",
+		"2": "false",
+		"3": "false",
+		"4": "true",
+		"5": "false",
+		"6": "true",
+		"7": "false",
+		"8": "true",
+		"9": "true",
+		"10": "false"
+	}
+}

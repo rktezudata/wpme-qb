@@ -1,0 +1,118 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "conviviality",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "vivisection",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "antivivisectionist",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "ovulation",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "vitality",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "joie de vivre",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "ennui",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "bon vivant",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "gourmand",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "gourmet",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "glutton",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "release of the egg"
+		},
+		{
+			"id": "b",
+			"question": "a high liver"
+		},
+		{
+			"id": "c",
+			"question": "experimentation on live animals"
+		},
+		{
+			"id": "d",
+			"question": "one who is against connoisseur of good food"
+		},
+		{
+			"id": "e",
+			"question": "effervescence; joy of living"
+		},
+		{
+			"id": "f",
+			"question": "one who enjoys food"
+		},
+		{
+			"id": "g",
+			"question": "one who eats greedily; one who is greedy (as for punishment, etc.)"
+		},
+		{
+			"id": "h",
+			"question": "boredom"
+		},
+		{
+			"id": "i",
+			"question": "congeniality"
+		},
+		{
+			"id": "j",
+			"question": "strength, vigor"
+		},
+		{
+			"id": "k",
+			"question": "one who is against experimentation on live animals"
+		}
+	],
+	"answers": {
+		"1": "i",
+		"2": "c",
+		"3": "k",
+		"4": "a",
+		"5": "j",
+		"6": "c",
+		"7": "h",
+		"8": "b",
+		"9": "f",
+		"10": "d",
+		"11": "g"
+	}
+}

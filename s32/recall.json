@@ -1,0 +1,86 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "witty",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "noble, forgiving",
+			"initialLetter": "M",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "capable in many fields",
+			"initialLetter": "V",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "keen-minded",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "uncomplaining",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "friendly",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "poised; polished",
+			"initialLetter": "U",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "courageous",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "tireless",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "simple and honest; frank",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "scintillating",
+		"2": "magnanimous",
+		"3": "versatile",
+		"4": "perspicacious",
+		"5": "stoical",
+		"6": "convivial",
+		"7": "urbane",
+		"8": "intrepid",
+		"9": "indefatigable",
+		"10": "ingenuous"
+	}
+}

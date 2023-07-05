@@ -1,0 +1,108 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "convivial",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "indefatigable",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "ingenuous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "perspicacious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "magnanimous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "versatile",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "stoical",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "intrepid",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "scintillating",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "urbane",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "frank"
+		},
+		{
+			"id": "b",
+			"question": "unflinching"
+		},
+		{
+			"id": "c",
+			"question": "noble"
+		},
+		{
+			"id": "d",
+			"question": "capable in many directions"
+		},
+		{
+			"id": "e",
+			"question": "tireless"
+		},
+		{
+			"id": "f",
+			"question": "fearless"
+		},
+		{
+			"id": "g",
+			"question": "keen-minded"
+		},
+		{
+			"id": "h",
+			"question": "witty"
+		},
+		{
+			"id": "i",
+			"question": "friendly"
+		},
+		{
+			"id": "j",
+			"question": "polished, sophisticated"
+		}
+	],
+	"answers": {
+		"1": "i",
+		"2": "e",
+		"3": "a",
+		"4": "g",
+		"5": "c",
+		"6": "d",
+		"7": "b",
+		"8": "f",
+		"9": "h",
+		"10": "j"
+	}
+}

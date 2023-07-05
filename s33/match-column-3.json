@@ -1,0 +1,68 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "revive",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "vital",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "vitalize",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "devitalize",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "gluttonize",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "vitamin",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "rob of life or strength"
+		},
+		{
+			"id": "b",
+			"question": "nutritional element necessary for life"
+		},
+		{
+			"id": "c",
+			"question": "important, crucial"
+		},
+		{
+			"id": "d",
+			"question": "stuff oneself like a pig"
+		},
+		{
+			"id": "e",
+			"question": "breathe life into"
+		},
+		{
+			"id": "f",
+			"question": "bring back to life"
+		}
+	],
+	"answers": {
+		"1": "f",
+		"2": "c",
+		"3": "e",
+		"4": "a",
+		"5": "d",
+		"6": "b"
+	}
+}

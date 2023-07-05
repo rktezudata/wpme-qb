@@ -1,0 +1,78 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "oval, ovoid",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "revitalize",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "gluttonous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "vivacious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "vivid",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "viviparous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "oviparous",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "peppy"
+		},
+		{
+			"id": "b",
+			"question": "bearing live young"
+		},
+		{
+			"id": "c",
+			"question": "strong, sharp"
+		},
+		{
+			"id": "d",
+			"question": "piggish; greedy"
+		},
+		{
+			"id": "e",
+			"question": "egg-shaped"
+		},
+		{
+			"id": "f",
+			"question": "bearing young in eggs"
+		},
+		{
+			"id": "g",
+			"question": "give new life to"
+		}
+	],
+	"answers": {
+		"1": "e",
+		"2": "g",
+		"3": "d",
+		"4": "a",
+		"5": "c",
+		"6": "b",
+		"7": "f"
+	}
+}

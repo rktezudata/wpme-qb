@@ -1,0 +1,143 @@
+{
+  "title": "Do you recognize the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Highly skilled:",
+      "options": ["consummate", "inveterate", "notorious"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Beyond reform:",
+      "options": ["inveterate", "incorrigible", "glib"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Dating from birth:",
+      "options": ["inveterate", "congenital", "psychopathic"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Outstandingly bad:",
+      "options": ["egregious", "unconscionable", "chronic"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Science of heredity:",
+      "options": ["pathology", "genetics", "orthopedics"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Out of time:",
+      "options": ["incongruous", "anachronous", "synchronous"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Study of disease:",
+      "options": ["pathology", "telepathy", "antipathy"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Fond of company, friends, group activities, etc.:",
+      "options": ["apathetic", "gregarious", "chronological"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Indifferent:",
+      "options": ["antipathetic", "pathetic", "apathetic"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "Long accustomed in habit:",
+      "options": ["incorrigible", "notorious", "inveterate"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "Study of family ancestry:",
+      "options": ["genealogy", "genetics", "genesis"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "To complete, finish, top off:",
+      "options": ["synchronize", "consummate", "empathize"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "Accurate timepiece:",
+      "options": ["anachronism", "chronology", "chronometer"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "Identification with the feelings of another:",
+      "options": ["sympathy", "apathy", "empathy"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "Thought transference; extrasensory perception:",
+      "options": ["telepathy", "empathy", "omniscience"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "Ignorance:",
+      "options": ["omniscience", "prescience", "nescience"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "17",
+      "question": "To gather into a group:",
+      "options": ["congregate", "segregate", "synchronize"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "consummate",
+    "2": "incorrigible",
+    "3": "congenital",
+    "4": "egregious",
+    "5": "genetics",
+    "6": "anachronous",
+    "7": "pathology",
+    "8": "gregarious",
+    "9": "apathetic",
+    "10": "inveterate",
+    "11": "genealogy",
+    "12": "consummate",
+    "13": "chronometer",
+    "14": "empathy",
+    "15": "telepathy",
+    "16": "nescience",
+    "17": "congregate"
+  }
+}

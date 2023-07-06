@@ -1,0 +1,109 @@
+{
+  "title": "Can you work with the words?",
+  "columnA": [
+    {
+      "id": "1",
+      "question": "chronicity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "anachronism",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "incongruity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "chronology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "chronometer",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "chronometry",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "synchronization",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "pathology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "sympathy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "telepathy",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "something, or state of being, out of place"
+    },
+    {
+      "id": "b",
+      "question": "timepiece; device that measures time very accurately"
+    },
+    {
+      "id": "c",
+      "question": "condition of continual or repeated recurrence"
+    },
+    {
+      "id": "d",
+      "question": "act of occurring, or of causing to occur, at the same time"
+    },
+    {
+      "id": "e",
+      "question": "calendar of events in order of occurrence"
+    },
+    {
+      "id": "f",
+      "question": "something, or someone, out of time"
+    },
+    {
+      "id": "g",
+      "question": "measurement of time"
+    },
+    {
+      "id": "h",
+      "question": "a sharing or understanding of another’s feeling"
+    },
+    {
+      "id": "i",
+      "question": "ESP; communication from a distance"
+    },
+    {
+      "id": "j",
+      "question": "disease; study of disease"
+    }
+  ],
+  "answers": {
+    "1": "c",
+    "2": "f",
+    "3": "a",
+    "4": "e",
+    "5": "b",
+    "6": "g",
+    "7": "d",
+    "8": "j",
+    "9": "h",
+    "10": "i"
+  }
+}

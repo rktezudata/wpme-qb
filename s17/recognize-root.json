@@ -1,0 +1,119 @@
+{
+  "title": "Can you recognize roots?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "notus",
+      "answer": "",
+      "example": "notorious",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "summus",
+      "answer": "",
+      "example": "summit",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "corrigo",
+      "answer": "",
+      "example": "incorrigible",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "vetus",
+      "answer": "",
+      "example": "veteran",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "senex",
+      "answer": "",
+      "example": "senile",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "genesis",
+      "answer": "",
+      "example": "congenital",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "logos",
+      "answer": "",
+      "example": "genealogy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "chronos",
+      "answer": "",
+      "example": "chronic",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "metron",
+      "answer": "",
+      "example": "chronometer",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "pathos",
+      "answer": "",
+      "example": "pathology, pathetic, empathy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "grex, gregis",
+      "answer": "",
+      "example": "gregarious",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "scio",
+      "answer": "",
+      "example": "unconscionable",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "sciens",
+      "answer": "",
+      "example": "prescience",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "omnis",
+      "answer": "",
+      "example": "omniscient",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "known",
+    "2": "highest",
+    "3": ["to correct", "set straight"],
+    "4": "old",
+    "5": "old",
+    "6": "birth",
+    "7": ["science", "study"],
+    "8": "time",
+    "9": "measurement",
+    "10": ["disease", "suffering", "feeling"],
+    "11": ["herd", "flock"],
+    "12": "to know",
+    "13": "knowing",
+    "14": "all"
+  }
+}

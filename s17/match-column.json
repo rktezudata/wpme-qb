@@ -1,0 +1,109 @@
+{
+  "title": "Can you work with the words?",
+  "columnA": [
+    {
+      "id": "1",
+      "question": "unconscionability",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "omniscience",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "prescience",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "nescience",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "glibness",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "egregiousness",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "gregariousness",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "congregation",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "segregation",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "aggregate (n.)",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "ignorance"
+    },
+    {
+      "id": "b",
+      "question": "outstanding badness or viciousness"
+    },
+    {
+      "id": "c",
+      "question": "religious group; a massing together"
+    },
+    {
+      "id": "d",
+      "question": "total; mass; whole"
+    },
+    {
+      "id": "e",
+      "question": "exclusion from the herd; a setting apart"
+    },
+    {
+      "id": "f",
+      "question": "infinite knowledge"
+    },
+    {
+      "id": "g",
+      "question": "friendliness; enjoyment of mixing with people"
+    },
+    {
+      "id": "h",
+      "question": "lack of conscience"
+    },
+    {
+      "id": "i",
+      "question": "suspiciously smooth fluency"
+    },
+    {
+      "id": "j",
+      "question": "foreknowledge"
+    }
+  ],
+  "answers": {
+    "1": "h",
+    "2": "f",
+    "3": "j",
+    "4": "a",
+    "5": "i",
+    "6": "b",
+    "7": "g",
+    "8": "c",
+    "9": "e",
+    "10": "d"
+  }
+}

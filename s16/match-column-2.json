@@ -1,0 +1,119 @@
+{
+  "title": "Can you work with the words?",
+  "columnA": [
+    {
+      "id": "1",
+      "question": "pathologist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "antipathy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "apathy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "empathy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "synchronize",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "empathize",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "anachronous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "incongruous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "synchronous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "pathetic",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "telepathic",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "identification with another’s feelings"
+    },
+    {
+      "id": "b",
+      "question": "share another’s feelings so strongly as to experience those feelings oneself"
+    },
+    {
+      "id": "c",
+      "question": "out of time"
+    },
+    {
+      "id": "d",
+      "question": "one who examines tissue to diagnose disease"
+    },
+    {
+      "id": "e",
+      "question": "occurring at the same time or rate"
+    },
+    {
+      "id": "f",
+      "question": "relating to extrasensory perception"
+    },
+    {
+      "id": "g",
+      "question": "suffering; arousing sympathy or pity"
+    },
+    {
+      "id": "h",
+      "question": "lack of feeling; non-responsiveness"
+    },
+    {
+      "id": "i",
+      "question": "out of place"
+    },
+    {
+      "id": "j",
+      "question": "happen, or cause to happen, at the same time or rate"
+    },
+    {
+      "id": "k",
+      "question": "hostility; strong dislike"
+    }
+  ],
+  "answers": {
+    "1": "d",
+    "2": "k",
+    "3": "h",
+    "4": "a",
+    "5": "j",
+    "6": "b",
+    "7": "c",
+    "8": "i",
+    "9": "e",
+    "10": "g",
+    "11": "f"
+  }
+}

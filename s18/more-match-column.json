@@ -1,109 +1,109 @@
 {
-  "title": "Matching",
+  "title": "More matching",
   "columnA": [
     {
       "id": "1",
-      "question": "dislikes women",
+      "question": "delivers babies",
       "wrongAnsSelected": false
     },
     {
       "id": "2",
-      "question": "is pathologically self- interested",
+      "question": "treats female ailments",
       "wrongAnsSelected": false
     },
     {
       "id": "3",
-      "question": "studies the development of the human race",
+      "question": "treats infants",
       "wrongAnsSelected": false
     },
     {
       "id": "4",
-      "question": "is an expert on insects",
+      "question": "treats skin diseases",
       "wrongAnsSelected": false
     },
     {
       "id": "5",
-      "question": "collects books",
+      "question": "treats skeletal deformities",
       "wrongAnsSelected": false
     },
     {
       "id": "6",
-      "question": "mounts and stus animal skins",
+      "question": "is a heart specialist",
       "wrongAnsSelected": false
     },
     {
       "id": "7",
-      "question": "is an eye doctor",
+      "question": "treats mental or emotional disturbances",
       "wrongAnsSelected": false
     },
     {
       "id": "8",
-      "question": "is a student of linguistics",
+      "question": "treats disorders of the nervous system",
       "wrongAnsSelected": false
     },
     {
       "id": "9",
-      "question": "has \"split off\" from reality",
+      "question": "treats minor ailments of the feet",
       "wrongAnsSelected": false
     },
     {
       "id": "10",
-      "question": "commits antisocial acts without guilt or pangs of conscience",
+      "question": "treats ailments of the gums",
       "wrongAnsSelected": false
     }
   ],
   "columnB": [
     {
       "id": "a",
-      "question": "entomologist"
+      "question": "pediatrician"
     },
     {
       "id": "b",
-      "question": "taxidermist"
+      "question": "cardiologist"
     },
     {
       "id": "c",
-      "question": "egomaniac"
+      "question": "psychiatrist"
     },
     {
       "id": "d",
-      "question": "bibliophile"
+      "question": "podiatrist"
     },
     {
       "id": "e",
-      "question": "ophthalmologist"
+      "question": "dermatologist"
     },
     {
       "id": "f",
-      "question": "psychopath"
+      "question": "periodontist"
     },
     {
       "id": "g",
-      "question": "philologist"
+      "question": "obstetrician"
     },
     {
       "id": "h",
-      "question": "anthropologist"
+      "question": "neurologist"
     },
     {
       "id": "i",
-      "question": "psychotic"
+      "question": "orthopedist"
     },
     {
       "id": "j",
-      "question": "misogynist"
+      "question": "gynecologist"
     }
   ],
   "answers": {
-    "1": "j",
-    "2": "c",
-    "3": "h",
-    "4": "a",
-    "5": "d",
+    "1": "g",
+    "2": "j",
+    "3": "a",
+    "4": "e",
+    "5": "i",
     "6": "b",
-    "7": "e",
-    "8": "g",
-    "9": "i",
+    "7": "c",
+    "8": "h",
+    "9": "d",
     "10": "f"
   }
 }

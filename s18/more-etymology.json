@@ -1,0 +1,207 @@
+{
+  "title": "More etymology",
+  "questions": [
+    {
+      "id": "1",
+      "question": "graphein",
+      "answer": "",
+      "example": "graphology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "kallos",
+      "answer": "",
+      "example": "calligrapher",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "pyge",
+      "answer": "",
+      "example": "callipygian",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "kakos",
+      "answer": "",
+      "example": "cacophony",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "senex",
+      "answer": "",
+      "example": "senescent",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "anthropos",
+      "answer": "",
+      "example": "anthropology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "astron",
+      "answer": "",
+      "example": "astronomy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "nautes",
+      "answer": "",
+      "example": "astronaut",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "ge (geo-)",
+      "answer": "",
+      "example": "geology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "zoion",
+      "answer": "",
+      "example": "zodiac",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "lingua",
+      "answer": "",
+      "example": "bilingual",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "philein",
+      "answer": "",
+      "example": "Philadelphia",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "biblion",
+      "answer": "",
+      "example": "bibliophile",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "autos",
+      "answer": "",
+      "example": "autonomous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "socius",
+      "answer": "",
+      "example": "asocial",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "notus",
+      "answer": "",
+      "example": "notorious",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "17",
+      "question": "summus",
+      "answer": "",
+      "example": "consummate",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "18",
+      "question": "vetus",
+      "answer": "",
+      "example": "inveterate",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "19",
+      "question": "genesis",
+      "answer": "",
+      "example": "congenital",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "20",
+      "question": "chronos",
+      "answer": "",
+      "example": "chronic",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "21",
+      "question": "pathos",
+      "answer": "",
+      "example": "empathy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "22",
+      "question": "grex, gregis",
+      "answer": "",
+      "example": "egregious",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "23",
+      "question": "sciens",
+      "answer": "",
+      "example": "prescient",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "24",
+      "question": "omnis",
+      "answer": "",
+      "example": "omniscient",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "25",
+      "question": "nomos",
+      "answer": "",
+      "example": "metronome",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "to write",
+    "2": "beauty",
+    "3": "buttock",
+    "4": ["harsh", "ugly", "bad"],
+    "5": "old",
+    "6": "mankind",
+    "7": "star",
+    "8": "sailor",
+    "9": "earth",
+    "10": "animal",
+    "11": "tongue",
+    "12": "to love",
+    "13": "book",
+    "14": "self",
+    "15": "companion",
+    "16": "known",
+    "17": "highest",
+    "18": "old",
+    "19": ["birth", "beginning", "origin"],
+    "20": "time",
+    "21": "feeling",
+    "22": ["herd", "flock"],
+    "23": "knowing",
+    "24": "all",
+    "25": ["law", "order", "arrangement"]
+  }
+}

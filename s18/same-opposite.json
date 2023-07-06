@@ -1,0 +1,148 @@
+{
+  "title": "Same or opposite?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "egoistic — altruistic",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "misanthropic — philanthropic",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "misogamous — polygamous",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "dexterous — skillful",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "sinister — threatening",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "optical — visual",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "notorious — infamous",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "consummate (adj.) — unskilled",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "chronic — acute",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "glib — halting",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "ophthalmologist — oculist",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "geriatric — pediatric",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "endodontist — exodontist",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "calligraphy — cacography",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "astronaut — cosmonaut",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "biopsy — autopsy",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "17",
+      "question": "dichotomous — cut in two",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "18",
+      "question": "congenital — hereditary",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "19",
+      "question": "veteran — \"old hand\"",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "20",
+      "question": "anachronous — timely",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answerType": "same-opposite",
+  "answers": {
+    "1": "opposite",
+    "2": "opposite",
+    "3": "opposite",
+    "4": "same",
+    "5": "same",
+    "6": "same",
+    "7": "same",
+    "8": "opposite",
+    "9": "opposite",
+    "10": "opposite",
+    "11": "same",
+    "12": "opposite",
+    "13": "opposite",
+    "14": "opposite",
+    "15": "same",
+    "16": "opposite",
+    "17": "same",
+    "18": "opposite",
+    "19": "same",
+    "20": "opposite"
+  }
+}

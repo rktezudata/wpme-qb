@@ -1,0 +1,207 @@
+{
+  "title": "Etymology",
+  "questions": [
+    {
+      "id": "1",
+      "question": "ego",
+      "answer": "",
+      "example": "egoism",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "misein",
+      "answer": "",
+      "example": "misanthrope",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "gamos",
+      "answer": "",
+      "example": "bigamy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "gyne",
+      "answer": "",
+      "example": "gynecology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "derma",
+      "answer": "",
+      "example": "dermatology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "orthos",
+      "answer": "",
+      "example": "orthodontia",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "psyche",
+      "answer": "",
+      "example": "psychotic",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "neuron",
+      "answer": "",
+      "example": "neurology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "logos",
+      "answer": "",
+      "example": "biology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "bios",
+      "answer": "",
+      "example": "biopsy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "opsis, optikos",
+      "answer": "",
+      "example": "autopsy, optical",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "algos",
+      "answer": "",
+      "example": "neuralgia",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "agogos",
+      "answer": "",
+      "example": "demagogue",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "pedis",
+      "answer": "",
+      "example": "pedestrian",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "paidos (ped-)",
+      "answer": "",
+      "example": "pediatrician",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "demos",
+      "answer": "",
+      "example": "democracy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "17",
+      "question": "oculus",
+      "answer": "",
+      "example": "oculist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "18",
+      "question": "iatreia",
+      "answer": "",
+      "example": "podiatrist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "19",
+      "question": "metron",
+      "answer": "",
+      "example": "optometrist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "20",
+      "question": "geras",
+      "answer": "",
+      "example": "geriatrics",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "21",
+      "question": "soma",
+      "answer": "",
+      "example": "psychosomatic",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "22",
+      "question": "pathos",
+      "answer": "",
+      "example": "osteopath",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "23",
+      "question": "odontos",
+      "answer": "",
+      "example": "exodontist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "24",
+      "question": "pous, podos",
+      "answer": "",
+      "example": "octopus, podium",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "25",
+      "question": "cheir (chiro-)",
+      "answer": "",
+      "example": "chirography",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": ["I", "self"],
+    "2": "to hate",
+    "3": "marriage",
+    "4": "woman",
+    "5": "skin",
+    "6": ["straight", "correct"],
+    "7": ["mind", "soul", "spirit"],
+    "8": "nerve",
+    "9": ["science", "study"],
+    "10": "life",
+    "11": ["view", "sight", "vision"],
+    "12": "pain",
+    "13": "leading",
+    "14": "foot",
+    "15": "child",
+    "16": "people",
+    "17": "eye",
+    "18": ["medical", "healing"],
+    "19": "measurement",
+    "20": "old age",
+    "21": "body",
+    "22": "disease",
+    "23": "tooth",
+    "24": "foot",
+    "25": "hand"
+  }
+}

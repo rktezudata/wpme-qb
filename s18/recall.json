@@ -1,0 +1,247 @@
+{
+  "title": "Can you recall the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "ruthless; without conscience",
+      "initialLetter": "U",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "suspiciously uent or smooth",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "outstandingly bad; vicious",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "out of place",
+      "initialLetter": "I",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "study of the family tree; specialty of tracing ancestry",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "science of heredity",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "in correct order of time",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "socially awkward",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "record of heart action",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "equally skillful with both the right and left hand",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "social scientist who deals with the problems of aging",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "extrasensory perception",
+      "initialLetter": "T",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "branch of dentistry specializing in the care of children’s teeth",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "blood-pressure apparatus",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "growing old (adj.)",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "palm reader",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "17",
+      "question": "that which arouses sexual desire",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "18",
+      "question": "representation of the whole",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "19",
+      "question": "diseased; pertaining to the study of disease (adj.)",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "20",
+      "question": "measurement of time",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "21",
+      "question": "hostility; strong dislike; aversion",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "22",
+      "question": "to occur, or cause to occur, at the same time or rate",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "23",
+      "question": "ignorant",
+      "initialLetter": "N",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "24",
+      "question": "knowledge of an occurrence beforehand",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "25",
+      "question": "enjoying being with the herd; liking companionship",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "26",
+      "question": "to identify strongly with the feelings of another",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "27",
+      "question": "instrument to measure atmospheric pressure",
+      "initialLetter": "B",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "28",
+      "question": "to separate from the herd",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "29",
+      "question": "possessed of shapely buttocks",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "30",
+      "question": "ugly, illegible handwriting",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "unconscionable",
+    "2": "glib",
+    "3": "egregious",
+    "4": "incongruous",
+    "5": "genealogy",
+    "6": "genetics",
+    "7": "chronological",
+    "8": "gauche",
+    "9": "cardiogram",
+    "10": "ambidextrous",
+    "11": "gerontologist",
+    "12": "telepathy",
+    "13": "pedodontia",
+    "14": "sphygmomanometer",
+    "15": "senescent",
+    "16": "chiromancer",
+    "17": "aphrodisiac",
+    "18": "epitome",
+    "19": "pathological",
+    "20": "chronometry",
+    "21": "antipathy",
+    "22": "synchronize",
+    "23": "nescient",
+    "24": "prescience",
+    "25": "gregarious",
+    "26": "empathize",
+    "27": "barometer",
+    "28": "segregate",
+    "29": "callipygian",
+    "30": "cacography"
+  }
+}

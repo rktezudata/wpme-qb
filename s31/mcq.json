@@ -1,0 +1,142 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "Disciplinarian:",
+			"options": ["martinet", "virago", "dilettante"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "Bootlicker:",
+			"options": ["chauvinist", "sycophant", "lecher"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "Scoffer at tradition:",
+			"options": ["monomaniac", "hypochondriac", "iconoclast"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "Disbeliever in God:",
+			"options": ["agnostic", "atheist", "chauvinist"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "Accomplished musician:",
+			"options": ["tyro", "dilettante", "virtuoso"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "Sheer, flimsy:",
+			"options": ["diaphanous", "uxorious", "paternal"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "Abusive woman:",
+			"options": ["termagant", "virtuoso", "matriarch"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "Murder of one's wife:",
+			"options": ["genocide", "uxoricide", "sororicide"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "Old man in ruling position:",
+			"options": ["matriarch", "patricide", "patriarch"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "Morbid compulsion to steal:",
+			"options": ["dipsomania", "nymphomania", "kleptomania"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "Delusions of grandeur:",
+			"options": ["megalomania", "egomania", "pyromania"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "Lewd, lustful:",
+			"options": ["prurient", "agnostic", "hypochondriac"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "Belief in many gods:",
+			"options": ["polytheism", "monotheism", "agnosticism"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "14",
+			"question": "Setting fire for economic gain:",
+			"options": ["pyromania", "incendiarism", "arson"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "15",
+			"question": "Morbid fear of heights:",
+			"options": ["agoraphobia", "acrophobia", "claustrophobia"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "16",
+			"question": "High blood pressure:",
+			"options": ["hypotension", "hypertension", "hypochondria"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "17",
+			"question": "Abnormal need for sexual intercourse by a male:",
+			"options": ["lechery", "lubricity", "satyriasis"],
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "martinet",
+		"2": "sycophant",
+		"3": "iconoclast",
+		"4": "atheist",
+		"5": "virtuoso",
+		"6": "diaphanous",
+		"7": "termagant",
+		"8": "uxoricide",
+		"9": "patriarch",
+		"10": "kleptomania",
+		"11": "megalomania",
+		"12": "prurient",
+		"13": "polytheism",
+		"14": "arson",
+		"15": "acrophobia",
+		"16": "hypertension",
+		"17": "satyriasis"
+	}
+}

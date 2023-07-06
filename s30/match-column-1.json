@@ -1,0 +1,108 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "fraternize",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "fraternal",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "sorority",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "uxorious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "uxorial",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "marital",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "extramarital",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "premarital",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "regal",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "regalia",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "pertaining to, characteristic of, or befitting a wife"
+		},
+		{
+			"id": "b",
+			"question": "outside the marriage"
+		},
+		{
+			"id": "c",
+			"question": "kingly, royal; splendid, stately, magnificent, etc."
+		},
+		{
+			"id": "d",
+			"question": "referring to marriage"
+		},
+		{
+			"id": "e",
+			"question": "before marriage"
+		},
+		{
+			"id": "f",
+			"question": "socialize"
+		},
+		{
+			"id": "g",
+			"question": "excessively indulgent to, or doting on, one's wife"
+		},
+		{
+			"id": "h",
+			"question": "brotherly"
+		},
+		{
+			"id": "i",
+			"question": "badges, insignia, dress, etc. of rank or office"
+		},
+		{
+			"id": "j",
+			"question": "sisterhood"
+		}
+	],
+	"answers": {
+		"1": "f",
+		"2": "h",
+		"3": "j",
+		"4": "g",
+		"5": "a",
+		"6": "d",
+		"7": "b",
+		"8": "e",
+		"9": "c",
+		"10": "i"
+	}
+}

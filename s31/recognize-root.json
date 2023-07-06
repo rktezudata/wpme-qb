@@ -1,0 +1,321 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "sykon",
+			"answer": "",
+			"example": "sycophant"
+		},
+		{
+			"id": "2",
+			"question": "phanein",
+			"answer": "",
+			"example": "diaphanous"
+		},
+		{
+			"id": "3",
+			"question": "vir",
+			"answer": "",
+			"example": "virago"
+		},
+		{
+			"id": "4",
+			"question": "pater, patris",
+			"answer": "",
+			"example": "paternal"
+		},
+		{
+			"id": "5",
+			"question": "onyma",
+			"answer": "",
+			"example": "synonym"
+		},
+		{
+			"id": "6",
+			"question": "homos",
+			"answer": "",
+			"example": "homonym"
+		},
+		{
+			"id": "7",
+			"question": "phone",
+			"answer": "",
+			"example": "homophone"
+		},
+		{
+			"id": "8",
+			"question": "archein",
+			"answer": "",
+			"example": "matriarchy"
+		},
+		{
+			"id": "9",
+			"question": "mater, matris",
+			"answer": "",
+			"example": "maternity"
+		},
+		{
+			"id": "10",
+			"question": "alma",
+			"answer": "",
+			"example": "alma mater"
+		},
+		{
+			"id": "11",
+			"question": "sui",
+			"answer": "",
+			"example": "suicide"
+		},
+		{
+			"id": "12",
+			"question": "caedo (-cide)",
+			"answer": "",
+			"example": "parricide"
+		},
+		{
+			"id": "13",
+			"question": "frater, fratris",
+			"answer": "",
+			"example": "fraternity"
+		},
+		{
+			"id": "14",
+			"question": "soror",
+			"answer": "",
+			"example": "sorority"
+		},
+		{
+			"id": "15",
+			"question": "homo",
+			"answer": "",
+			"example": "homicide"
+		},
+		{
+			"id": "16",
+			"question": "rex, regis",
+			"answer": "",
+			"example": "regal"
+		},
+		{
+			"id": "17",
+			"question": "uxor",
+			"answer": "",
+			"example": "uxorious"
+		},
+		{
+			"id": "18",
+			"question": "maritus",
+			"answer": "",
+			"example": "marticide"
+		},
+		{
+			"id": "19",
+			"question": "infans, infantis",
+			"answer": "",
+			"example": "infanticide"
+		},
+		{
+			"id": "20",
+			"question": "genos",
+			"answer": "",
+			"example": "genocide"
+		},
+		{
+			"id": "21",
+			"question": "mania",
+			"answer": "",
+			"example": "egomania"
+		},
+		{
+			"id": "22",
+			"question": "monos",
+			"answer": "",
+			"example": "monomania"
+		},
+		{
+			"id": "23",
+			"question": "dipsa",
+			"answer": "",
+			"example": "dipsomania"
+		},
+		{
+			"id": "24",
+			"question": "klepte",
+			"answer": "",
+			"example": "kleptomania"
+		},
+		{
+			"id": "25",
+			"question": "pyros",
+			"answer": "",
+			"example": "pyromania"
+		},
+		{
+			"id": "26",
+			"question": "incendo, incensus",
+			"answer": "",
+			"example": "incendiarism"
+		},
+		{
+			"id": "27",
+			"question": "ardo, arsus",
+			"answer": "",
+			"example": "arson"
+		},
+		{
+			"id": "28",
+			"question": "mega",
+			"answer": "",
+			"example": "megalomaniac"
+		},
+		{
+			"id": "29",
+			"question": "satyros",
+			"answer": "",
+			"example": "satyriasis"
+		},
+		{
+			"id": "30",
+			"question": "nymphe",
+			"answer": "",
+			"example": "nymphomaniac"
+		},
+		{
+			"id": "31",
+			"question": "claustrum",
+			"answer": "",
+			"example": "claustrophobia"
+		},
+		{
+			"id": "32",
+			"question": "agora",
+			"answer": "",
+			"example": "agoraphobia"
+		},
+		{
+			"id": "33",
+			"question": "akros",
+			"answer": "",
+			"example": "acrophobia"
+		},
+		{
+			"id": "34",
+			"question": "phobia",
+			"answer": "",
+			"example": "zoophobia"
+		},
+		{
+			"id": "35",
+			"question": "eikon",
+			"answer": "",
+			"example": "iconoclastic"
+		},
+		{
+			"id": "36",
+			"question": "klaein",
+			"answer": "",
+			"example": "iconoclasm"
+		},
+		{
+			"id": "37",
+			"question": "theos",
+			"answer": "",
+			"example": "monotheism"
+		},
+		{
+			"id": "38",
+			"question": "gnostos",
+			"answer": "",
+			"example": "agnostic"
+		},
+		{
+			"id": "39",
+			"question": "gnosis",
+			"answer": "",
+			"example": "prognosis"
+		},
+		{
+			"id": "40",
+			"question": "polys",
+			"answer": "",
+			"example": "polytheism"
+		},
+		{
+			"id": "41",
+			"question": "pan",
+			"answer": "",
+			"example": "pantheism"
+		},
+		{
+			"id": "42",
+			"question": "logos",
+			"answer": "",
+			"example": "theology"
+		},
+		{
+			"id": "43",
+			"question": "prurio",
+			"answer": "",
+			"example": "pruritis"
+		},
+		{
+			"id": "44",
+			"question": "hypos",
+			"answer": "",
+			"example": "hypotension"
+		},
+		{
+			"id": "44",
+			"question": "hyper",
+			"answer": "",
+			"example": "hypertension"
+		}
+	],
+	"answers": {
+		"1": "fig",
+		"2": "to show",
+		"3": "man (male)",
+		"4": "father",
+		"5": "name",
+		"6": "the same",
+		"7": "sound",
+		"8": "to rule",
+		"9": "mother",
+		"10": "soul",
+		"11": "of oneself",
+		"12": ["to kill", "killing"],
+		"13": "brother",
+		"14": "sister",
+		"15": "person",
+		"16": "king",
+		"17": "wife",
+		"18": "husband",
+		"19": "baby",
+		"20": ["race", "kind"],
+		"21": "madness",
+		"22": "one",
+		"23": "thirst",
+		"24": "thief",
+		"25": "fire",
+		"26": "to set fire",
+		"27": "to burn",
+		"28": ["great", "large"],
+		"29": "satyr",
+		"30": "bride",
+		"31": "enclosed place",
+		"32": "market place",
+		"33": "highest",
+		"34": "morbid dread",
+		"35": "religious image",
+		"36": "to break",
+		"37": "God",
+		"38": "known",
+		"39": "knowledge",
+		"40": "many",
+		"41": "all",
+		"42": ["science", "study"],
+		"43": "to itch",
+		"44": "under",
+		"45": "over"
+	}
+}

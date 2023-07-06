@@ -1,0 +1,108 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "patricide",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "alma mater",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "matricide",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "fratricide",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "uxoricide",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "uxorious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "monomaniacal",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "pyromaniacal",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "megalomaniacal",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "dipsomaniacal",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "mother-killing"
+		},
+		{
+			"id": "b",
+			"question": "tending to fixate obsessively on one thing"
+		},
+		{
+			"id": "c",
+			"question": "wife-killing"
+		},
+		{
+			"id": "d",
+			"question": "father-killing"
+		},
+		{
+			"id": "e",
+			"question": "tending to set fires"
+		},
+		{
+			"id": "f",
+			"question": "alcoholic"
+		},
+		{
+			"id": "g",
+			"question": "wife-doting"
+		},
+		{
+			"id": "h",
+			"question": "school or college from which one has graduated"
+		},
+		{
+			"id": "i",
+			"question": "tending to delusions of grandeur"
+		},
+		{
+			"id": "j",
+			"question": "brother-killing"
+		}
+	],
+	"answers": {
+		"1": "d",
+		"2": "h",
+		"3": "a",
+		"4": "j",
+		"5": "c",
+		"6": "g",
+		"7": "b",
+		"8": "e",
+		"9": "i",
+		"10": "f"
+	}
+}

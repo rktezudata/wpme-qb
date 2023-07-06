@@ -1,0 +1,118 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "prurience",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "satyromania",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "agoraphobia",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "claustrophobia",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "acrophobia",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "theologian",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "lubricious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "hypochondriacal",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "hypotensive",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "hypertensive",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "pruritis",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "abnormal need for sexual intercourse by a male"
+		},
+		{
+			"id": "b",
+			"question": "fear of enclosed places"
+		},
+		{
+			"id": "c",
+			"question": "student of religion"
+		},
+		{
+			"id": "d",
+			"question": "sexual longing or curiosity"
+		},
+		{
+			"id": "e",
+			"question": "fear of heights"
+		},
+		{
+			"id": "f",
+			"question": "fear of open spaces"
+		},
+		{
+			"id": "g",
+			"question": "having, or referring to, abnormally low blood pressure"
+		},
+		{
+			"id": "h",
+			"question": "itching"
+		},
+		{
+			"id": "i",
+			"question": "having, or referring to, high blood pressure"
+		},
+		{
+			"id": "j",
+			"question": "sexually immoral; lewd"
+		},
+		{
+			"id": "k",
+			"question": "beset by anxieties about one's health"
+		}
+	],
+	"answers": {
+		"1": "d",
+		"2": "a",
+		"3": "f",
+		"4": "b",
+		"5": "e",
+		"6": "c",
+		"7": "j",
+		"8": "k",
+		"9": "g",
+		"10": "i",
+		"11": "h"
+	}
+}

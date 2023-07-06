@@ -1,0 +1,48 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "monomania",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "dipsomania",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "kleptomania",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "pyromania",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "obsession for alcohol"
+		},
+		{
+			"id": "b",
+			"question": "obsession for setting fires"
+		},
+		{
+			"id": "c",
+			"question": "obsession in one area"
+		},
+		{
+			"id": "d",
+			"question": "obsession for thievery"
+		}
+	],
+	"answers": {
+		"1": "c",
+		"2": "a",
+		"3": "d",
+		"4": "b"
+	}
+}

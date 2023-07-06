@@ -1,0 +1,108 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "hypotension",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "lascivious",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "hypertension",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "agnostic",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "incendiarism",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "arson",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "iconoclasm",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "prognosticate",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "diagnosis",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "prognosis",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "high blood pressure"
+		},
+		{
+			"id": "b",
+			"question": "malicious fire-setting"
+		},
+		{
+			"id": "c",
+			"question": "abnormally low blood pressure"
+		},
+		{
+			"id": "d",
+			"question": "fire-setting for illegal gain"
+		},
+		{
+			"id": "e",
+			"question": "to forecast (probable developments)"
+		},
+		{
+			"id": "f",
+			"question": "a determination through examination or testing of the nature, type, causes, etc. of a condition"
+		},
+		{
+			"id": "g",
+			"question": "one who claims that ultimate reality is unknowable"
+		},
+		{
+			"id": "h",
+			"question": "sexually immoral"
+		},
+		{
+			"id": "i",
+			"question": "a foretelling of probable developments"
+		},
+		{
+			"id": "j",
+			"question": "a scoffing at tradition "
+		}
+	],
+	"answers": {
+		"1": "c",
+		"2": "h",
+		"3": "a",
+		"4": "g",
+		"5": "b",
+		"6": "d",
+		"7": "j",
+		"8": "e",
+		"9": "f",
+		"10": "i"
+	}
+}

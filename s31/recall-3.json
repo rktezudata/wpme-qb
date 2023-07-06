@@ -1,0 +1,54 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "study of religion",
+			"initialLetter": "T",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "belief that God is the sum total of natural forces",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "belief that there is no God",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "belief that God's existence is unknowable",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "belief in one God",
+			"initialLetter": "M",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "belief in many gods",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "theology",
+		"2": "pantheism",
+		"3": "atheism",
+		"4": "agnosticism",
+		"5": "monotheism",
+		"6": "polytheism"
+	}
+}

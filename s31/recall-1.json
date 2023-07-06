@@ -1,0 +1,87 @@
+{
+	"title": "manias and phobias",
+	"questions": [
+		{
+			"id": "1",
+			"question": "single fixed obsession",
+			"initialLetter": "M",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "irresistible compulsion to set fires",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "unceasing desire, on the part of a woman, for sexual intercourse",
+			"initialLetter": "N",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "obsessive desire to steal",
+			"initialLetter": "K",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "delusions of grandeur",
+			"initialLetter": "M",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "alcoholism",
+			"initialLetter": "D",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "compulsion for sexual intercourse by a male",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "dread of heights",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "dread of open spaces",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "dread of cramped quarters",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "monomania",
+		"2": "pyromania",
+		"3": "nymphomania",
+		"4": "kleptomania",
+		"5": "megalomania",
+		"6": "dipsomania",
+		"7": ["satyromania", "satyriasis"],
+		"8": "acrophobia",
+		"9": "agoraphobia",
+		"10": "claustrophobia"
+	}
+}

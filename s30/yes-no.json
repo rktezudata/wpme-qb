@@ -1,0 +1,125 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "Is a sorority a men's organization?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "Is an uxorious husband likely to be psychologically dependent on his wife?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "Are extramarital affairs adulterous?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "Do VIPs often receive regal treatment?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "Is an admiral of the fleet in regalia informally dressed?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "Do monomaniacal people have varied interests?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "Can a dipsomaniac safely indulge in social drinking?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "Do people of pyromaniacal tendencies fear fire?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "Is incendiarism an uncontrollable impulse?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "Does an arsonist expect a reward for his actions?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "Is it necessary to seduce a nymphomaniac?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "Do megalomaniacs have low opinions of themselves?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "Is a satyromaniac lecherous?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "14",
+			"question": "Are satyriasis and asceticism compatible conditions?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "15",
+			"question": "Does a claustrophobe enjoy cramped quarters?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "16",
+			"question": "Would an agoraphobe be comfortable in a small cell-like room?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "17",
+			"question": "Does an acrophobe enjoy mountain-climbing?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "no",
+		"2": "yes",
+		"3": "yes",
+		"4": "yes",
+		"5": "no",
+		"6": "no",
+		"7": "no",
+		"8": "no",
+		"9": "no",
+		"10": "yes",
+		"11": "no",
+		"12": "no",
+		"13": "yes",
+		"14": "no",
+		"15": "no",
+		"16": "yes",
+		"17": "no"
+	}
+}

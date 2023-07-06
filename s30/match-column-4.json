@@ -1,0 +1,88 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "incendiary",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "arsonist",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "megalomaniac",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "nymphomaniac",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "satyriasis",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "claustrophobe",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "agoraphobe",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "acrophobe",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "one who has delusions of greatness or power"
+		},
+		{
+			"id": "b",
+			"question": "male compulsion for sexual intercourse"
+		},
+		{
+			"id": "c",
+			"question": "one who fears shut-in or crowded places"
+		},
+		{
+			"id": "d",
+			"question": " one who sets fires out of malice"
+		},
+		{
+			"id": "e",
+			"question": "one who fears heights"
+		},
+		{
+			"id": "f",
+			"question": " one who fears large or open spaces"
+		},
+		{
+			"id": "g",
+			"question": "one who sets fires for economic and illegal profit"
+		},
+		{
+			"id": "h",
+			"question": "woman with compulsive, incessant sexual desire"
+		}
+	],
+	"answers": {
+		"1": "d",
+		"2": "g",
+		"3": "a",
+		"4": "h",
+		"5": "b",
+		"6": "c",
+		"7": "f",
+		"8": "e"
+	}
+}

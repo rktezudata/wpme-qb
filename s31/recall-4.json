@@ -1,0 +1,126 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "morbid anxiety about one's health",
+			"initialLetter": "H",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "high blood pressure",
+			"initialLetter": "H",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "malicious fire-setting",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "the felony of setting fire for economic gain",
+			"initialLetter": "",
+			"answer": "A",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "sneering contempt for convention or tradition",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "a forecast of development (of a disease, etc.)",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "designed to discover causes or conditions (adj.)",
+			"initialLetter": "D",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "abnormally low blood pressure",
+			"initialLetter": "H",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "to forecast (probable future developments) by examining present conditions",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "to determine the nature of a disease, condition, or state by examination",
+			"initialLetter": "D",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "the act of forecasting (probable future developments) by examining present conditions",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "doctor who is an expert at recognizing the nature of a disease or condition",
+			"initialLetter": "D",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "possessed of, or referring to, high blood pressure",
+			"initialLetter": "H",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "14",
+			"question": "possessed of, or referring to, abnormally low blood pressure",
+			"initialLetter": "H",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "15",
+			"question": "one who studies religion",
+			"initialLetter": "T",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "hypochondria",
+		"2": "hypertension",
+		"3": "incendiarism",
+		"4": "arson",
+		"5": "iconoclasm",
+		"6": "prognosis",
+		"7": "diagnostic",
+		"8": "hypotension",
+		"9": "prognosticate",
+		"10": "diagnose",
+		"11": "prognostication",
+		"12": "diagnostician",
+		"13": "hypertensive",
+		"14": "hypotensive",
+		"15": "theologian"
+	}
+}

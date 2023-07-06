@@ -3,107 +3,107 @@
   "columnA": [
     {
       "id": "1",
-      "question": "anthropologist",
+      "question": "entomology",
       "wrongAnsSelected": false
     },
     {
       "id": "2",
-      "question": "astronomer",
+      "question": "eccentricity",
       "wrongAnsSelected": false
     },
     {
       "id": "3",
-      "question": "geologist",
+      "question": "anatomy",
       "wrongAnsSelected": false
     },
     {
       "id": "4",
-      "question": "biologist",
+      "question": "dichotomy",
       "wrongAnsSelected": false
     },
     {
       "id": "5",
-      "question": "botanist",
+      "question": "epitome",
       "wrongAnsSelected": false
     },
     {
       "id": "6",
-      "question": "zoologist",
+      "question": "philology",
       "wrongAnsSelected": false
     },
     {
       "id": "7",
-      "question": "entomologist",
+      "question": "semantics",
       "wrongAnsSelected": false
     },
     {
       "id": "8",
-      "question": "philologist",
+      "question": "sociology",
       "wrongAnsSelected": false
     },
     {
       "id": "9",
-      "question": "semanticist",
+      "question": "aphrodisiac",
       "wrongAnsSelected": false
     },
     {
       "id": "10",
-      "question": "sociologist",
+      "question": "philanthropy",
       "wrongAnsSelected": false
     }
   ],
   "columnB": [
     {
       "id": "a",
-      "question": "community and family life"
+      "question": "physical structure"
     },
     {
       "id": "b",
-      "question": "meanings and psychological effects of words"
+      "question": "summary; representation of the whole"
     },
     {
       "id": "c",
-      "question": "development of the human race"
+      "question": "science of the meanings and effects of words"
     },
     {
       "id": "d",
-      "question": "celestial phenomena"
+      "question": "linguistics"
     },
     {
       "id": "e",
-      "question": "language"
+      "question": "science dealing with insects"
     },
     {
       "id": "f",
-      "question": "insect forms"
+      "question": "science of social structures and customs"
     },
     {
       "id": "g",
-      "question": "the earth"
+      "question": "charitable works"
     },
     {
       "id": "h",
-      "question": "all forms of living matter"
+      "question": "that which causes sexual arousal"
     },
     {
       "id": "i",
-      "question": "animal life"
+      "question": "strangeness; oddness; unconventionality"
     },
     {
       "id": "j",
-      "question": "plant life"
+      "question": "condition or state of being split into two parts"
     }
   ],
   "answers": {
-    "1": "c",
-    "2": "d",
-    "3": "g",
-    "4": "h",
-    "5": "j",
-    "6": "i",
-    "7": "f",
-    "8": "e",
-    "9": "b",
-    "10": "a"
+    "1": "e",
+    "2": "i",
+    "3": "a",
+    "4": "j",
+    "5": "b",
+    "6": "d",
+    "7": "c",
+    "8": "f",
+    "9": "h",
+    "10": "g"
   }
 }

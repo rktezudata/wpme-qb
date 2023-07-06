@@ -1,0 +1,167 @@
+{
+  "title": "Can you recall the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "pertaining to the study of social customs (adj.)",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "pertaining to the psychological effects of words (adj.)",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "lover and collector of books",
+      "initialLetter": "B",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "make love promiscuously",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "pertaining to the science of linguistics (adj.)",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "pertaining to the study of insects (adj.)",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "one who admires British customs",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "smallest particle, so-called",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "pertaining to the structure of a body (adj.)",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "a dull, heavy book",
+      "initialLetter": "T",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "split in two (adj.)",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "to split in two",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "a condensation, summary, or representation of the whole",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "to stand for the whole; to summarize",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "pertaining to charitable activities (adj.)",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "out of the norm; odd",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "17",
+      "question": "one who \"plays around\"",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "18",
+      "question": "arousing sexual desire (adj.)",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "19",
+      "question": "science of the manner in which groups function",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "20",
+      "question": "self-isolated from contact with people",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "sociological",
+    "2": ["semantic", "semantical"],
+    "3": "bibliophile",
+    "4": "philander",
+    "5": "philological",
+    "6": "entomological",
+    "7": "Anglophile",
+    "8": "atom",
+    "9": "anatomical",
+    "10": "tome",
+    "11": "dichotomous",
+    "12": "dichotomize",
+    "13": "epitome",
+    "14": "epitomize",
+    "15": "philanthropic",
+    "16": "eccentric",
+    "17": "philanderer",
+    "18": ["aphrodisiac", "aphrodisiacal"],
+    "19": "sociology",
+    "20": "asocial"
+  }
+}

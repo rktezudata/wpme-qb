@@ -3,107 +3,107 @@
   "columnA": [
     {
       "id": "1",
-      "question": "anthropologist",
+      "question": "dichotomize",
       "wrongAnsSelected": false
     },
     {
       "id": "2",
-      "question": "astronomer",
+      "question": "epitomize",
       "wrongAnsSelected": false
     },
     {
       "id": "3",
-      "question": "geologist",
+      "question": "philander",
       "wrongAnsSelected": false
     },
     {
       "id": "4",
-      "question": "biologist",
+      "question": "philter",
       "wrongAnsSelected": false
     },
     {
       "id": "5",
-      "question": "botanist",
+      "question": "bibliophile",
       "wrongAnsSelected": false
     },
     {
       "id": "6",
-      "question": "zoologist",
+      "question": "Anglophile",
       "wrongAnsSelected": false
     },
     {
       "id": "7",
-      "question": "entomologist",
+      "question": "asocial",
       "wrongAnsSelected": false
     },
     {
       "id": "8",
-      "question": "philologist",
+      "question": "tome",
       "wrongAnsSelected": false
     },
     {
       "id": "9",
-      "question": "semanticist",
+      "question": "philological",
       "wrongAnsSelected": false
     },
     {
       "id": "10",
-      "question": "sociologist",
+      "question": "sociological",
       "wrongAnsSelected": false
     }
   ],
   "columnB": [
     {
       "id": "a",
-      "question": "community and family life"
+      "question": "dull, heavy book"
     },
     {
       "id": "b",
-      "question": "meanings and psychological effects of words"
+      "question": "love potion; aphrodisiac"
     },
     {
       "id": "c",
-      "question": "development of the human race"
+      "question": "pertaining to the study of language"
     },
     {
       "id": "d",
-      "question": "celestial phenomena"
+      "question": "one fond of British people, customs, etc."
     },
     {
       "id": "e",
-      "question": "language"
+      "question": "pertaining to the science of group cultures, conventions, etc."
     },
     {
       "id": "f",
-      "question": "insect forms"
+      "question": "to split in two"
     },
     {
       "id": "g",
-      "question": "the earth"
+      "question": "withdrawn from contact with people"
     },
     {
       "id": "h",
-      "question": "all forms of living matter"
+      "question": "book collector"
     },
     {
       "id": "i",
-      "question": "animal life"
+      "question": "to summarize"
     },
     {
       "id": "j",
-      "question": "plant life"
+      "question": "to engage in extramarital sex"
     }
   ],
   "answers": {
-    "1": "c",
-    "2": "d",
-    "3": "g",
-    "4": "h",
-    "5": "j",
-    "6": "i",
-    "7": "f",
-    "8": "e",
-    "9": "b",
-    "10": "a"
+    "1": "f",
+    "2": "i",
+    "3": "j",
+    "4": "b",
+    "5": "h",
+    "6": "d",
+    "7": "g",
+    "8": "a",
+    "9": "c",
+    "10": "e"
   }
 }

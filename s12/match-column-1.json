@@ -3,107 +3,97 @@
   "columnA": [
     {
       "id": "1",
-      "question": "anthropologist",
+      "question": "anthropology",
       "wrongAnsSelected": false
     },
     {
       "id": "2",
-      "question": "astronomer",
+      "question": "astronomy",
       "wrongAnsSelected": false
     },
     {
       "id": "3",
-      "question": "geologist",
+      "question": "astrology",
       "wrongAnsSelected": false
     },
     {
       "id": "4",
-      "question": "biologist",
+      "question": "geology",
       "wrongAnsSelected": false
     },
     {
       "id": "5",
-      "question": "botanist",
+      "question": "biology",
       "wrongAnsSelected": false
     },
     {
       "id": "6",
-      "question": "zoologist",
+      "question": "geometry",
       "wrongAnsSelected": false
     },
     {
       "id": "7",
-      "question": "entomologist",
+      "question": "botany",
       "wrongAnsSelected": false
     },
     {
       "id": "8",
-      "question": "philologist",
+      "question": "zoology",
       "wrongAnsSelected": false
     },
     {
       "id": "9",
-      "question": "semanticist",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "10",
-      "question": "sociologist",
+      "question": "geography",
       "wrongAnsSelected": false
     }
   ],
   "columnB": [
     {
       "id": "a",
-      "question": "community and family life"
+      "question": "theory of the influence of planets and stars on human events"
     },
     {
       "id": "b",
-      "question": "meanings and psychological effects of words"
+      "question": "science of earth-mapping"
     },
     {
       "id": "c",
-      "question": "development of the human race"
+      "question": "science of all living matter"
     },
     {
       "id": "d",
-      "question": "celestial phenomena"
+      "question": "science of human development"
     },
     {
       "id": "e",
-      "question": "language"
+      "question": "science of plants"
     },
     {
       "id": "f",
-      "question": "insect forms"
+      "question": "science of the composition of the earth"
     },
     {
       "id": "g",
-      "question": "the earth"
+      "question": "science of animal life"
     },
     {
       "id": "h",
-      "question": "all forms of living matter"
+      "question": "science of the heavens"
     },
     {
       "id": "i",
-      "question": "animal life"
-    },
-    {
-      "id": "j",
-      "question": "plant life"
+      "question": "mathematical science of figures, shapes, etc."
     }
   ],
   "answers": {
-    "1": "c",
-    "2": "d",
-    "3": "g",
-    "4": "h",
-    "5": "j",
+    "1": "d",
+    "2": "h",
+    "3": "a",
+    "4": "f",
+    "5": "c",
     "6": "i",
-    "7": "f",
-    "8": "e",
-    "9": "b",
-    "10": "a"
+    "7": "e",
+    "8": "g",
+    "9": "b"
   }
 }

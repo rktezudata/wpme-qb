@@ -1,0 +1,111 @@
+{
+  "title": "Do you recall the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "pertaining to the science of animals (adj.)",
+      "initialLetter": "Z",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "pertaining to the science of plants (adj.)",
+      "initialLetter": "B",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "dissection of a corpse to determine the cause of death",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "story of one’s life, self-written",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "pertaining to the science of all living matter (adj.)",
+      "initialLetter": "B",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "science of the measurement of figures",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "pertaining to the science of the earth’s composition (adj.)",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "branch of physics dealing with the composition of celestial bodies",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "star-shaped flower",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "very high in number; pertaining to the science of the heavens (adj.)",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "science of heavenly bodies",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "science of the development of mankind",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "person who believes human events are influenced by the paths of the sun, moon, and planets",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "zoological",
+    "2": "botanical",
+    "3": "autopsy",
+    "4": "autobiography",
+    "5": "biological",
+    "6": "geometry",
+    "7": "geological",
+    "8": "astrophysics",
+    "9": "aster",
+    "10": "astronomical",
+    "11": "astronomy",
+    "12": "anthropology",
+    "13": "astrologer"
+  }
+}

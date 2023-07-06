@@ -1,0 +1,87 @@
+{
+  "title": "Do you recognize the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Student of the stars and other heavenly phenomena:",
+      "options": ["geologist", "astronomer", "anthropologist"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Student of plant life:",
+      "options": ["botanist", "zoologist", "biologist"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Student of insect life:",
+      "options": ["sociologist", "entomologist", "etymologist"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Student of the meaning and psychology of words:",
+      "options": ["philologist", "semanticist", "etymologist"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Analysis of living tissue:",
+      "options": ["autopsy", "biopsy", "autonomy"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "That which arouses sexual desire:",
+      "options": ["zodiac", "bibliophile", "aphrodisiac"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Self-governing:",
+      "options": ["autobiographical", "autonomous", "dichotomous"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Part that represents the whole:",
+      "options": ["epitome", "dichotomy", "metronome"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "One who physically travels in space:",
+      "options": ["astronomer", "astrologer", "astronaut"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "One who has extramarital affairs:",
+      "options": ["cosmonaut", "philanderer", "philanthropist"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "astronomer",
+    "2": "botanist",
+    "3": "entomologist",
+    "4": "semanticist",
+    "5": "biopsy",
+    "6": "aphrodisiac",
+    "7": "autonomous",
+    "8": "epitome",
+    "9": "astronaut",
+    "10": "philanderer"
+  }
+}

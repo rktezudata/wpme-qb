@@ -1,0 +1,167 @@
+{
+  "title": "Can you recognize roots?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "anthropos",
+      "answer": "",
+      "example": "anthropology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "logos",
+      "answer": "",
+      "example": "philology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "astron",
+      "answer": "",
+      "example": "astronomy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "nautes",
+      "answer": "",
+      "example": "astronaut",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "nomos",
+      "answer": "",
+      "example": "metronome",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "autos",
+      "answer": "",
+      "example": "autonomy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "ge (geo-)",
+      "answer": "",
+      "example": "geology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "graphein",
+      "answer": "",
+      "example": "biography",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "opsis, optikos",
+      "answer": "",
+      "example": "autopsy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "zoion",
+      "answer": "",
+      "example": "zodiac",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "tome",
+      "answer": "",
+      "example": "entomology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "sectus",
+      "answer": "",
+      "example": "insect",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "lingua",
+      "answer": "",
+      "example": "linguistics",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "philein",
+      "answer": "",
+      "example": "philanthropy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "sophos",
+      "answer": "",
+      "example": "philosophy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "biblion",
+      "answer": "",
+      "example": "bibliophile",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "17",
+      "question": "Anglus",
+      "answer": "",
+      "example": "Anglophile",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "18",
+      "question": "socius",
+      "answer": "",
+      "example": "sociology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "19",
+      "question": "logos",
+      "answer": "",
+      "example": "biology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "20",
+      "question": "bios",
+      "answer": "",
+      "example": "biopsy",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "mankind",
+    "2": ["word", "speech"],
+    "3": "star",
+    "4": "sailor",
+    "5": ["law", "order", "arrangement"],
+    "6": "self",
+    "7": "earth",
+    "8": "to write",
+    "9": ["view", "vision", "sight"],
+    "10": "animal",
+    "11": "a cutting",
+    "12": "cut",
+    "13": "tongue",
+    "14": "to love",
+    "15": "wise",
+    "16": "book",
+    "17": "english",
+    "18": "companion",
+    "19": ["science", "study"],
+    "20": "life"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Can you work with the words?",
+  "columnA": [
+    {
+      "id": "1",
+      "question": "autopsy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "biopsy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "biography",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "autobiography",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "zodiac",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "astronaut",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "cosmonaut",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "aster",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "disaster",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "autonomy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "metronome",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "\"sailor among the stars\""
+    },
+    {
+      "id": "b",
+      "question": "star-shaped flower"
+    },
+    {
+      "id": "c",
+      "question": "story of one’s own life"
+    },
+    {
+      "id": "d",
+      "question": "dissection and examination of a corpse to determine the cause of death"
+    },
+    {
+      "id": "e",
+      "question": "great misfortune"
+    },
+    {
+      "id": "f",
+      "question": "\"sailor of the universe\""
+    },
+    {
+      "id": "g",
+      "question": "story of someone’s life"
+    },
+    {
+      "id": "h",
+      "question": "diagram of paths of sun, moon, and planets"
+    },
+    {
+      "id": "i",
+      "question": "instrument to measure musical time"
+    },
+    {
+      "id": "j",
+      "question": "self-rule"
+    },
+    {
+      "id": "k",
+      "question": "examination of living tissue"
+    }
+  ],
+  "answers": {
+    "1": "d",
+    "2": "k",
+    "3": "g",
+    "4": "c",
+    "5": "h",
+    "6": "a",
+    "7": "f",
+    "8": "b",
+    "9": "e",
+    "10": "j",
+    "11": "i"
+  }
+}

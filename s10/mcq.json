@@ -1,0 +1,127 @@
+{
+  "title": "Do you recognize the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Practitioner trained in Freudian techniques:",
+      "options": ["psychologist", "psychoanalyst", "psychotherapist"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Foot doctor:",
+      "options": ["podiatrist", "osteopath", "chiropractor"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Handwriting analyst:",
+      "options": ["graphologist", "chirographer", "cacographer"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Mentally or emotionally disturbed:",
+      "options": ["psychological", "psychopathic", "psychic"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Originating in the emotions:",
+      "options": ["psychic", "psychogenic", "psychoanalytic"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Describing bodily ailments tied up with the emotions:",
+      "options": ["psychosomatic", "psychopathic", "psychiatric"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Gum specialist:",
+      "options": ["periodontist", "pedodontist", "endodontist"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Specialist in tooth extraction:",
+      "options": ["orthodontist", "exodontist", "endodontist"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Blood-pressure apparatus:",
+      "options": ["barometer", "thermometer", "sphygmomanometer"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "Prediction by palm reading:",
+      "options": ["chirography", "chiropody", "chiromancy"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "Possessed of a shapely posterior:",
+      "options": ["calligraphic", "callipygian", "adolescent"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "Artistic handwriting:",
+      "options": ["calligraphy", "chirography", "graphology"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "Growing old:",
+      "options": ["senile", "geriatric", "senescent"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "Medical specialty dealing with the aged:",
+      "options": ["gerontology", "geriatrics", "chiropractic"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "Antisocial person who may commit criminal acts:",
+      "options": ["psychopath", "sociopath", "osteopath"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "psychoanalyst",
+    "2": "podiatrist",
+    "3": "graphologist",
+    "4": "psychopathic",
+    "5": "psychogenic",
+    "6": "psychosomatic",
+    "7": "periodontist",
+    "8": "exodontist",
+    "9": "sphygmomanometer",
+    "10": "chiromancy",
+    "11": "callipygian",
+    "12": "calligraphy",
+    "13": "senescent",
+    "14": "geriatrics",
+    "15": ["psychopath", "sociopath"]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Do you understand the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Orthodontia is a branch of dentistry.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Doctors use sphygmomanometers to check blood pressure.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Osteopathic physicians may use standard medical procedures.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Chiropractic deals with handwriting.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Chiropody and podiatry are synonymous terms.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "A podium is a place from which a lecture might be delivered.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "A pedodontist is a foot doctor.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "A periodontist is a gum specialist.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "A endodontist does root-canal therapy.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "An exodontist extracts teeth.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "A barometer measures heat.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "An octopus has eight arms.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "A platypus is a land mammal.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "A tripod has four legs.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "A chirographer is an expert at penmanship.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "A chiromancer reads palms.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answerType": "true-false",
+  "answers": {
+    "1": "true",
+    "2": "true",
+    "3": "true",
+    "4": "false",
+    "5": "true",
+    "6": "true",
+    "7": "false",
+    "8": "true",
+    "9": "true",
+    "10": "true",
+    "11": "false",
+    "12": "true",
+    "13": "false",
+    "14": "false",
+    "15": "true",
+    "16": "true"
+  }
+}

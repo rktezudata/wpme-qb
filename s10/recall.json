@@ -1,0 +1,63 @@
+{
+  "title": "Do you recall the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "pertaining to the study of the non-medical problems of the aged (adj.)",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "growing old (adj.)",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "pertaining to handwriting as an artistic expression (adj.)",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "one who uses ugly, illegible handwriting",
+      "initialLetter": "T",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "mentally and physically deteriorated from old age",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "pertaining to the analysis of handwriting (adj.)",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "possessed of beautiful or shapely buttocks",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "gerontological",
+    "2": "senescent",
+    "3": "calligraphic",
+    "4": "cacographer",
+    "5": "senile",
+    "6": "graphological",
+    "7": "callipygian"
+  }
+}

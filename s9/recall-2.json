@@ -1,0 +1,71 @@
+{
+  "title": "Can you recall the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "pertaining to the specialty of tooth extraction (adj.)",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "pertaining to the measurement of atmospheric pressure (adj.)",
+      "initialLetter": "B",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "palm reading (noun)",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "handwriting",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "the practice of manipulating bodily articulations to relieve ailments",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "egg-laying mammal",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "eight-armed sea creature",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "instrument to measure heat",
+      "initialLetter": "T",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "exodontic",
+    "2": "barometric",
+    "3": "chiromancy",
+    "4": "chirography",
+    "5": "chiropractic",
+    "6": "platypus",
+    "7": "octopus",
+    "8": "thermometer"
+  }
+}

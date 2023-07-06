@@ -3,77 +3,77 @@
   "columnA": [
     {
       "id": "1",
-      "question": "graphology",
+      "question": "octopus",
       "wrongAnsSelected": false
     },
     {
       "id": "2",
-      "question": "calligraphy",
+      "question": "platypus",
       "wrongAnsSelected": false
     },
     {
       "id": "3",
-      "question": "callipygian",
+      "question": "podium",
       "wrongAnsSelected": false
     },
     {
       "id": "4",
-      "question": "cacography",
+      "question": "chiropody",
       "wrongAnsSelected": false
     },
     {
       "id": "5",
-      "question": "gerontology",
+      "question": "chiropractic",
       "wrongAnsSelected": false
     },
     {
       "id": "6",
-      "question": "senility",
+      "question": "chirography",
       "wrongAnsSelected": false
     },
     {
       "id": "7",
-      "question": "senescence",
+      "question": "chiromancy",
       "wrongAnsSelected": false
     }
   ],
   "columnB": [
     {
       "id": "a",
-      "question": "possessed of beautiful buttocks"
+      "question": "speaker's platform"
     },
     {
       "id": "b",
-      "question": "science of the social, economic, etc. problems of the aged"
+      "question": "maintenance of integrity of the nervous system by manipulation and massage"
     },
     {
       "id": "c",
-      "question": "condition of aging or growing old"
+      "question": "palm reading"
     },
     {
       "id": "d",
-      "question": "deteriorated old age"
+      "question": "eight-armed sea creature"
     },
     {
       "id": "e",
-      "question": "analysis of handwriting"
+      "question": "handwriting"
     },
     {
       "id": "f",
-      "question": "ugly, bad, illegible handwriting"
+      "question": "treatment of minor ailments of the foot"
     },
     {
       "id": "g",
-      "question": "beautiful handwriting; handwriting as an artistic expression"
+      "question": "egg-laying mammal with webbed feet"
     }
   ],
   "answers": {
-    "1": "e",
+    "1": "d",
     "2": "g",
     "3": "a",
     "4": "f",
     "5": "b",
-    "6": "d",
+    "6": "e",
     "7": "c"
   }
 }

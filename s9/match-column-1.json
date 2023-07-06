@@ -1,0 +1,109 @@
+{
+  "title": "Can you work with the words?",
+  "columnA": [
+    {
+      "id": "1",
+      "question": "orthodontia",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "pedodontia",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "periodontia",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "endodontia",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "exodontia",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "barometer",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "sphygmomanometer",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "osteopathy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "podiatry",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "thermometer",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "dental specialty involving the pulp and root canal"
+    },
+    {
+      "id": "b",
+      "question": "instrument that measures atmospheric pressure"
+    },
+    {
+      "id": "c",
+      "question": "specialty arising from the theory that pressure of the bones on nerves and blood vessels may cause disease"
+    },
+    {
+      "id": "d",
+      "question": "specialty of child dentistry"
+    },
+    {
+      "id": "e",
+      "question": "blood-pressure apparatus"
+    },
+    {
+      "id": "f",
+      "question": "treatment of minor ailments of the foot"
+    },
+    {
+      "id": "g",
+      "question": "instrument to measure heat"
+    },
+    {
+      "id": "h",
+      "question": "specialty of tooth extraction"
+    },
+    {
+      "id": "i",
+      "question": "specialty of tooth straightening"
+    },
+    {
+      "id": "j",
+      "question": "specialty of the gums"
+    }
+  ],
+  "answers": {
+    "1": "i",
+    "2": "d",
+    "3": "j",
+    "4": "a",
+    "5": "h",
+    "6": "b",
+    "7": "e",
+    "8": "c",
+    "9": "f",
+    "10": "g"
+  }
+}

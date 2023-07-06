@@ -1,0 +1,167 @@
+{
+  "title": "Can you recognize roots?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "psyche",
+      "answer": "",
+      "example": "psychiatry",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "iatreia",
+      "answer": "",
+      "example": "podiatry",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "soma",
+      "answer": "",
+      "example": "psychosomatic",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "pathos",
+      "answer": "",
+      "example": "osteopath",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "orthos",
+      "answer": "",
+      "example": "orthodontia",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "paidos (ped-)",
+      "answer": "",
+      "example": "pedodontist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "odontos",
+      "answer": "",
+      "example": "exodontist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "pous, podos",
+      "answer": "",
+      "example": "platypus",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "cheir (chiro-)",
+      "answer": "",
+      "example": "chiropodist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "okto",
+      "answer": "",
+      "example": "octopus",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "graphein",
+      "answer": "",
+      "example": "graphology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "kallos",
+      "answer": "",
+      "example": "calligraphy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "pyge",
+      "answer": "",
+      "example": "callipygian",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "kakos",
+      "answer": "",
+      "example": "cacography",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "photos",
+      "answer": "",
+      "example": "photography",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "tele-",
+      "answer": "",
+      "example": "telegraph",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "17",
+      "question": "bios",
+      "answer": "",
+      "example": "biography",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "18",
+      "question": "geras",
+      "answer": "",
+      "example": "geriatrics",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "19",
+      "question": "geron",
+      "answer": "",
+      "example": "gerontology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "20",
+      "question": "senex",
+      "answer": "",
+      "example": "senate",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "mind",
+    "2": "medical healing",
+    "3": "body",
+    "4": "disease",
+    "5": ["straight", "correct"],
+    "6": "child",
+    "7": "tooth",
+    "8": "foot",
+    "9": "hand",
+    "10": "eight",
+    "11": "to write",
+    "12": "beauty",
+    "13": "buttocks",
+    "14": ["bad", "ugly"],
+    "15": "light",
+    "16": "distance",
+    "17": "life",
+    "18": "old age",
+    "19": "old man",
+    "20": "old"
+  }
+}

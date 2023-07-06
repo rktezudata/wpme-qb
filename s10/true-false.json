@@ -1,0 +1,57 @@
+{
+  "title": "Do you understand the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Graphology analyzes the grammar, spelling, and sentence structure of written material.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "A calligrapher creates artistic forms out of alphabetical symbols.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Tight slacks are best worn by those of callipygian anatomy.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Cacographic writing is easy to read.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Gerontology aims to help old people live more comfortably.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Senile people are old but still vigorous and mentally alert.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "In a society dedicated to the worship of youth, senescence is not an attractive prospect.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answerType": "true-false",
+  "answers": {
+    "1": "false",
+    "2": "true",
+    "3": "true",
+    "4": "false",
+    "5": "true",
+    "6": "false",
+    "7": "true"
+  }
+}

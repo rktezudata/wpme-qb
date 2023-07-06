@@ -1,0 +1,87 @@
+{
+  "title": "Do you recall the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "pertaining to child dentistry (adj.)",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "pertaining to treatment of the foot (adj.)",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "blood-pressure apparatus",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "three-legged stand",
+      "initialLetter": "T",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "pertaining to the treatment of diseases by manipulation to relieve pressure of the bones on nerves and blood vessels (adj.)",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "pertaining to handwriting (adj.)",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "gum specialist",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "treatment of ailments of the foot",
+      "initialLetter": "P/C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "stand for a speaker",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "dentist specializing in treating the. pulp of the tooth or in doing root-canal therapy",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "pedodontic",
+    "2": "podiatric",
+    "3": "sphygmomanometer",
+    "4": "tripod",
+    "5": "osteopathic",
+    "6": "chirographic",
+    "7": "periodontist",
+    "8": ["podiatry", "chiropody"],
+    "9": "podium",
+    "10": "endodontist"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "As a result of the tests you are taking, you are becoming more and more familiar with these ten valuable and expressive words. Now, as a further check on your learning, write the word that best fits each blank.",
+  "questions": [
+    {
+      "id": "1",
+      "question": "outstandingly vicious; so bad as to be in a class by itself - \"An ___ gambler\"",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Born with a clubfoot - \"A ____ deformity\"",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Someone known the world over for criminal acts - \"A ___ criminal\"",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "An invading army kills, maims, and tortures without mercy, compunction, or regret. - \"___ acts of cruelty\"",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "The suspect answers the detective’s questions easily, fluently, almost too smoothly. - \"___ responses\"",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "A person reaches the acme of perfection as an actress or actor. - \"A ___ performer\"",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "No one can change someone’s absurdly romantic attitude toward life. - \"An ___ romantic\"",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "A mistake so bad that it dees description - \"An ___ blunder\"",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Drunk almost all the time, again and again and again—periods of sobriety are few and very, very far between - \"A ___ alcoholic\"",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "Doctors find a persistent, dangerous infection in the bladder - \"A ___ condition\"",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "inveterate",
+    "2": "congenital",
+    "3": "notorious",
+    "4": "unconscionable",
+    "5": "glib",
+    "6": "consummate",
+    "7": "incorrigible",
+    "8": "egregious",
+    "9": "chronic",
+    "10": "pathological"
+  }
+}

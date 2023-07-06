@@ -1,0 +1,119 @@
+{
+  "title": "Can you work with the words?",
+  "columnA": [
+    {
+      "id": "1",
+      "question": "notoriety",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "to consummate (v.)",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "consummacy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "incorrigibility",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "inveteracy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "genetics",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "genealogy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "genital",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "genesis",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "hereditary",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "gene",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "state of artistic height"
+    },
+    {
+      "id": "b",
+      "question": "state of being long established in a habit"
+    },
+    {
+      "id": "c",
+      "question": "beginning, origin"
+    },
+    {
+      "id": "d",
+      "question": "science of heredity"
+    },
+    {
+      "id": "e",
+      "question": "bring to completion; top off"
+    },
+    {
+      "id": "f",
+      "question": "study of ancestry"
+    },
+    {
+      "id": "g",
+      "question": "referring to characteristics passed on to offspring by parents"
+    },
+    {
+      "id": "h",
+      "question": "referring to reproduction, or to the reproductive or sexual organs"
+    },
+    {
+      "id": "i",
+      "question": "ill fame"
+    },
+    {
+      "id": "j",
+      "question": "particle that transmits hereditary characteristics"
+    },
+    {
+      "id": "k",
+      "question": "state of being beyond reform or correction"
+    }
+  ],
+  "answers": {
+    "1": "i",
+    "2": "e",
+    "3": "a",
+    "4": "k",
+    "5": "b",
+    "6": "d",
+    "7": "f",
+    "8": "h",
+    "9": "c",
+    "10": "g",
+    "11": "j"
+  }
+}

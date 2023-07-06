@@ -1,0 +1,87 @@
+{
+  "title": "Can you recall the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "outstandingly vicious; so bad as to be in a class by itself",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "starting at birth",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "happening over and over again; continuing for a long time",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "widely and unfavorably known (as for antisocial acts, character weaknesses, immoral or unethical behavior, etc.)",
+      "initialLetter": "N",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "beyond correction",
+      "initialLetter": "I",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "smooth and persuasive; unusually, almost suspiciously, fluent",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "long addicted to a habit",
+      "initialLetter": "I",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "perfect in the practice of an art; extremely skillful",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "unscrupulous; entirely without conscience",
+      "initialLetter": "U",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "diseased",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "egregious",
+    "2": "congenital",
+    "3": "chronic",
+    "4": "notorious",
+    "5": "incorrigible",
+    "6": "glib",
+    "7": "inveterate",
+    "8": "consummate",
+    "9": "unconscionable",
+    "10": "pathological"
+  }
+}

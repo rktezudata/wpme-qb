@@ -1,0 +1,109 @@
+{
+  "title": "Can you work with the words?",
+  "columnA": [
+    {
+      "id": "1",
+      "question": "notorious",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "consummate",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "incorrigible",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "inveterate",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "congenital",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "chronic",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "pathological",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "unconscionable",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "glib",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "egregious",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "beyond reform"
+    },
+    {
+      "id": "b",
+      "question": "continuing over a long period of time; recurring"
+    },
+    {
+      "id": "c",
+      "question": "diseased"
+    },
+    {
+      "id": "d",
+      "question": "from long-standing habit"
+    },
+    {
+      "id": "e",
+      "question": "suspiciously smooth"
+    },
+    {
+      "id": "f",
+      "question": "without conscience or scruples"
+    },
+    {
+      "id": "g",
+      "question": "outstandingly bad or vicious"
+    },
+    {
+      "id": "h",
+      "question": "unfavorably known"
+    },
+    {
+      "id": "i",
+      "question": "from birth"
+    },
+    {
+      "id": "j",
+      "question": "finished, perfect, artistic"
+    }
+  ],
+  "answers": {
+    "1": "h",
+    "2": "j",
+    "3": "a",
+    "4": "d",
+    "5": "i",
+    "6": "b",
+    "7": "c",
+    "8": "f",
+    "9": "e",
+    "10": "g"
+  }
+}

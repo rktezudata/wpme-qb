@@ -1,0 +1,108 @@
+{
+  "columnA": [
+    {
+      "id": "1",
+      "question": "kleptomania",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "libidinous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "atheism",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "agnosticism",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "polytheism",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "monotheism",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "theology",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "pantheism",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "satyriasis",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "hypochondria",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "disbelief in God"
+    },
+    {
+      "id": "b",
+      "question": "belief in many gods"
+    },
+    {
+      "id": "c",
+      "question": "lewd"
+    },
+    {
+      "id": "d",
+      "question": "belief that God is nature"
+    },
+    {
+      "id": "e",
+      "question": "morbid anxiety about health"
+    },
+    {
+      "id": "f",
+      "question": "belief in one God"
+    },
+    {
+      "id": "g",
+      "question": "study of religion"
+    },
+    {
+      "id": "h",
+      "question": "obsessive thievery"
+    },
+    {
+      "id": "i",
+      "question": "abnormal male sexual needs"
+    },
+    {
+      "id": "j",
+      "question": "skepticism about God"
+    }
+  ],
+  "answers": {
+    "1": "h",
+    "2": "c",
+    "3": "a",
+    "4": "j",
+    "5": "b",
+    "6": "f",
+    "7": "g",
+    "8": "d",
+    "9": "i",
+    "10": "e"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "columnA": [
+    {
+      "id": "1",
+      "question": "incendiarism",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "arson",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "megalomania",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "nymphomania",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "satyromania",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "claustrophobia",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "agoraphobia",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "acrophobia",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "delusions of grandeur"
+    },
+    {
+      "id": "b",
+      "question": "compulsive sexual needs on the part of a male"
+    },
+    {
+      "id": "c",
+      "question": "morbid dread of open spaces"
+    },
+    {
+      "id": "d",
+      "question": "morbid dread of enclosed places"
+    },
+    {
+      "id": "e",
+      "question": "malicious setting of fires, as for revenge, etc."
+    },
+    {
+      "id": "f",
+      "question": "morbid dread of heights"
+    },
+    {
+      "id": "g",
+      "question": "compulsive sexual needs on the part of a female"
+    },
+    {
+      "id": "h",
+      "question": "felony of setting fire for economic gain"
+    }
+  ],
+  "answers": {
+    "1": "e",
+    "2": "h",
+    "3": "a",
+    "4": "g",
+    "5": "b",
+    "6": "d",
+    "7": "c",
+    "8": "f"
+  }
+}

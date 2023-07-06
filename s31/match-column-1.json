@@ -1,0 +1,108 @@
+{
+  "columnA": [
+    {
+      "id": "1",
+      "question": "martinet",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "sycophancy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "dilettantism",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "tyro",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "virtuoso",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "termagant",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "chauvinism",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "patrimony",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "patronymic",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "patriarch",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "lack of seriousness in an art or profession"
+    },
+    {
+      "id": "b",
+      "question": "harridan, shrew"
+    },
+    {
+      "id": "c",
+      "question": "excessive patriotism"
+    },
+    {
+      "id": "d",
+      "question": "name from father"
+    },
+    {
+      "id": "e",
+      "question": "venerable and influential old man"
+    },
+    {
+      "id": "f",
+      "question": "beginner"
+    },
+    {
+      "id": "g",
+      "question": "brilliant performer"
+    },
+    {
+      "id": "h",
+      "question": "bootlicking"
+    },
+    {
+      "id": "i",
+      "question": "inheritance from father"
+    },
+    {
+      "id": "j",
+      "question": "strict disciplinarian"
+    }
+  ],
+  "answers": {
+    "1": "j",
+    "2": "h",
+    "3": "a",
+    "4": "f",
+    "5": "g",
+    "6": "b",
+    "7": "c",
+    "8": "i",
+    "9": "d",
+    "10": "e"
+  }
+}

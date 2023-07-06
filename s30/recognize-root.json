@@ -1,0 +1,182 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "to socialize",
+      "initialLetter": "F",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "excessively indulgent to, and doting on, one's wife",
+      "initialLetter": "U",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "full dress, with ribbons, insignia, badges of office, etc.",
+      "initialLetter": "R",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "obsessed in one area or with one overriding interest (adj.)",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "having a compulsion to set fires (adj.)",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "having a psychological compulsion to steal (adj.)",
+      "initialLetter": "K",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "person who sets fires for revenge",
+      "initialLetter": "I",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "felony of putting the torch to property for economic profit",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "obsessive need for sexual gratification by a male or female",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "morbidly dreading enclosed or cramped places (adj.)",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "morbidly dreading heights (adj.)",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "morbidly dreading wide-open spaces (adj.)",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "having delusions of grandeur or power (adj.)",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "referring to a female who obsessively needs sexual gratification (adj.)",
+      "initialLetter": "N",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "alcoholism",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "stealing for thrills or out of psychological compulsion (adj.)",
+      "initialLetter": "K",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "17",
+      "question": "brotherly",
+      "initialLetter": "F",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "18",
+      "question": "characteristic of, or befitting, a wife",
+      "initialLetter": "U",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "19",
+      "question": "referring to, characteristic of,or involved in, the matrimonial relationship",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "20",
+      "question": "kingly; royal; splendid; etc",
+      "initialLetter": "R",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "21",
+      "question": "outside the marriage (adj.) ",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "22",
+      "question": ". before marriage (adj.) ",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "fraternize",
+    "2": "uxorious",
+    "3": "regalia",
+    "4": "monomaniacal",
+    "5": "pyromaniacal",
+    "6": "kleptomaniacal",
+    "7": "incendiary",
+    "8": "arson",
+    "9": ["satyromania", "satyriasis"],
+    "10": "claustrophobic",
+    "11": "acrophobic",
+    "12": "agoraphobic",
+    "13": "megalomaniacal",
+    "14": "nymphomaniacal",
+    "15": "dipsomania",
+    "16": "kleptomaniacal",
+    "17": "fraternal",
+    "18": "uxorial",
+    "19": "marital",
+    "20": "regal",
+    "21": "extramarital",
+    "22": "premarital"
+  }
+}

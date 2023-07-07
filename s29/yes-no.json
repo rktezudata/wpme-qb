@@ -1,0 +1,111 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "Does a sycophantic attitude show sincere admiration?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "Is a diaphanous gown revealing?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "Does dilettantism show firmness and tenacity?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "Is a tyro particularly skillful?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "Is a violin virtuoso an accomplished musician?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "Is a termagant a pleasant person?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "Does chauvinism show modesty?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "Does a substantial patrimony obviate financial insecurity?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "If you know a person's patronymic, can you deduce his father's name?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "Is a patriarch a male?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "Does a matriarch have a good deal of power?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "Does fratricide mean murder of one's sister?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "Did the assassin of Abraham Lincoln commit regicide?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "14",
+			"question": "Do dictators and tyrants sometimes commit genocide?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "15",
+			"question": "Are an uxoricidal husband and his mariticidal wife likely to have a peaceful and affectionate marriage?",
+			"selectedAnswer": null,
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "no",
+		"2": "yes",
+		"3": "no",
+		"4": "no",
+		"5": "yes",
+		"6": "no",
+		"7": "no",
+		"8": "yes",
+		"9": "yes",
+		"10": "yes",
+		"11": "yes",
+		"12": "no",
+		"13": "yes",
+		"14": "yes",
+		"15": "no"
+	}
+}

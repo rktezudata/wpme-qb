@@ -2,107 +2,107 @@
 	"columnA": [
 		{
 			"id": "1",
-			"question": "martinet",
+			"question": "harridan",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "2",
-			"question": "sycophant",
+			"question": "homophones",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "3",
-			"question": "dilettante",
+			"question": "maternal",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "4",
-			"question": "virago",
+			"question": "matrimonial",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "5",
-			"question": "chauvinist",
+			"question": "synonymous",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "6",
-			"question": "monomaniac",
+			"question": "antonymous",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "7",
-			"question": "iconoclast",
+			"question": "homonymous",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "8",
-			"question": "atheist",
+			"question": "patriarchal",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "9",
-			"question": "lecher",
+			"question": "matriarchal",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "10",
-			"question": "hypochondriac",
+			"question": "homicidal",
 			"wrongAnsSelected": false
 		}
 	],
 	"columnB": [
 		{
 			"id": "a",
-			"question": "superficiality"
+			"question": "motherly"
 		},
 		{
 			"id": "b",
-			"question": "patriotism"
+			"question": "similar in meaning"
 		},
 		{
 			"id": "c",
-			"question": "godlessness"
+			"question": "referring to a system in which older men are in power"
 		},
 		{
 			"id": "d",
-			"question": "single-mindedness"
+			"question": "the same in sound but not in spelling or meaning "
 		},
 		{
 			"id": "e",
-			"question": "antitradition"
+			"question": "likely to kill; referring to the killing of a person"
 		},
 		{
 			"id": "f",
-			"question": "sex"
+			"question": "referring to a system in which older women are in power"
 		},
 		{
 			"id": "g",
-			"question": "illness"
+			"question": "virago"
 		},
 		{
 			"id": "h",
-			"question": "discipline"
+			"question": "opposite in meaning"
 		},
 		{
 			"id": "i",
-			"question": "turbulence"
+			"question": "referring to marriage"
 		},
 		{
 			"id": "j",
-			"question": "flattery"
+			"question": "words that sound the same"
 		}
 	],
 	"answers": {
-		"1": "h",
+		"1": "g",
 		"2": "j",
 		"3": "a",
 		"4": "i",
 		"5": "b",
-		"6": "d",
-		"7": "e",
+		"6": "h",
+		"7": "d",
 		"8": "c",
 		"9": "f",
-		"10": "g"
+		"10": "e"
 	}
 }

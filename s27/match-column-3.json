@@ -1,0 +1,99 @@
+{
+  "title": "Can you work with the words?",
+  "columnA": [
+    {
+      "id": "1",
+      "question": "endorse",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "vociferate",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "insomniac",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "somnolency",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "somnambulist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "perambulate",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "amble",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "soporific",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "insomnious",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "one who cannot fall asleep"
+    },
+    {
+      "id": "b",
+      "question": "sleepwalker"
+    },
+    {
+      "id": "c",
+      "question": "walk aimlessly"
+    },
+    {
+      "id": "d",
+      "question": "stroll through; walk around"
+    },
+    {
+      "id": "e",
+      "question": "to sign on the back; support; approve of"
+    },
+    {
+      "id": "f",
+      "question": "drowsiness"
+    },
+    {
+      "id": "g",
+      "question": "say loudly and with great vehemence"
+    },
+    {
+      "id": "h",
+      "question": "causing sleep"
+    },
+    {
+      "id": "i",
+      "question": "wakeful; unable to fall asleep"
+    }
+  ],
+  "answers": {
+    "1": "e",
+    "2": "g",
+    "3": "a",
+    "4": "f",
+    "5": "b",
+    "6": "d",
+    "7": "c",
+    "8": "h",
+    "9": "i"
+  }
+}

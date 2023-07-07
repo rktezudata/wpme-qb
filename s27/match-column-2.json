@@ -1,0 +1,119 @@
+{
+  "title": "Can you work with the words?",
+  "columnA": [
+    {
+      "id": "1",
+      "question": "ventricle, auricle",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "endorsement",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "vociferousness",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "insomnia",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "somnolence",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "somnambulism",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "perambulator",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "preamble",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "soporific",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "inarticulateness",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "banality",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "inability to fall asleep"
+    },
+    {
+      "id": "b",
+      "question": "sleepwalking"
+    },
+    {
+      "id": "c",
+      "question": "introduction; preliminary or introductory occurrence"
+    },
+    {
+      "id": "d",
+      "question": "incoherence; sputtering; inability to get words out"
+    },
+    {
+      "id": "e",
+      "question": "chamber of the heart"
+    },
+    {
+      "id": "f",
+      "question": "sleeping pill"
+    },
+    {
+      "id": "g",
+      "question": "support; approval"
+    },
+    {
+      "id": "h",
+      "question": "lack of originality; lack of imagination"
+    },
+    {
+      "id": "i",
+      "question": "drowsiness"
+    },
+    {
+      "id": "j",
+      "question": "baby buggy; stroller"
+    },
+    {
+      "id": "k",
+      "question": "loudness; clamorousness"
+    }
+  ],
+  "answers": {
+    "1": "e",
+    "2": "g",
+    "3": "k",
+    "4": "a",
+    "5": "i",
+    "6": "b",
+    "7": "j",
+    "8": "c",
+    "9": "f",
+    "10": "d",
+    "11": "h"
+  }
+}

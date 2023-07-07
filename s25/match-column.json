@@ -1,0 +1,89 @@
+{
+  "title": "Can you work with the words?",
+  "columnA": [
+    {
+      "id": "1",
+      "question": "taciturnity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "tacitness",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "reticence",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "loquacity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "soliloquy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "ventriloquism",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "colloquialism",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "circumlocution",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "unwillingness to talk, or disclose, out of fear, shyness, reserve, etc."
+    },
+    {
+      "id": "b",
+      "question": "talking, or a speech, \"to oneself\""
+    },
+    {
+      "id": "c",
+      "question": "art of throwing one’s voice"
+    },
+    {
+      "id": "d",
+      "question": "unwillingness to engage in conversation"
+    },
+    {
+      "id": "e",
+      "question": "informal expression used in everyday conversation"
+    },
+    {
+      "id": "f",
+      "question": "state of being understood though not actually expressed"
+    },
+    {
+      "id": "g",
+      "question": "a talking around; method of talking indirectly or in a roundabout way"
+    },
+    {
+      "id": "h",
+      "question": "talkativeness"
+    }
+  ],
+  "answers": {
+    "1": "d",
+    "2": "f",
+    "3": "a",
+    "4": "h",
+    "5": "b",
+    "6": "c",
+    "7": "e",
+    "8": "g"
+  }
+}

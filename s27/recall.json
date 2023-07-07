@@ -1,0 +1,135 @@
+{
+  "title": "Can you recall the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "lack of imagination or originality in speech, actions, or style of life; hackneyed or trite phraseology",
+      "initialLetter": "B",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "sleep-inducing",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "unable to fall asleep (adj.)",
+      "initialLetter": "I",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "verbal, vocal, speaking fluently",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "acting like an uncle",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "referring to the front; anterior",
+      "initialLetter": "V",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "referring to the back; posterior",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "approve of; support; sign on the back of",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "shout vehemently",
+      "initialLetter": "V",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "one who cannot fall asleep",
+      "initialLetter": "I",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "drowsy; sleepy",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "sleepwalker",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "now able to walk, though previously bedridden",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "walk aimlessly",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "introduction; introductory event",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "incoherence",
+      "initialLetter": "I",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "banality",
+    "2": ["somniferous", "soporific"],
+    "3": "insomnious",
+    "4": "articulate",
+    "5": "avuncular",
+    "6": "ventral",
+    "7": "dorsal",
+    "8": "endorse",
+    "9": "vociferate",
+    "10": "insomniac",
+    "11": "somnolent",
+    "12": "somnambulist",
+    "13": "ambulatory",
+    "14": "amble",
+    "15": "preamble",
+    "16": "inarticulateness"
+  }
+}

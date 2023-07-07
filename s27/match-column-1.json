@@ -3,107 +3,107 @@
   "columnA": [
     {
       "id": "1",
-      "question": "taciturn",
+      "question": "ventral",
       "wrongAnsSelected": false
     },
     {
       "id": "2",
-      "question": "laconic",
+      "question": "dorsal",
       "wrongAnsSelected": false
     },
     {
       "id": "3",
-      "question": "inarticulate",
+      "question": "somniferous",
       "wrongAnsSelected": false
     },
     {
       "id": "4",
-      "question": "garrulous",
+      "question": "insomnious",
       "wrongAnsSelected": false
     },
     {
       "id": "5",
-      "question": "banal",
+      "question": "somnolent",
       "wrongAnsSelected": false
     },
     {
       "id": "6",
-      "question": "verbose",
+      "question": "somnambulistic",
       "wrongAnsSelected": false
     },
     {
       "id": "7",
-      "question": "voluble",
+      "question": "ambulatory",
       "wrongAnsSelected": false
     },
     {
       "id": "8",
-      "question": "cogent",
+      "question": "articulate",
       "wrongAnsSelected": false
     },
     {
       "id": "9",
-      "question": "vociferous",
+      "question": "ventricular, auricular",
       "wrongAnsSelected": false
     },
     {
       "id": "10",
-      "question": "loquacious",
+      "question": "avuncular",
       "wrongAnsSelected": false
     }
   ],
   "columnB": [
     {
       "id": "a",
-      "question": "chattering meaninglessly"
+      "question": "unable to fall asleep"
     },
     {
       "id": "b",
-      "question": "wordy"
+      "question": "pertaining to sleepwalking"
     },
     {
       "id": "c",
-      "question": "trite, hackneyed, unoriginal"
+      "question": "drowsy"
     },
     {
       "id": "d",
-      "question": "fluent and rapid"
+      "question": "able to walk, after being bedridden"
     },
     {
       "id": "e",
-      "question": "noisy, loud"
+      "question": "verbal, vocal"
     },
     {
       "id": "f",
-      "question": "sputtering unintelligibly"
+      "question": "like an uncle; kindly; protective"
     },
     {
       "id": "g",
-      "question": "talkative"
+      "question": "pertaining to one of the chambers of the heart"
     },
     {
       "id": "h",
-      "question": "brilliantly compelling, persuasive"
+      "question": "referring to the front or belly side"
     },
     {
       "id": "i",
-      "question": "unwilling to engage in conversation"
+      "question": "sleep-inducing"
     },
     {
       "id": "j",
-      "question": "using few words packed with meaning"
+      "question": "referring to the back side"
     }
   ],
   "answers": {
-    "1": "i",
+    "1": "h",
     "2": "j",
-    "3": "f",
+    "3": "i",
     "4": "a",
     "5": "c",
     "6": "b",
     "7": "d",
-    "8": "h",
-    "9": "e",
-    "10": "g"
+    "8": "e",
+    "9": "g",
+    "10": "f"
   }
 }

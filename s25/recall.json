@@ -1,0 +1,87 @@
+{
+  "title": "Can you recall the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "to speak to oneself",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "to throw one’s voice",
+      "initialLetter": "V",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "unwillingness to engage in conversation",
+      "initialLetter": "T",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "unspoken",
+      "initialLetter": "T",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "referring to an indirect, roundabout style of expression (adj.)",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "suitable for informal conversation",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "talkativeness",
+      "initialLetter": "L",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "reluctance to express one’s feelings or thoughts",
+      "initialLetter": "R",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "a speech to oneself, especially in a play",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "an indirect, roundabout expression",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "soliloquize",
+    "2": "ventriloquize",
+    "3": "taciturnity",
+    "4": "tacit",
+    "5": "circumlocutory",
+    "6": "colloquial",
+    "7": ["loquaciousness", "loquacity"],
+    "8": ["reticence", "reticency"],
+    "9": "soliloquy",
+    "10": "circumlocution"
+  }
+}

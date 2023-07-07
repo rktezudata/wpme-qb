@@ -1,0 +1,87 @@
+{
+  "title": "Can you recall the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "talkative",
+      "initialLetter": "L",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "noisy, vehement, clamorous",
+      "initialLetter": "V",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "incoherent; sputtering",
+      "initialLetter": "I",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "gabbing ceaselessly and with little meaning",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "disinclined to conversation",
+      "initialLetter": "T",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "talking in hackneyed phraseology",
+      "initialLetter": "B",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "showing a fine economy in the use of words",
+      "initialLetter": "L",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "forceful and convincing",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "talking rapidly and fluently",
+      "initialLetter": "V",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "using more words than necessary",
+      "initialLetter": "V",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "loquacious",
+    "2": "vociferous",
+    "3": "inarticulate",
+    "4": "garrulous",
+    "5": " taciturn",
+    "6": "banal",
+    "7": "laconic",
+    "8": "cogent",
+    "9": "voluble",
+    "10": "verbose"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "title": "Can you recall the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "gradually unfolding, resulting, or developing (adj.)",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "causing, or resulting from, radical change (adj.)",
+      "initialLetter": "R",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "quality of conciseness and economy in the use of words",
+      "initialLetter": "L",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "expressiveness in the use of words",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "turn round and round",
+      "initialLetter": "R",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "important person, as in the commercial world",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "unselfish; generous; noble in motive; big-hearted; forgiving",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "using words easily; vocal; articulate; referring to, or involving, words; oral, rather than written",
+      "initialLetter": "V",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "style of word usage; type of words; overabundance of words",
+      "initialLetter": "V",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "wordiness; quality of using excess words",
+      "initialLetter": "V",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "elegance in word usage",
+      "initialLetter": "M/G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "quality of chattering on and on about trivia, or with little meaning",
+      "initialLetter": "G",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "fluency and ease in speech",
+      "initialLetter": "V",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "word for word",
+      "initialLetter": "V",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "masterpiece; great artistic work",
+      "initialLetter": "M... O...",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "persuasiveness and forcefulness in speech or writing through closely reasoned logic",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "evolutionary",
+    "2": "revolutionary",
+    "3": ["laconism", "laconicism", "laconicity", "laconicness"],
+    "4": "eloquence",
+    "5": "revolve",
+    "6": "magnate",
+    "7": "magnanimous",
+    "8": "verbal",
+    "9": "verbiage",
+    "10": "verbosity",
+    "11": ["magniloquence", "grandiloquence"],
+    "12": "garrulity",
+    "13": "volubility",
+    "14": "verbatim",
+    "15": "magnum opus",
+    "16": "cogency"
+  }
+}

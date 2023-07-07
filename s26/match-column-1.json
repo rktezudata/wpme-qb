@@ -1,0 +1,119 @@
+{
+  "title": "Can you work with the words?",
+  "columnA": [
+    {
+      "id": "1",
+      "question": "laconicity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "eloquence",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "magniloquence",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "verbosity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "volubility",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "garrulity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "magnum opus",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "magnate",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "revolution",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "evolution",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "cogency",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "floweriness, pompousness, or elegance in speech"
+    },
+    {
+      "id": "b",
+      "question": "incessant chatter with little meaning"
+    },
+    {
+      "id": "c",
+      "question": "big wheel; important or influential person"
+    },
+    {
+      "id": "d",
+      "question": "great artistic work; masterpiece"
+    },
+    {
+      "id": "e",
+      "question": "a gradual unfolding or development; \"a rolling out\""
+    },
+    {
+      "id": "f",
+      "question": "\"a rolling round\"; radical change; political upheaval"
+    },
+    {
+      "id": "g",
+      "question": "great economy in speech"
+    },
+    {
+      "id": "h",
+      "question": "fluency, ease, and/or rapidity of speech"
+    },
+    {
+      "id": "i",
+      "question": "great, artistic, or emotional expressiveness"
+    },
+    {
+      "id": "j",
+      "question": "wordiness"
+    },
+    {
+      "id": "k",
+      "question": "persuasiveness through logic; keen-mindedness in reasoning"
+    }
+  ],
+  "answers": {
+    "1": "g",
+    "2": "i",
+    "3": "a",
+    "4": "j",
+    "5": "h",
+    "6": "b",
+    "7": "d",
+    "8": "c",
+    "9": "f",
+    "10": "e",
+    "11": "k"
+  }
+}

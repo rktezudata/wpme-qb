@@ -1,0 +1,77 @@
+{
+  "title": "Do you understand the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Is laconicism characteristic of a verbose speaker?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Does a magniloquent speaker use short, simple words?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Does a frog evolve from a tadpole?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Is an eloquent speaker interesting to listen to?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Do verbose people use a lot of verbiage?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Is volubility characteristic of an inarticulate person?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Does verbosity show a careful and economical use of words?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Is a verbal person usually inarticulate?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Is a magnun opus one of the lesser works of a writer, artist, or composer?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "Is a magnanimous person selfish and petty-minded?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "no",
+    "2": "no",
+    "3": "yes",
+    "4": "yes",
+    "5": "yes",
+    "6": "no",
+    "7": "no",
+    "8": "no",
+    "9": "no",
+    "10": "no"
+  }
+}

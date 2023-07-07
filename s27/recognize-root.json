@@ -1,0 +1,167 @@
+{
+  "title": "Can you recognize roots?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "taceo",
+      "answer": "",
+      "example": "taciturn",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "loquor",
+      "answer": "",
+      "example": "loquacity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "solus",
+      "answer": "",
+      "example": "soliloquize",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "venter, ventris",
+      "answer": "",
+      "example": "ventral",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "magnus",
+      "answer": "",
+      "example": "magniloquent",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "grandis",
+      "answer": "",
+      "example": "grandiloquent",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "verbum",
+      "answer": "",
+      "example": "verbatim",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "volvo, volutus",
+      "answer": "",
+      "example": "revolution",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "garrio",
+      "answer": "",
+      "example": "garrulous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "animus",
+      "answer": "",
+      "example": "magnanimous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "opus",
+      "answer": "",
+      "example": "magnum opus",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "opero",
+      "answer": "",
+      "example": "operator",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "auris",
+      "answer": "",
+      "example": "auricle",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "avunculus",
+      "answer": "",
+      "example": "avuncular",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "dorsum",
+      "answer": "",
+      "example": "dorsal",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "vox, vocis",
+      "answer": "",
+      "example": "vociferous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "17",
+      "question": "fero",
+      "answer": "",
+      "example": "somniferous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "18",
+      "question": "ambulo",
+      "answer": "",
+      "example": "preamble",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "19",
+      "question": "sopor",
+      "answer": "",
+      "example": "sopori",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "20",
+      "question": "somnus",
+      "answer": "",
+      "example": "somnolency",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "to be silent",
+    "2": "to speak",
+    "3": "alone",
+    "4": "belly",
+    "5": ["big", "large", "great"],
+    "6": "grand",
+    "7": "word",
+    "8": "to roll",
+    "9": "to chatter",
+    "10": "mind",
+    "11": "work",
+    "12": "to work",
+    "13": "ear",
+    "14": "uncle",
+    "15": "back",
+    "16": "voice",
+    "17": ["to carry", "to bear"],
+    "18": "to walk",
+    "19": "sleep",
+    "20": "sleep"
+  }
+}

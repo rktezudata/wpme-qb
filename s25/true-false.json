@@ -1,0 +1,64 @@
+{
+  "title": "Do you understand the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "A tacit understanding is put into words.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Inhibited people are seldom reticent about expressing anger.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "A soliloquist expresses his thoughts aloud.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "A ventriloquistic performance on stage involves a dummy who appears to be talking.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "A colloquial style of writing is ungrammatical.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Circumlocutory speech is direct and forthright.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Inarticulate people are generally given to loquaciousness.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "A soliloquy is a dialogue.",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answerType": "true-false",
+  "answers": {
+    "1": "false",
+    "2": "false",
+    "3": "true",
+    "4": "true",
+    "5": "false",
+    "6": "false",
+    "7": "false",
+    "8": "false"
+  }
+}

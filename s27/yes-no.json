@@ -1,0 +1,77 @@
+{
+  "title": "Do you understand the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Does an insomniac often need a soporific?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Does a somnambulist always stay in bed when asleep?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Are ambulatory patients bedridden?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Does a preamble come after another event?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Are articulate people verbal?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Does banality show creativeness?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Does an avuncular attitude indicate affection and protectiveness?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Is vociferation habitual with quiet, shy people?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Is a somnolent person wide awake?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "Is a somniferous speaker stimulating and exciting?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "yes",
+    "2": "no",
+    "3": "no",
+    "4": "no",
+    "5": "yes",
+    "6": "no",
+    "7": "yes",
+    "8": "no",
+    "9": "no",
+    "10": "no"
+  }
+}

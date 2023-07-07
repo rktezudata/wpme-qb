@@ -1,0 +1,77 @@
+{
+  "title": "Do you understand the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Do taciturn people usually make others feel comfortable and welcome?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Does a laconic speaker use more words than necessary?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Does rage make some people inarticulate?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Is it interesting to listen to garrulous old men?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Do banal speakers show a great deal of originality?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Is verbose a complimentary term?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Is it easy to be voluble when you don’t know the subject you are talking about?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Do unintelligent people usually make cogent statements?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Is a vociferous demand ordinarily made by a shy, quiet person?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "Do loquacious people spend more time talking than listening?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "no",
+    "2": "no",
+    "3": "yes",
+    "4": "no",
+    "5": "no",
+    "6": "no",
+    "7": "no",
+    "8": "no",
+    "9": "no",
+    "10": "yes"
+  }
+}

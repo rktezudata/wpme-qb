@@ -3,106 +3,106 @@
   "columnA": [
     {
       "id": "1",
-      "question": "taciturn",
+      "question": "laconism",
       "wrongAnsSelected": false
     },
     {
       "id": "2",
-      "question": "laconic",
+      "question": "verbiage",
       "wrongAnsSelected": false
     },
     {
       "id": "3",
-      "question": "inarticulate",
+      "question": "verbalize",
       "wrongAnsSelected": false
     },
     {
       "id": "4",
-      "question": "garrulous",
+      "question": "verbal",
       "wrongAnsSelected": false
     },
     {
       "id": "5",
-      "question": "banal",
+      "question": "verbatim",
       "wrongAnsSelected": false
     },
     {
       "id": "6",
-      "question": "verbose",
+      "question": "revolutionary",
       "wrongAnsSelected": false
     },
     {
       "id": "7",
-      "question": "voluble",
+      "question": "evolutionary",
       "wrongAnsSelected": false
     },
     {
       "id": "8",
-      "question": "cogent",
+      "question": "grandiloquent",
       "wrongAnsSelected": false
     },
     {
       "id": "9",
-      "question": "vociferous",
+      "question": "eloquent",
       "wrongAnsSelected": false
     },
     {
       "id": "10",
-      "question": "loquacious",
+      "question": "magnanimous",
       "wrongAnsSelected": false
     }
   ],
   "columnB": [
     {
       "id": "a",
-      "question": "chattering meaninglessly"
+      "question": "word for word"
     },
     {
       "id": "b",
-      "question": "wordy"
+      "question": "to put into words"
     },
     {
       "id": "c",
-      "question": "trite, hackneyed, unoriginal"
+      "question": "causing, or resulting from, radical change; new and totally different"
     },
     {
       "id": "d",
-      "question": "fluent and rapid"
+      "question": "resulting or developing gradually from (something)"
     },
     {
       "id": "e",
-      "question": "noisy, loud"
+      "question": "expressive; emotionally moving"
     },
     {
       "id": "f",
-      "question": "sputtering unintelligibly"
+      "question": "pithiness or economy of expression; word or phrase packed with meaning"
     },
     {
       "id": "g",
-      "question": "talkative"
+      "question": "big-hearted; generous, forgiving"
     },
     {
       "id": "h",
-      "question": "brilliantly compelling, persuasive"
+      "question": "referring or pertaining to, or involving, words; oral, rather than written"
     },
     {
       "id": "i",
-      "question": "unwilling to engage in conversation"
+      "question": "using flossy, flowery, elegant, or impressive phraseology"
     },
     {
       "id": "j",
-      "question": "using few words packed with meaning"
+      "question": "wordiness; style or manner of using words; type of words"
     }
   ],
   "answers": {
-    "1": "i",
+    "1": "f",
     "2": "j",
-    "3": "f",
-    "4": "a",
-    "5": "c",
-    "6": "b",
+    "3": "b",
+    "4": "h",
+    "5": "a",
+    "6": "c",
     "7": "d",
-    "8": "h",
+    "8": "i",
     "9": "e",
     "10": "g"
   }

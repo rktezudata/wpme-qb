@@ -1,0 +1,167 @@
+{
+  "title": "Do you recognize the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Disinclined to conversation:",
+      "options": ["loquacious", "laconic", "taciturn"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Trite:",
+      "options": ["inarticulate", "banal", "verbose"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Rapid and fluent:",
+      "options": ["voluble", "verbose", "garrulous"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Forceful and compelling:",
+      "options": ["vociferous", "cogent", "laconic"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Unspoken:",
+      "options": ["verbatim", "eloquent", "tacit"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Using elegant and impressive words:",
+      "options": ["verbose", "grandiloquent", "colloquial"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Back:",
+      "options": ["dorsal", "ventral", "somniferous"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Sleep-inducing:",
+      "options": ["soporific", "somnolent", "ventral"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Inability to fall asleep:",
+      "options": ["somnambulism", "ambulatory", "insomnia"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "Talkativeness:",
+      "options": ["reticence", "ventriloquism", "loquacity"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "Expressing indirectly or in a roundabout way:",
+      "options": ["circumlocutory", "colloquial", "laconic"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "Elegance in expression:",
+      "options": ["magniloquence", "grandiloquence", "verbiage"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "Wordiness:",
+      "options": ["laconism", "cogency", "verbosity"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "Big-hearted, generous, unselfish:",
+      "options": ["grandiloquent", "magnanimous", "garrulous"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "Causing radical changes:",
+      "options": ["evolutionary", "revolutionary", "ventricular"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "To shout vehemently:",
+      "options": ["endorse", "perambulate", "vociferate"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "17",
+      "question": "Like an uncle:",
+      "options": ["ventricular", "auricular", "avuncular"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "18",
+      "question": "Drowsy:",
+      "options": ["somniferous", "somnolent", "soporific"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "19",
+      "question": "Sleepwalking:",
+      "options": ["insomnia", "somnolency", "somnambulism"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "20",
+      "question": "Introduction:",
+      "options": ["preamble", "perambulator", "evolution"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "taciturn",
+    "2": "banal",
+    "3": "voluble",
+    "4": "cogent",
+    "5": "tacit",
+    "6": "grandiloquent",
+    "7": "dorsal",
+    "8": "soporific",
+    "9": "insomnia",
+    "10": "loquacity",
+    "11": "circumlocutory",
+    "12": ["magniloquence", "grandiloquence"],
+    "13": "verbosity",
+    "14": "magnanimous",
+    "15": "revolutionary",
+    "16": "vociferate",
+    "17": "avuncular",
+    "18": "somnolent",
+    "19": "somnambulism",
+    "20": "preamble"
+  }
+}

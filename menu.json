@@ -293,7 +293,958 @@
       }
     ]
   },
-
+  {
+    "id": "session-9",
+    "title": "Session 9",
+    "sessionLinkPath": "03.%20how-to-talk-about-practitioners/session-9",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s9/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s9/match-column-2.json"
+        }
+      },
+      {
+        "text": "True/False",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s9/true-false.json"
+        }
+      },
+      {
+        "text": "Can you recall - 1",
+        "queryParams": {
+          "type": "recall",
+          "path": "s9/recall-1.json"
+        }
+      },
+      {
+        "text": "Can you recall - 2",
+        "queryParams": {
+          "type": "recall",
+          "path": "s9/recall-2.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-10",
+    "title": "Session 10",
+    "sessionLinkPath": "03.%20how-to-talk-about-practitioners/session-10",
+    "links": [
+      {
+        "text": "Match the column",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s10/match-column.json"
+        }
+      },
+      {
+        "text": "True/False",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s10/true-false.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s10/recall.json"
+        }
+      },
+      {
+        "text": "MCQ",
+        "queryParams": {
+          "type": "mcq",
+          "path": "s10/mcq.json"
+        }
+      },
+      {
+        "text": "Recognize root",
+        "queryParams": {
+          "type": "recognizeRoot",
+          "path": "s10/recognize-root.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-11",
+    "title": "Session 11",
+    "sessionLinkPath": "04. science-and-scientists/session-11",
+    "links": [
+      {
+        "text": "Match the column",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s11/match-column.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s11/recall.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-12",
+    "title": "Session 12",
+    "sessionLinkPath": "04. science-and-scientists/session-12",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s12/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s12/match-column-2.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s12/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall - 1",
+        "queryParams": {
+          "type": "recall",
+          "path": "s12/recall-1.json"
+        }
+      },
+      {
+        "text": "Can you recall - 2",
+        "queryParams": {
+          "type": "recall",
+          "path": "s12/recall-2.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-13",
+    "title": "Session 13",
+    "sessionLinkPath": "04. science-and-scientists/session-13",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s13/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s13/match-column-2.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s13/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s13/recall.json"
+        }
+      },
+      {
+        "text": "MCQ",
+        "queryParams": {
+          "type": "mcq",
+          "path": "s13/mcq.json"
+        }
+      },
+      {
+        "text": "Recognize root",
+        "queryParams": {
+          "type": "recognizeRoot",
+          "path": "s13/recognize-root.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-14",
+    "title": "Session 14",
+    "sessionLinkPath": "05. liars-and-lying/session-14",
+    "links": [
+      {
+        "text": "Match the column",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s14/match-column.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s14/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s14/recall.json"
+        }
+      },
+      {
+        "text": "Fill in the blank",
+        "queryParams": {
+          "type": "recall",
+          "path": "s14/fill-in-blank.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-15",
+    "title": "Session 15",
+    "sessionLinkPath": "05. liars-and-lying/session-15",
+    "links": [
+      {
+        "text": "Match the column",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s15/match-column.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s15/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s15/recall.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-16",
+    "title": "Session 16",
+    "sessionLinkPath": "05. liars-and-lying/session-16",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s16/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s16/match-column-2.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s16/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s16/recall.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-17",
+    "title": "Session 17",
+    "sessionLinkPath": "05. liars-and-lying/session-17",
+    "links": [
+      {
+        "text": "Match the column",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s17/match-column.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s17/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s17/recall.json"
+        }
+      },
+      {
+        "text": "MCQ",
+        "queryParams": {
+          "type": "mcq",
+          "path": "s17/mcq.json"
+        }
+      },
+      {
+        "text": "Recognize root",
+        "queryParams": {
+          "type": "recognizeRoot",
+          "path": "s17/recognize-root.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-18",
+    "title": "Session 18",
+    "sessionLinkPath": "05. liars-and-lying/session-17",
+    "links": [
+      {
+        "text": "Etymology",
+        "queryParams": {
+          "type": "recognizeRoot",
+          "path": "s18/etymology.json"
+        }
+      },
+      {
+        "text": "More etymology",
+        "queryParams": {
+          "type": "recognizeRoot",
+          "path": "s18/more-etymology.json"
+        }
+      },
+      {
+        "text": "Same - Opposite",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s18/same-opposite.json"
+        }
+      },
+      {
+        "text": "Match the column",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s18/match-column.json"
+        }
+      },
+      {
+        "text": "More match column",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s18/more-match-column.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s18/recall.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-19",
+    "title": "Session 19",
+    "sessionLinkPath": "06. how-to-talk-about-action/session-19",
+    "links": [
+      {
+        "text": "Match the column",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s19/match-column.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s19/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s19/recall.json"
+        }
+      },
+      {
+        "text": "Fill in the blank",
+        "queryParams": {
+          "type": "recall",
+          "path": "s19/fill-in-blank.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-20",
+    "title": "Session 20",
+    "sessionLinkPath": "06. how-to-talk-about-action/session-20",
+    "links": [
+      {
+        "text": "Match the column",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s20/match-column.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s20/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s20/recall.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-21",
+    "title": "Session 21",
+    "sessionLinkPath": "06. how-to-talk-about-action/session-21",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s21/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s21/match-column-2.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s21/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall - 1",
+        "queryParams": {
+          "type": "recall",
+          "path": "s21/recall-1.json"
+        }
+      },
+      {
+        "text": "Can you recall - 2",
+        "queryParams": {
+          "type": "recall",
+          "path": "s21/recall-2.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-22",
+    "title": "Session 22",
+    "sessionLinkPath": "06. how-to-talk-about-action/session-22",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s22/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s22/match-column-2.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s22/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall - 1",
+        "queryParams": {
+          "type": "recall",
+          "path": "s22/recall-1.json"
+        }
+      },
+      {
+        "text": "Can you recall - 2",
+        "queryParams": {
+          "type": "recall",
+          "path": "s22/recall-2.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-23",
+    "title": "Session 23",
+    "sessionLinkPath": "06. how-to-talk-about-action/session-23",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s23/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s23/match-column-2.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s23/yes-no.json"
+        }
+      },
+      {
+        "text": "Same - Opposite",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s23/same-opposite.json"
+        }
+      },
+      {
+        "text": "MCQ",
+        "queryParams": {
+          "type": "mcq",
+          "path": "s23/mcq.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s23/recall.json"
+        }
+      },
+      {
+        "text": "Recognize root",
+        "queryParams": {
+          "type": "recognizeRoot",
+          "path": "s23/recognize-root.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-24",
+    "title": "Session 24",
+    "sessionLinkPath": "07. how-to-talk-about-various-speech-habits/session-24",
+    "links": [
+      {
+        "text": "Match the column",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s24/match-column.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s24/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s24/recall.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-25",
+    "title": "Session 25",
+    "sessionLinkPath": "07. how-to-talk-about-various-speech-habits/session-25",
+    "links": [
+      {
+        "text": "Match the column",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s25/match-column.json"
+        }
+      },
+      {
+        "text": "True/False",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s25/true-false.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s25/recall.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-26",
+    "title": "Session 26",
+    "sessionLinkPath": "07. how-to-talk-about-various-speech-habits/session-26",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s26/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s26/match-column-2.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s26/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s26/recall.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-27",
+    "title": "Session 27",
+    "sessionLinkPath": "07. how-to-talk-about-various-speech-habits/session-27",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s27/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s27/match-column-2.json"
+        }
+      },
+      {
+        "text": "Match the column - 3",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s27/match-column-3.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s27/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s27/recall.json"
+        }
+      },
+      {
+        "text": "MCQ",
+        "queryParams": {
+          "type": "mcq",
+          "path": "s27/mcq.json"
+        }
+      },
+      {
+        "text": "Recognize root",
+        "queryParams": {
+          "type": "recognizeRoot",
+          "path": "s27/recognize-root.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-28",
+    "title": "Session 28",
+    "sessionLinkPath": "08. how-to-insult-your-enemies/session-28",
+    "links": [
+      {
+        "text": "Match the column",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s28/match-column.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s28/yes-no.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-29",
+    "title": "Session 29",
+    "sessionLinkPath": "08. how-to-insult-your-enemies/session-29",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s29/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s29/match-column-2.json"
+        }
+      },
+      {
+        "text": "Match the column - 3",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s29/match-column-3.json"
+        }
+      },
+      {
+        "text": "Match the column - 4",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s29/match-column-4.json"
+        }
+      },
+      {
+        "text": "Match the column - 5",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s29/match-column-5.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s29/yes-no.json"
+        }
+      },
+      {
+        "text": "Can you recall - 1",
+        "queryParams": {
+          "type": "recall",
+          "path": "s29/recall-1.json"
+        }
+      },
+      {
+        "text": "Can you recall - 2",
+        "queryParams": {
+          "type": "recall",
+          "path": "s29/recall-2.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-30",
+    "title": "Session 30",
+    "sessionLinkPath": "08. how-to-insult-your-enemies/session-30",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s30/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s30/match-column-2.json"
+        }
+      },
+      {
+        "text": "Match the column - 3",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s30/match-column-3.json"
+        }
+      },
+      {
+        "text": "Match the column - 4",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s30/match-column-4.json"
+        }
+      },
+      {
+        "text": "Yes/No",
+        "queryParams": {
+          "type": "yes-no",
+          "path": "s30/yes-no.json"
+        }
+      },
+      {
+        "text": "Recognize root",
+        "queryParams": {
+          "type": "recognizeRoot",
+          "path": "s30/recognize-root.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": "session-31",
+    "title": "Session 31",
+    "sessionLinkPath": "08. how-to-insult-your-enemies/session-31",
+    "links": [
+      {
+        "text": "Match the column - 1",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s31/match-column-1.json"
+        }
+      },
+      {
+        "text": "Match the column - 2",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s31/match-column-2.json"
+        }
+      },
+      {
+        "text": "Match the column - 3",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s31/match-column-3.json"
+        }
+      },
+      {
+        "text": "Match the column - 4",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s31/match-column-4.json"
+        }
+      },
+      {
+        "text": "Match the column - 5",
+        "queryParams": {
+          "type": "match-column",
+          "path": "s31/match-column-5.json"
+        }
+      },
+      {
+        "text": "MCQ",
+        "queryParams": {
+          "type": "mcq",
+          "path": "s31/mcq.json"
+        }
+      },
+      {
+        "text": "Can you recall - 1",
+        "queryParams": {
+          "type": "recall",
+          "path": "s31/recall-1.json"
+        }
+      },
+      {
+        "text": "Can you recall - 2",
+        "queryParams": {
+          "type": "recall",
+          "path": "s31/recall-2.json"
+        }
+      },
+      {
+        "text": "Can you recall - 3",
+        "queryParams": {
+          "type": "recall",
+          "path": "s31/recall-3.json"
+        }
+      },
+      {
+        "text": "Can you recall - 4",
+        "queryParams": {
+          "type": "recall",
+          "path": "s31/recall-4.json"
+        }
+      },
+      {
+        "text": "Recognize root",
+        "queryParams": {
+          "type": "recognizeRoot",
+          "path": "s31/recognize-root.json"
+        }
+      }
+    ]
+  },
   {
     "id": "session-32",
     "title": "Session 32",

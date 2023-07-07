@@ -1,0 +1,86 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "words of similar meaning",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "words of opposite meaning",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "words of the same sound",
+			"initialLetter": "H",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "fatherly",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "protective and fatherly toward one's subordinates (adj.)",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "older woman",
+			"initialLetter": "M",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "self-destructive",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "meaning the same (adj.)",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "having opposite meanings (adj.)",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "sounding the same but spelled differently (adj.)",
+			"initialLetter": "H",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "synonyms",
+		"2": "antonyms",
+		"3": ["homonyms", "homophones"],
+		"4": "paternal",
+		"5": "paternalistic",
+		"6": "matron",
+		"7": "suicidal",
+		"8": "synonymous",
+		"9": "antonymous",
+		"10": ["homonymous", "homophonous"]
+	}
+}

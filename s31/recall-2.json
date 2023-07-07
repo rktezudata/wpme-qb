@@ -1,71 +1,71 @@
 {
-  "title": "Write seven adjectives; all starting with L, more or less meaning \"sexually immoral, desirous, etc.\"; write the adjective starting with P meaning \"sexually curious or longing.\"",
-  "questions": [
-    {
-      "id": "1",
-      "question": "",
-      "initialLetter": "Lec",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "2",
-      "question": "",
-      "initialLetter": "Lib",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "3",
-      "question": "",
-      "initialLetter": "Las",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "4",
-      "question": "",
-      "initialLetter": "Lub",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "5",
-      "question": "",
-      "initialLetter": "Lic",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "6",
-      "question": "",
-      "initialLetter": "Lew",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "7",
-      "question": "",
-      "initialLetter": "Lus",
-      "answer": "",
-      "wrongAnsSelected": false
-    },
-    {
-      "id": "8",
-      "question": "",
-      "initialLetter": "Pru",
-      "answer": "",
-      "wrongAnsSelected": false
-    }
-  ],
-  "answers": {
-    "1": "lecherous",
-    "2": "libidinous",
-    "3": "lascivious",
-    "4": "lubricious",
-    "5": "licentious",
-    "6": "lewd",
-    "7": "lustful",
-    "8": "prurient"
-  }
+	"title": "Write seven adjectives; all starting with L, more or less meaning \"sexually immoral, desirous, etc.\"; write the adjective starting with P meaning \"sexually curious or longing.\"",
+	"questions": [
+		{
+			"id": "1",
+			"question": "",
+			"initialLetter": "Lec",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "",
+			"initialLetter": "Lib",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "",
+			"initialLetter": "Las",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "",
+			"initialLetter": "Lub",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "",
+			"initialLetter": "Lic",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "",
+			"initialLetter": "Lew",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "",
+			"initialLetter": "Lus",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "",
+			"initialLetter": "Pru",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "lecherous",
+		"2": "libidinous",
+		"3": "lascivious",
+		"4": "lubricious",
+		"5": "licentious",
+		"6": "lewd",
+		"7": "lustful",
+		"8": "prurient"
+	}
 }

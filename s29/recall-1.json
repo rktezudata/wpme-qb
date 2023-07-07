@@ -1,0 +1,246 @@
+{
+	"questions": [
+		{
+			"id": "1",
+			"question": "father-killing (noun)",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "wife-killing (noun)",
+			"initialLetter": "U",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "mature woman",
+			"initialLetter": "M",
+			"answer": "mature",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "toadying to people of influence (adj.)",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "skilled musician",
+			"initialLetter": "Y",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "exaggerated patriotism",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "turbulent female (any of three words)",
+			"initialLetter": "T/H/V",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "name derived from father's name",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "powerful father figure in a ruling position",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "powerful mother figure in a ruling position",
+			"initialLetter": "M",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "11",
+			"question": "motherly",
+			"initialLetter": "M",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "12",
+			"question": "motherhood",
+			"initialLetter": "M",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "13",
+			"question": "marriage",
+			"initialLetter": "M",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "14",
+			"question": "one's school or college",
+			"initialLetter": "A",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "15",
+			"question": "attitude of catering to wealth or prestige (noun)",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "16",
+			"question": "killing of a race or nation",
+			"initialLetter": "G",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "17",
+			"question": "dabbling in the fine -arts (noun)",
+			"initialLetter": "D",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "18",
+			"question": "a beginner in a field",
+			"initialLetter": "N",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "19",
+			"question": "plural of virtuoso (Italian form)",
+			"initialLetter": "V",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "20",
+			"question": "having an attitude of excessive patriotism (adj.)",
+			"initialLetter": "C",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "21",
+			"question": "inheritance from father",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "22",
+			"question": "sheer, transparent",
+			"initialLetter": "D",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "23",
+			"question": "mother-killing (noun)",
+			"initialLetter": "M",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "24",
+			"question": "brother-killing (noun)",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "25",
+			"question": "sister-killing (noun)",
+			"initialLetter": "S",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "26",
+			"question": "killing of a human being",
+			"initialLetter": "H",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "27",
+			"question": "killing of one's ruler",
+			"initialLetter": "R",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "28",
+			"question": "killing of a baby",
+			"initialLetter": "I",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "29",
+			"question": "killing of one's husband",
+			"initialLetter": "M",
+			"answer": "",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "30",
+			"question": "killing of either parent or of both parents",
+			"initialLetter": "P",
+			"answer": "",
+			"wrongAnsSelected": false
+		}
+	],
+	"answers": {
+		"1": "patricide",
+		"2": "uxoricide",
+		"3": "matron",
+		"4": "sycophantic",
+		"5": "virtuoso",
+		"6": "chauvinism",
+		"7": ["termagant", "harridan", "virago"],
+		"8": "patronymic",
+		"9": "patriarch",
+		"10": "matriarch",
+		"11": "maternal",
+		"12": "maternity",
+		"13": "matrimony",
+		"14": "alma mater",
+		"15": "sycophancy",
+		"16": "genocide",
+		"17": "dilettantism",
+		"18": "tyro",
+		"19": "virtuosi",
+		"20": "chauvinistic",
+		"21": "patrimony",
+		"22": "diaphanous",
+		"23": "matricide",
+		"24": "fratricide",
+		"25": "sororicide",
+		"26": "homicide",
+		"27": "regicide",
+		"28": "infanticide",
+		"29": "mariticide",
+		"30": "parricide"
+	}
+}

@@ -2,107 +2,107 @@
 	"columnA": [
 		{
 			"id": "1",
-			"question": "martinet",
+			"question": "uxoricide",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "2",
-			"question": "sycophant",
+			"question": "infanticide",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "3",
-			"question": "dilettante",
+			"question": "genocide",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "4",
-			"question": "virago",
+			"question": "matrimony",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "5",
-			"question": "chauvinist",
+			"question": "matriarch",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "6",
-			"question": "monomaniac",
+			"question": "maternity",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "7",
-			"question": "iconoclast",
+			"question": "matron",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "8",
-			"question": "atheist",
+			"question": "alma mater",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "9",
-			"question": "lecher",
+			"question": "paternity",
 			"wrongAnsSelected": false
 		},
 		{
 			"id": "10",
-			"question": "hypochondriac",
+			"question": "patriarch",
 			"wrongAnsSelected": false
 		}
 	],
 	"columnB": [
 		{
 			"id": "a",
-			"question": "superficiality"
+			"question": "marriage"
 		},
 		{
 			"id": "b",
-			"question": "patriotism"
+			"question": "killing of one's child"
 		},
 		{
 			"id": "c",
-			"question": "godlessness"
+			"question": "fatherhood"
 		},
 		{
 			"id": "d",
-			"question": "single-mindedness"
+			"question": "mother-ruler "
 		},
 		{
 			"id": "e",
-			"question": "antitradition"
+			"question": "killing of one's wife"
 		},
 		{
 			"id": "f",
-			"question": "sex"
+			"question": "older woman"
 		},
 		{
 			"id": "g",
-			"question": "illness"
+			"question": "one's school or college"
 		},
 		{
 			"id": "h",
-			"question": "discipline"
+			"question": "motherhood"
 		},
 		{
 			"id": "i",
-			"question": "turbulence"
+			"question": "old man in governing position"
 		},
 		{
 			"id": "j",
-			"question": "flattery"
+			"question": "killing of whole groups of people "
 		}
 	],
 	"answers": {
-		"1": "h",
-		"2": "j",
-		"3": "a",
-		"4": "i",
-		"5": "b",
-		"6": "d",
-		"7": "e",
-		"8": "c",
-		"9": "f",
-		"10": "g"
+		"1": "e",
+		"2": "b",
+		"3": "j",
+		"4": "a",
+		"5": "d",
+		"6": "h",
+		"7": "f",
+		"8": "g",
+		"9": "c",
+		"10": "i"
 	}
 }

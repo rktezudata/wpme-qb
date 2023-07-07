@@ -1,0 +1,108 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "synonyms",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "antonyms",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "homonyms",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "paternalism",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "suicide",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "mariticide",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "martinetish",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "dilettantish",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "paternal",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "10",
+			"question": "matronly",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "system in which those in power have a father-child relationship with subordinates"
+		},
+		{
+			"id": "b",
+			"question": "like a strict disciplinarian"
+		},
+		{
+			"id": "c",
+			"question": "self-killing"
+		},
+		{
+			"id": "d",
+			"question": "fatherly"
+		},
+		{
+			"id": "e",
+			"question": "referring to or like those who play at an art"
+		},
+		{
+			"id": "f",
+			"question": "words that sound alike but are spelled differently and have unrelated meanings"
+		},
+		{
+			"id": "g",
+			"question": "words of similar meaning"
+		},
+		{
+			"id": "h",
+			"question": "referring to, or like, an older woman"
+		},
+		{
+			"id": "i",
+			"question": "husband-killing"
+		},
+		{
+			"id": "j",
+			"question": "words of opposite meaning"
+		}
+	],
+	"answers": {
+		"1": "g",
+		"2": "j",
+		"3": "f",
+		"4": "a",
+		"5": "c",
+		"6": "i",
+		"7": "b",
+		"8": "e",
+		"9": "d",
+		"10": "h"
+	}
+}

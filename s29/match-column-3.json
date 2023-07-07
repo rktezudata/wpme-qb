@@ -1,0 +1,98 @@
+{
+	"columnA": [
+		{
+			"id": "1",
+			"question": "parricide",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "2",
+			"question": "patronymic",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "3",
+			"question": "chauvinistic",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "4",
+			"question": "sycophantic",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "5",
+			"question": "diaphanous",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "6",
+			"question": "dilettanti",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "7",
+			"question": "tyro",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "8",
+			"question": "virtuoso",
+			"wrongAnsSelected": false
+		},
+		{
+			"id": "9",
+			"question": "termagant",
+			"wrongAnsSelected": false
+		}
+	],
+	"columnB": [
+		{
+			"id": "a",
+			"question": "catering to people of power or position"
+		},
+		{
+			"id": "b",
+			"question": "name from father"
+		},
+		{
+			"id": "c",
+			"question": "dabblers"
+		},
+		{
+			"id": "d",
+			"question": "an accomplished musician"
+		},
+		{
+			"id": "e",
+			"question": "filmy, gauzy"
+		},
+		{
+			"id": "f",
+			"question": "blatantly overpatriotic"
+		},
+		{
+			"id": "g",
+			"question": "loud-mouthed woman"
+		},
+		{
+			"id": "h",
+			"question": "a beginner"
+		},
+		{
+			"id": "i",
+			"question": "killing of either or both parents"
+		}
+	],
+	"answers": {
+		"1": "i",
+		"2": "b",
+		"3": "f",
+		"4": "a",
+		"5": "e",
+		"6": "c",
+		"7": "h",
+		"8": "d",
+		"9": "g"
+	}
+}

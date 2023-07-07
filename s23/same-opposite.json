@@ -1,0 +1,113 @@
+{
+  "title": "Do you understand the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "benign — hateful",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "benignant — kindly",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "benediction — malediction",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "benefactor — evildoer",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "beneficiary — giver",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "benevolent — well disposed",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "bona fide — valid",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "fidelity — unfaithfulness",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "infidel — true believer",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "dictatorial — submissive",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "placative — pacifying",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "implacable — unyielding",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "placid — calm",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "complacent — discontented",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "condonation — forgiveness",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answerType": "same-opposite",
+  "answers": {
+    "1": "opposite",
+    "2": "same",
+    "3": "opposite",
+    "4": "opposite",
+    "5": "opposite",
+    "6": "same",
+    "7": "same",
+    "8": "opposite",
+    "9": "opposite",
+    "10": "opposite",
+    "11": "same",
+    "12": "same",
+    "13": "same",
+    "14": "opposite",
+    "15": "same"
+  }
+}

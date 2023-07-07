@@ -1,0 +1,151 @@
+{
+  "title": "Can you recall the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "tending to give orders",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "act of overlooking (an offense, etc.)",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "unyieldingly hostile; beyond soothing; relentless; pitiless",
+      "initialLetter": "I",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "intended to soothe or pacify (adj.)",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "one’s desire, wishes, or unforced will",
+      "initialLetter": "V",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "calmness",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "self-satisfaction; smugness",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "non-believer in the \"true\" religion",
+      "initialLetter": "I",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "kindly; well disposed",
+      "initialLetter": "B",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "unfaithfulness",
+      "initialLetter": "I",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "involving a blessing (adj.)",
+      "initialLetter": "B",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "doing something good or kind (adj.)",
+      "initialLetter": "B",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "faithfulness",
+      "initialLetter": "F",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "sincere; valid; in good faith",
+      "initialLetter": "B",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "one who does something good, kind, or charitable (for another)",
+      "initialLetter": "B",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "a kind or charitable deed",
+      "initialLetter": "B",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "17",
+      "question": "recipient of kindness, gift, etc.",
+      "initialLetter": "B",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "18",
+      "question": "able to be soothed or pacified",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "dictatorial",
+    "2": "condonation",
+    "3": "implacable",
+    "4": ["placatory", "placative"],
+    "5": "volition",
+    "6": "placidity",
+    "7": ["complacence", "complacency"],
+    "8": "infidel",
+    "9": ["benign", "benignant", "benevolent"],
+    "10": "infidelity",
+    "11": "benedictory",
+    "12": "beneficent",
+    "13": "fidelity",
+    "14": "bona fide",
+    "15": "benefactor",
+    "16": "benefaction",
+    "17": "beneficiary",
+    "18": "placable"
+  }
+}

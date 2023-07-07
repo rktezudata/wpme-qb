@@ -1,0 +1,103 @@
+{
+  "title": "Do you recognize the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "To belittle:",
+      "options": ["titillate", "disparage", "adulate"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "To be purposely confusing:",
+      "options": ["equivocate", "obviate", "proscribe"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "To work to the disadvantage of:",
+      "options": ["malign", "militate", "placate"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "To slander:",
+      "options": ["malign", "condone", "placate"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Lack of equality:",
+      "options": ["parity", "disparity", "ambiguity"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Phrase that may have two interpretations, one of them indelicate or off-color:",
+      "options": ["equivocation", "ambiguity", "double entendre"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Hateful:",
+      "options": ["malignant", "benignant", "malaise"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Ill will:",
+      "options": ["malaise", "malevolence", "maleficence"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Kindly:",
+      "options": ["benevolent", "placid", "complacent"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "Inflexibly hostile:",
+      "options": ["implacable", "placatory", "militant"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "Giving orders imperiously:",
+      "options": ["benedictory", "dictatorial", "adulatory"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "Self-satisfaction:",
+      "options": ["complacency", "placation", "placidity"],
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "disparage",
+    "2": "equivocate",
+    "3": "militate",
+    "4": "malign",
+    "5": "disparity",
+    "6": "double entendre",
+    "7": "malignant",
+    "8": "malevolence",
+    "9": "benevolent",
+    "10": "implacable",
+    "11": "dictatorial",
+    "12": "complacency"
+  }
+}

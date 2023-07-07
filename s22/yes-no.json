@@ -3,75 +3,75 @@
   "questions": [
     {
       "id": "1",
-      "question": "Are benedictions given in houses of worship?",
+      "question": "Does a malignant look indicate kindly feelings?",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "2",
-      "question": "Is it pleasant to be the recipient of a beneficent act?",
+      "question": "Is a cancer sometimes called a malignancy?",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "3",
-      "question": "Are kind people benevolent?",
+      "question": "Are trivialities important?",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "4",
-      "question": "Do placatory gestures often heal wounds and soothe disgruntled friends?",
+      "question": "If your house is cluttered with trivia, are these objects of great value?",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "5",
-      "question": "Are some unambitious people complacent?",
+      "question": "Do people enjoy having maledictions hurled at them?",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "6",
-      "question": "Does benignity show malice?",
+      "question": "Is a maleficent act likely to cause harm or hurt?",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "7",
-      "question": "Is a benefaction an act of philanthropy?",
+      "question": "Does maladroitness show skill?",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "8",
-      "question": "Is an implacable foe of corruption likely to condone corrupt acts?",
+      "question": "Is a malefactor a wrongdoer?",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "9",
-      "question": "Is a bona fide offer made insincerely?",
+      "question": "Does an adulatory attitude show exaggerated admiration?",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     },
     {
       "id": "10",
-      "question": "Does a benignant attitude indicate hostility?",
+      "question": "Is militancy the same as passiveness?",
       "selectedAnswer": null,
       "wrongAnsSelected": false
     }
   ],
   "answers": {
-    "1": "yes",
+    "1": "no",
     "2": "yes",
-    "3": "yes",
-    "4": "yes",
-    "5": "yes",
-    "6": "no",
-    "7": "yes",
-    "8": "no",
-    "9": "no",
+    "3": "no",
+    "4": "no",
+    "5": "no",
+    "6": "yes",
+    "7": "no",
+    "8": "yes",
+    "9": "yes",
     "10": "no"
   }
 }

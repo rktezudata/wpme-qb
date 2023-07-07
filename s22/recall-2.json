@@ -1,0 +1,63 @@
+{
+  "title": "Can you recall the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "fact or act of making unnecessary or of taking effective steps toward prevention",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "aggressive attitude",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "harmful, hurtful, bad",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "unimportant, insignificant",
+      "initialLetter": "T",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "unimportant, insignificant things; trifles",
+      "initialLetter": "T",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "cursing; of the nature of, or relating to, curses (adj.)",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "worshipful",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "obviation",
+    "2": "militancy",
+    "3": ["malign", "malignant", "maleficent"],
+    "4": "trivial",
+    "5": ["trivialities", "trivia"],
+    "6": "maledictory",
+    "7": "adulatory"
+  }
+}

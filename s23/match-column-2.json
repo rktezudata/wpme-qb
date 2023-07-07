@@ -1,0 +1,109 @@
+{
+  "title": "Can you work with the words?",
+  "columnA": [
+    {
+      "id": "1",
+      "question": "benevolence",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "benefaction",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "beneficiary",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "infidelity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "volition",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "placation",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "fidelity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "condonation",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "placidity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "complacency",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "recipient of money, kindness, etc."
+    },
+    {
+      "id": "b",
+      "question": "free will"
+    },
+    {
+      "id": "c",
+      "question": "act of overlooking, or of forgiving, an offense or transgression"
+    },
+    {
+      "id": "d",
+      "question": "faithfulness"
+    },
+    {
+      "id": "e",
+      "question": "self-satisfaction; smugness"
+    },
+    {
+      "id": "f",
+      "question": "calmness"
+    },
+    {
+      "id": "g",
+      "question": "act of pacifying, or of turning hostility or anger into friendly feelings"
+    },
+    {
+      "id": "h",
+      "question": "attitude of wishing good things for another"
+    },
+    {
+      "id": "i",
+      "question": "faithlessness"
+    },
+    {
+      "id": "j",
+      "question": "good deed; act of charity or kindness"
+    }
+  ],
+  "answers": {
+    "1": "h",
+    "2": "j",
+    "3": "a",
+    "4": "i",
+    "5": "b",
+    "6": "g",
+    "7": "d",
+    "8": "c",
+    "9": "f",
+    "10": "e"
+  }
+}

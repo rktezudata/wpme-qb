@@ -1,0 +1,89 @@
+{
+  "title": "Can you work with the words?",
+  "columnA": [
+    {
+      "id": "1",
+      "question": "adulatory",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "proscriptive",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "militant",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "malign",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "trivial",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "maledictory",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "malevolent",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "maladroit",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "aggressive; \"fighting\""
+    },
+    {
+      "id": "b",
+      "question": "of no great consequence"
+    },
+    {
+      "id": "c",
+      "question": "bearing ill-will; wishing harm"
+    },
+    {
+      "id": "d",
+      "question": "of the nature of curses"
+    },
+    {
+      "id": "e",
+      "question": "clumsy, awkward"
+    },
+    {
+      "id": "f",
+      "question": "worshipful, adoring"
+    },
+    {
+      "id": "g",
+      "question": "bad, harmful, hurtful"
+    },
+    {
+      "id": "h",
+      "question": "relating or pertaining to prohibitions"
+    }
+  ],
+  "answers": {
+    "1": "f",
+    "2": "h",
+    "3": "a",
+    "4": "g",
+    "5": "b",
+    "6": "d",
+    "7": "c",
+    "8": "e"
+  }
+}

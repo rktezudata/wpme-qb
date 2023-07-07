@@ -1,0 +1,99 @@
+{
+  "title": "Can you work with the words?",
+  "columnA": [
+    {
+      "id": "1",
+      "question": "benign",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "benedictory",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "benevolent",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "bona fide",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "dictatorial",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "placatory",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "implacable",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "placid",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "complacent",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "wishing good things (for another) ; well disposed"
+    },
+    {
+      "id": "b",
+      "question": "domineering; giving orders in a manner permitting no refusal"
+    },
+    {
+      "id": "c",
+      "question": "not to be soothed or pacified; unyielding to pity or entreaty"
+    },
+    {
+      "id": "d",
+      "question": "tending, or intended, to pacify, to soothe, or to change hostility to friendliness"
+    },
+    {
+      "id": "e",
+      "question": "kindly, good-natured; not cancerous"
+    },
+    {
+      "id": "f",
+      "question": "calm, unruffled, undisturbed"
+    },
+    {
+      "id": "g",
+      "question": "self-satisfied; smug"
+    },
+    {
+      "id": "h",
+      "question": "of the nature of, or relating to, blessings"
+    },
+    {
+      "id": "i",
+      "question": "in good faith; sincere; valid"
+    }
+  ],
+  "answers": {
+    "1": "e",
+    "2": "h",
+    "3": "a",
+    "4": "i",
+    "5": "b",
+    "6": "d",
+    "7": "c",
+    "8": "f",
+    "9": "g"
+  }
+}

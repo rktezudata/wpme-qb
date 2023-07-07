@@ -1,0 +1,207 @@
+{
+  "title": "Can you recognize roots?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "par",
+      "answer": "",
+      "example": "parity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "aequus (equ-)",
+      "answer": "",
+      "example": "equivocal",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "vox, vocis",
+      "answer": "",
+      "example": "vocal",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "nox, noctis",
+      "answer": "",
+      "example": "nocturnal",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "libra",
+      "answer": "",
+      "example": "equilibrist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "latus, lateris",
+      "answer": "",
+      "example": "equilateral",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "equus",
+      "answer": "",
+      "example": "equine",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "pedis",
+      "answer": "",
+      "example": "pedestrian",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "paidos (ped-)",
+      "answer": "",
+      "example": "pedagogue",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "fero",
+      "answer": "",
+      "example": "vociferous",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "magnus",
+      "answer": "",
+      "example": "magnify",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "scribo, scriptus",
+      "answer": "",
+      "example": "proscribe",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "manus",
+      "answer": "",
+      "example": "manuscript",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "14",
+      "question": "post",
+      "answer": "",
+      "example": "postscript",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "15",
+      "question": "via",
+      "answer": "",
+      "example": "trivial",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "16",
+      "question": "militis",
+      "answer": "",
+      "example": "militate",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "17",
+      "question": "malus",
+      "answer": "",
+      "example": "malefactor",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "18",
+      "question": "dico, dictus",
+      "answer": "",
+      "example": "dictatorial",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "19",
+      "question": "volo",
+      "answer": "",
+      "example": "volition",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "20",
+      "question": "facio (fec-, fic-, -fy)",
+      "answer": "",
+      "example": "benefactor, fiction, simplify",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "21",
+      "question": "bonus",
+      "answer": "",
+      "example": "bona fide",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "22",
+      "question": "fides",
+      "answer": "",
+      "example": "fidelity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "23",
+      "question": "phone",
+      "answer": "",
+      "example": "Dictaphone",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "24",
+      "question": "plac-",
+      "answer": "",
+      "example": "placate",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "25",
+      "question": "dono",
+      "answer": "",
+      "example": "donation",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "equal",
+    "2": "equal",
+    "3": "voice",
+    "4": "night",
+    "5": "balance",
+    "6": "side",
+    "7": "horse",
+    "8": "foot",
+    "9": "child",
+    "10": ["carry", "bear"],
+    "11": "large",
+    "12": "write",
+    "13": "hand",
+    "14": "after",
+    "15": "road",
+    "16": "soldier",
+    "17": "bad",
+    "18": ["say", "tell"],
+    "19": "wish",
+    "20": ["do", "make"],
+    "21": "good",
+    "22": "faith",
+    "23": "sound",
+    "24": ["please", "soothe", "pacify"],
+    "25": "give"
+  }
+}

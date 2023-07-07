@@ -1,0 +1,109 @@
+{
+  "title": "Can you work with the words?",
+  "columnA": [
+    {
+      "id": "1",
+      "question": "titillation",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "adulation",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "proscription",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "militancy",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "malignity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "malediction",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "maladroitness",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "obviation",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "malevolence",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "malaise",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "prohibition"
+    },
+    {
+      "id": "b",
+      "question": "hatefulness; harmfulness"
+    },
+    {
+      "id": "c",
+      "question": "clumsiness"
+    },
+    {
+      "id": "d",
+      "question": "quality of wishing evil; ill-will"
+    },
+    {
+      "id": "e",
+      "question": "prevention; fact or act of making unnecessary or of doing away with"
+    },
+    {
+      "id": "f",
+      "question": "worship; excessive flattery"
+    },
+    {
+      "id": "g",
+      "question": "vague feeling of bodily discomfort"
+    },
+    {
+      "id": "h",
+      "question": "pleasurable stimulation; tickling"
+    },
+    {
+      "id": "i",
+      "question": "a curse"
+    },
+    {
+      "id": "j",
+      "question": "aggressiveness"
+    }
+  ],
+  "answers": {
+    "1": "h",
+    "2": "f",
+    "3": "a",
+    "4": "j",
+    "5": "b",
+    "6": "i",
+    "7": "c",
+    "8": "e",
+    "9": "d",
+    "10": "g"
+  }
+}

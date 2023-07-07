@@ -1,0 +1,87 @@
+{
+  "title": "Can you recall the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "change hostility into friendliness",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "make unnecessary",
+      "initialLetter": "O",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "belittle",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "overlook or forgive a transgression",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "tickle; delight; stimulate pleasurably",
+      "initialLetter": "T",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "spread malicious rumors about",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "purposely use language susceptible of opposite interpretations",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "act to disadvantage of",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "forbid",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "worship; flatter fulsomely",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "placate",
+    "2": "obviate",
+    "3": "disparage",
+    "4": "condone",
+    "5": "titillate",
+    "6": "malign",
+    "7": "equivocate",
+    "8": ["militate", "(against)"],
+    "9": "proscribe",
+    "10": "adulate"
+  }
+}

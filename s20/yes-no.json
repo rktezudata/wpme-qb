@@ -1,0 +1,77 @@
+{
+  "title": "Do you understand the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Is there a disparity in age between a grandfather and his granddaughter?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Is an equivocal statement clear and direct?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Is an unequivocal answer vague and misleading?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Are politicians often masters of equivocation?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Are ambiguous sentences somewhat confusing?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Are people with disparate perceptions of life likely to experience reality in the same way?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Is a disparaging look one of admiration?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "When people equivocate, are they evading the issue?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Is the deliberate use of double entendres likely to shock puritanical people?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "Are supervisors and their subordinates peers?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "yes",
+    "2": "no",
+    "3": "no",
+    "4": "yes",
+    "5": "yes",
+    "6": "no",
+    "7": "no",
+    "8": "yes",
+    "9": "yes",
+    "10": "no"
+  }
+}

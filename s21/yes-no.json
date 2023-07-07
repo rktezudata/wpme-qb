@@ -1,0 +1,98 @@
+{
+  "title": "Do you understand the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Is life always equitable?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Does the cynic expect more inequity than equity in life?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Do ethical people practice iniquity?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Does the equinox occur once a month?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Are nocturnal animals active at night?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "If you generally preserve your equanimity, do you often get very excited?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Is it easy to maintain your equilibrium on icy ground?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Is equability the mark of a calm, even-tempered person?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Does an equilateral triangle have equal sides?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "Is an equine a dog?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "If you demand something vociferously, do you make a lot of noise?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "12",
+      "question": "If you are vocal, do you have difficulty expressing yourself?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "13",
+      "question": "Is a vocalist the same as an instrumentalist?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "no",
+    "2": "yes",
+    "3": "no",
+    "4": "no",
+    "5": "yes",
+    "6": "no",
+    "7": "no",
+    "8": "yes",
+    "9": "yes",
+    "10": "no",
+    "11": "yes",
+    "12": "no",
+    "13": "no"
+  }
+}

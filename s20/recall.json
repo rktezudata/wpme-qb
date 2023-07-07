@@ -1,0 +1,87 @@
+{
+  "title": "Can you recall the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "accidentally vague",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "purposely vague",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "equality",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "word or statement one meaning of which may be interpreted as risqué",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "lack of equality",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "belittlement",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "clear; direct; capable of only one interpretation",
+      "initialLetter": "U",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "essentially or widely unequal or different",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "one’s equal in age, rank, etc.",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "to use words in a calculated effort to mislead or to be ambiguous",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "ambiguous",
+    "2": "equivocal",
+    "3": "parity",
+    "4": "double entendre",
+    "5": "disparity",
+    "6": "disparagement",
+    "7": "unequivocal",
+    "8": "disparate",
+    "9": "peer",
+    "10": "equivocate"
+  }
+}

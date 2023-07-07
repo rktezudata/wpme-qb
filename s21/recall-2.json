@@ -1,0 +1,87 @@
+{
+  "title": "Can you recall the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "loud, noisy, clamorous",
+      "initialLetter": "V",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "person on horseback",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "calmness or evenness of temper",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "unfair, unjust",
+      "initialLetter": "I",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "sin; wickedness; grossly immoral behavior",
+      "initialLetter": "I",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "time when day and night are of equal length",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "fair, just, evenhanded",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "physical balance; balance between opposing forces",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "having equal sides",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "singer",
+      "initialLetter": "V",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "vociferous",
+    "2": ["equestrian", "equestrienne"],
+    "3": ["equanimity", "equability"],
+    "4": "inequitable",
+    "5": "iniquity",
+    "6": "equinox",
+    "7": "equitable",
+    "8": "equilibrium",
+    "9": "equilateral",
+    "10": "vocalist"
+  }
+}

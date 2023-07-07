@@ -1,0 +1,119 @@
+{
+  "title": "Matching",
+  "columnA": [
+    {
+      "id": "1",
+      "question": "equity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "inequity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "iniquity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "equinox",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "nocturne",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "equanimity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "equilibrium",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "equestrian",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "equilibrist",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "equine",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "11",
+      "question": "vocalist",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "time when night and day are of equal length"
+    },
+    {
+      "id": "b",
+      "question": "balance of mind; composure; calmness under trying circumstances"
+    },
+    {
+      "id": "c",
+      "question": "horseback rider"
+    },
+    {
+      "id": "d",
+      "question": "a horse"
+    },
+    {
+      "id": "e",
+      "question": "sinfulness; wickedness; immoral act; sin"
+    },
+    {
+      "id": "f",
+      "question": "unfairness, injustice"
+    },
+    {
+      "id": "g",
+      "question": "tightrope walker"
+    },
+    {
+      "id": "h",
+      "question": "singer"
+    },
+    {
+      "id": "i",
+      "question": "fairness, justice"
+    },
+    {
+      "id": "j",
+      "question": "balance, especially between opposing forces"
+    },
+    {
+      "id": "k",
+      "question": "night music"
+    }
+  ],
+  "answers": {
+    "1": "i",
+    "2": "f",
+    "3": "e",
+    "4": "a",
+    "5": "k",
+    "6": "b",
+    "7": "j",
+    "8": "c",
+    "9": "g",
+    "10": "d",
+    "11": "h"
+  }
+}

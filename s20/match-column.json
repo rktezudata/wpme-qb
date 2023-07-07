@@ -1,0 +1,79 @@
+{
+  "title": "Matching",
+  "columnA": [
+    {
+      "id": "1",
+      "question": "parity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "disparity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "disparagement",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "peer",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "equivocation",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "ambiguity",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "double entendre",
+      "wrongAnsSelected": false
+    }
+  ],
+  "columnB": [
+    {
+      "id": "a",
+      "question": "belittlement"
+    },
+    {
+      "id": "b",
+      "question": "act of being deliberately vague or indirectly deceptive; statement that is deceptive or purposely open to contrary interpretations"
+    },
+    {
+      "id": "c",
+      "question": "quality of being open to misinterpretation; statement with this quality"
+    },
+    {
+      "id": "d",
+      "question": "statement or word with two meanings, one of them risqué, indelicate, or of possible sexual connotation"
+    },
+    {
+      "id": "e",
+      "question": "inequality"
+    },
+    {
+      "id": "f",
+      "question": "equality"
+    },
+    {
+      "id": "g",
+      "question": "one’s equal"
+    }
+  ],
+  "answers": {
+    "1": "f",
+    "2": "e",
+    "3": "a",
+    "4": "g",
+    "5": "b",
+    "6": "c",
+    "7": "d"
+  }
+}

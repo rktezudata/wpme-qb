@@ -52,7 +52,7 @@
     },
     {
       "id": "8",
-      "question": "A mistake so bad that it dees description - \"An ___ blunder\"",
+      "question": "A mistake so bad that it defies description - \"An ___ blunder\"",
       "initialLetter": "",
       "answer": "",
       "wrongAnsSelected": false
@@ -67,7 +67,7 @@
     {
       "id": "10",
       "question": "Doctors find a persistent, dangerous infection in the bladder - \"A ___ condition\"",
-      "initialLetter": "P",
+      "initialLetter": "",
       "answer": "",
       "wrongAnsSelected": false
     }

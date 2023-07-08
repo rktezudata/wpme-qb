@@ -1167,10 +1167,10 @@
         }
       },
       {
-        "text": "Recognize root",
+        "text": "Can you recall",
         "queryParams": {
-          "type": "recognizeRoot",
-          "path": "s30/recognize-root.json"
+          "type": "recall",
+          "path": "s30/recall.json"
         }
       }
     ]

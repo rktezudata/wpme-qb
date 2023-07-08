@@ -1,86 +1,86 @@
 {
-	"questions": [
-		{
-			"id": "1",
-			"question": "harsh sound",
-			"initialLetter": "c",
-			"answer": "",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "2",
-			"question": "having a short life",
-			"initialLetter": "E",
-			"answer": "",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "3",
-			"question": "dire poverty",
-			"initialLetter": "p",
-			"answer": "",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "4",
-			"question": "substitution of an indirect or pleasant word or phrase for a possibly offensive one of the same meaning",
-			"initialLetter": "E",
-			"answer": "",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "5",
-			"question": "experienced as a spectator, rather than as a participant",
-			"initialLetter": "V",
-			"answer": "",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "6",
-			"question": "acute feeling of homesickness",
-			"initialLetter": "N",
-			"answer": "",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "7",
-			"question": "light, half-teasing banter",
-			"initialLetter": "B",
-			"answer": "",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "8",
-			"question": "subsisting solely on meat",
-			"initialLetter": "C",
-			"answer": "",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "9",
-			"question": "cowlike; stolid",
-			"initialLetter": "B",
-			"answer": "",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "10",
-			"question": "secret; concealed",
-			"initialLetter": "C",
-			"answer": "",
-			"wrongAnsSelected": false
-		}
-	],
-	"answers": {
-		"1": "cacophony",
-		"2": "ephemeral",
-		"3": "penury",
-		"4": "euphemism",
-		"5": "vicarious",
-		"6": "nostalgia",
-		"7": "badinage",
-		"8": "carnivorous",
-		"9": "bovine",
-		"10": "clandestine"
-	}
+  "questions": [
+    {
+      "id": "1",
+      "question": "harsh sound",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "having a short life",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "dire poverty",
+      "initialLetter": "P",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "substitution of an indirect or pleasant word or phrase for a possibly offensive one of the same meaning",
+      "initialLetter": "E",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "experienced as a spectator, rather than as a participant",
+      "initialLetter": "V",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "acute feeling of homesickness",
+      "initialLetter": "N",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "light, half-teasing banter",
+      "initialLetter": "B",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "subsisting solely on meat",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "cowlike; stolid",
+      "initialLetter": "B",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "secret; concealed",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "cacophony",
+    "2": "ephemeral",
+    "3": "penury",
+    "4": "euphemism",
+    "5": "vicarious",
+    "6": "nostalgia",
+    "7": "badinage",
+    "8": "carnivorous",
+    "9": "bovine",
+    "10": "clandestine"
+  }
 }

@@ -1,108 +1,77 @@
 {
-	"columnA": [
-		{
-			"id": "1",
-			"question": "sycophancy",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "2",
-			"question": "dilettantism",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "3",
-			"question": "chauvinism",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "4",
-			"question": "patrimony",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "5",
-			"question": "patricide",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "6",
-			"question": "matricide",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "7",
-			"question": "fratricide",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "8",
-			"question": "sororicide",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "9",
-			"question": "homicide",
-			"wrongAnsSelected": false
-		},
-		{
-			"id": "10",
-			"question": "regicide",
-			"wrongAnsSelected": false
-		}
-	],
-	"columnB": [
-		{
-			"id": "a",
-			"question": "murder of one's father"
-		},
-		{
-			"id": "b",
-			"question": "excessive patriotism"
-		},
-		{
-			"id": "c",
-			"question": "murder of one's ruler"
-		},
-		{
-			"id": "d",
-			"question": "inheritance from one's father"
-		},
-		{
-			"id": "e",
-			"question": "murder of one's sister"
-		},
-		{
-			"id": "f",
-			"question": "murder of one's brother"
-		},
-		{
-			"id": "g",
-			"question": "murder of a person"
-		},
-		{
-			"id": "h",
-			"question": "toadying"
-		},
-		{
-			"id": "i",
-			"question": "murder of one's mother"
-		},
-		{
-			"id": "j",
-			"question": "dabbling"
-		}
-	],
-	"answers": {
-		"1": "h",
-		"2": "j",
-		"3": "b",
-		"4": "d",
-		"5": "a",
-		"6": "i",
-		"7": "f",
-		"8": "e",
-		"9": "g",
-		"10": "c"
-	}
+  "title": "Do you understand the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Does a martinet condone carelessness and neglect of duty?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "Is a sycophant a sincere person?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "Is a dilettante a hard worker?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "Is a virago sweet and gentle?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "Is a chauvinist modest and self-effacing?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "Does a monomaniac have a one-track mind?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "Does an iconoclast scoff at tradition?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "Does an atheist believe in God?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "Is a lecher misogynous?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "Does a hypochondriac have a lively imagination?",
+      "selectedAnswer": null,
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "no",
+    "2": "no",
+    "3": "no",
+    "4": "no",
+    "5": "no",
+    "6": "yes",
+    "7": "yes",
+    "8": "no",
+    "9": "no",
+    "10": "yes"
+  }
 }

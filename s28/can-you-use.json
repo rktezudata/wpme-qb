@@ -1,0 +1,87 @@
+{
+  "title": "Can you use the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "She scoffs at beliefs you have always held dear.",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "You know he’s hale and hearty—but he constantly complains of his illness.",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "She insists her political affiliations are superior to yours.",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "She insists on her subordinates toeing the mark.",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "He makes sexual advances to everyone else’s wife—and is too often successful.",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "He cultivates friends that can do him good—financially.",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "She dabbles with water colors.",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "She insists there is no Deity.",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "She’s a shrew, a harridan, a scold, and a nag.",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "His only interest in life is his fish collection—and he is fanatically, almost psychotically, devoted to it.",
+      "initialLetter": "",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "iconoclast",
+    "2": "hypochondriac",
+    "3": "chauvinist",
+    "4": "martinet",
+    "5": "lecher",
+    "6": "sycophant",
+    "7": "dilettante",
+    "8": "atheist",
+    "9": "virago",
+    "10": "monomaniac"
+  }
+}

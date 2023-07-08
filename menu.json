@@ -1046,6 +1046,20 @@
           "type": "yes-no",
           "path": "s28/yes-no.json"
         }
+      },
+      {
+        "text": "Can you recall",
+        "queryParams": {
+          "type": "recall",
+          "path": "s28/recall.json"
+        }
+      },
+      {
+        "text": "Can you use",
+        "queryParams": {
+          "type": "recall",
+          "path": "s28/can-you-use.json"
+        }
       }
     ]
   },

@@ -1,0 +1,87 @@
+{
+  "title": "Can you recall the words?",
+  "questions": [
+    {
+      "id": "1",
+      "question": "a person whose emotional disorder is reflected in non-organic or imaginary bodily ailments",
+      "initialLetter": "H",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "2",
+      "question": "a strict disciplinarian",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "3",
+      "question": "a lewd and sexually aggressive male",
+      "initialLetter": "L",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "4",
+      "question": "a toady to people of wealth or power",
+      "initialLetter": "S",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "5",
+      "question": "a disbeliever in God",
+      "initialLetter": "A",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "6",
+      "question": "a dabbler in the arts",
+      "initialLetter": "D",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "7",
+      "question": "a shrewish, loud-mouthed female",
+      "initialLetter": "V",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "8",
+      "question": "a scoffer at tradition",
+      "initialLetter": "I",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "9",
+      "question": "person with a one-track mind",
+      "initialLetter": "M",
+      "answer": "",
+      "wrongAnsSelected": false
+    },
+    {
+      "id": "10",
+      "question": "a blatant superpatriot",
+      "initialLetter": "C",
+      "answer": "",
+      "wrongAnsSelected": false
+    }
+  ],
+  "answers": {
+    "1": "hypochondriac",
+    "2": "martinet",
+    "3": "lecher",
+    "4": "sycophant",
+    "5": "atheist",
+    "6": "dilettante",
+    "7": "virago",
+    "8": "iconoclast",
+    "9": "monomaniac",
+    "10": "chauvinist"
+  }
+}

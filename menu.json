@@ -8,21 +8,21 @@
         "text": "Match the columns",
         "queryParams": {
           "type": "match-column",
-          "path": "s1/match-column.json"
+          "path": "s1/match-column"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s1/yes-no.json"
+          "path": "s1/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s1/recall.json"
+          "path": "s1/recall"
         }
       }
     ]
@@ -36,28 +36,28 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s2/match-column-1.json"
+          "path": "s2/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s2/match-column-2.json"
+          "path": "s2/match-column-2"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s2/yes-no.json"
+          "path": "s2/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s2/recall.json"
+          "path": "s2/recall"
         }
       }
     ]
@@ -71,56 +71,56 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s3/match-column-1.json"
+          "path": "s3/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s3/match-column-2.json"
+          "path": "s3/match-column-2"
         }
       },
       {
         "text": "Match the column - 3",
         "queryParams": {
           "type": "match-column",
-          "path": "s3/match-column-3.json"
+          "path": "s3/match-column-3"
         }
       },
       {
         "text": "Match the column - 4",
         "queryParams": {
           "type": "match-column",
-          "path": "s3/match-column-4.json"
+          "path": "s3/match-column-4"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s3/yes-no.json"
+          "path": "s3/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s3/recall.json"
+          "path": "s3/recall"
         }
       },
       {
         "text": "MCQ",
         "queryParams": {
           "type": "mcq",
-          "path": "s3/mcq.json"
+          "path": "s3/mcq"
         }
       },
       {
         "text": "Recognize root",
         "queryParams": {
           "type": "recognizeRoot",
-          "path": "s3/recognize-root.json"
+          "path": "s3/recognize-root"
         }
       }
     ]
@@ -134,21 +134,21 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s4/match-column.json"
+          "path": "s4/match-column"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s4/yes-no.json"
+          "path": "s4/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s4/recall.json"
+          "path": "s4/recall"
         }
       }
     ]
@@ -162,28 +162,28 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s5/match-column-1.json"
+          "path": "s5/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s5/match-column-2.json"
+          "path": "s5/match-column-2"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s5/yes-no.json"
+          "path": "s5/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s5/recall.json"
+          "path": "s5/recall"
         }
       }
     ]
@@ -197,42 +197,42 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s6/match-column-1.json"
+          "path": "s6/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s6/match-column-2.json"
+          "path": "s6/match-column-2"
         }
       },
       {
         "text": "True/False",
         "queryParams": {
           "type": "yes-no",
-          "path": "s6/true-false.json"
+          "path": "s6/true-false"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s6/recall.json"
+          "path": "s6/recall"
         }
       },
       {
         "text": "MCQ",
         "queryParams": {
           "type": "mcq",
-          "path": "s6/mcq.json"
+          "path": "s6/mcq"
         }
       },
       {
         "text": "Recognize root",
         "queryParams": {
           "type": "recognizeRoot",
-          "path": "s6/recognize-root.json"
+          "path": "s6/recognize-root"
         }
       }
     ]
@@ -246,21 +246,21 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s7/match-column.json"
+          "path": "s7/match-column"
         }
       },
       {
         "text": "True/False",
         "queryParams": {
           "type": "yes-no",
-          "path": "s7/true-false.json"
+          "path": "s7/true-false"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s7/recall.json"
+          "path": "s7/recall"
         }
       }
     ]
@@ -274,21 +274,21 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s8/match-column.json"
+          "path": "s8/match-column"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s8/yes-no.json"
+          "path": "s8/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s8/recall.json"
+          "path": "s8/recall"
         }
       }
     ]
@@ -302,35 +302,35 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s9/match-column-1.json"
+          "path": "s9/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s9/match-column-2.json"
+          "path": "s9/match-column-2"
         }
       },
       {
         "text": "True/False",
         "queryParams": {
           "type": "yes-no",
-          "path": "s9/true-false.json"
+          "path": "s9/true-false"
         }
       },
       {
         "text": "Can you recall - 1",
         "queryParams": {
           "type": "recall",
-          "path": "s9/recall-1.json"
+          "path": "s9/recall-1"
         }
       },
       {
         "text": "Can you recall - 2",
         "queryParams": {
           "type": "recall",
-          "path": "s9/recall-2.json"
+          "path": "s9/recall-2"
         }
       }
     ]
@@ -344,35 +344,35 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s10/match-column.json"
+          "path": "s10/match-column"
         }
       },
       {
         "text": "True/False",
         "queryParams": {
           "type": "yes-no",
-          "path": "s10/true-false.json"
+          "path": "s10/true-false"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s10/recall.json"
+          "path": "s10/recall"
         }
       },
       {
         "text": "MCQ",
         "queryParams": {
           "type": "mcq",
-          "path": "s10/mcq.json"
+          "path": "s10/mcq"
         }
       },
       {
         "text": "Recognize root",
         "queryParams": {
           "type": "recognizeRoot",
-          "path": "s10/recognize-root.json"
+          "path": "s10/recognize-root"
         }
       }
     ]
@@ -386,14 +386,14 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s11/match-column.json"
+          "path": "s11/match-column"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s11/recall.json"
+          "path": "s11/recall"
         }
       }
     ]
@@ -407,35 +407,35 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s12/match-column-1.json"
+          "path": "s12/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s12/match-column-2.json"
+          "path": "s12/match-column-2"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s12/yes-no.json"
+          "path": "s12/yes-no"
         }
       },
       {
         "text": "Can you recall - 1",
         "queryParams": {
           "type": "recall",
-          "path": "s12/recall-1.json"
+          "path": "s12/recall-1"
         }
       },
       {
         "text": "Can you recall - 2",
         "queryParams": {
           "type": "recall",
-          "path": "s12/recall-2.json"
+          "path": "s12/recall-2"
         }
       }
     ]
@@ -449,42 +449,42 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s13/match-column-1.json"
+          "path": "s13/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s13/match-column-2.json"
+          "path": "s13/match-column-2"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s13/yes-no.json"
+          "path": "s13/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s13/recall.json"
+          "path": "s13/recall"
         }
       },
       {
         "text": "MCQ",
         "queryParams": {
           "type": "mcq",
-          "path": "s13/mcq.json"
+          "path": "s13/mcq"
         }
       },
       {
         "text": "Recognize root",
         "queryParams": {
           "type": "recognizeRoot",
-          "path": "s13/recognize-root.json"
+          "path": "s13/recognize-root"
         }
       }
     ]
@@ -498,28 +498,28 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s14/match-column.json"
+          "path": "s14/match-column"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s14/yes-no.json"
+          "path": "s14/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s14/recall.json"
+          "path": "s14/recall"
         }
       },
       {
         "text": "Fill in the blank",
         "queryParams": {
           "type": "recall",
-          "path": "s14/fill-in-blank.json"
+          "path": "s14/fill-in-blank"
         }
       }
     ]
@@ -533,21 +533,21 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s15/match-column.json"
+          "path": "s15/match-column"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s15/yes-no.json"
+          "path": "s15/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s15/recall.json"
+          "path": "s15/recall"
         }
       }
     ]
@@ -561,28 +561,28 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s16/match-column-1.json"
+          "path": "s16/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s16/match-column-2.json"
+          "path": "s16/match-column-2"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s16/yes-no.json"
+          "path": "s16/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s16/recall.json"
+          "path": "s16/recall"
         }
       }
     ]
@@ -596,35 +596,35 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s17/match-column.json"
+          "path": "s17/match-column"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s17/yes-no.json"
+          "path": "s17/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s17/recall.json"
+          "path": "s17/recall"
         }
       },
       {
         "text": "MCQ",
         "queryParams": {
           "type": "mcq",
-          "path": "s17/mcq.json"
+          "path": "s17/mcq"
         }
       },
       {
         "text": "Recognize root",
         "queryParams": {
           "type": "recognizeRoot",
-          "path": "s17/recognize-root.json"
+          "path": "s17/recognize-root"
         }
       }
     ]
@@ -638,42 +638,42 @@
         "text": "Etymology",
         "queryParams": {
           "type": "recognizeRoot",
-          "path": "s18/etymology.json"
+          "path": "s18/etymology"
         }
       },
       {
         "text": "More etymology",
         "queryParams": {
           "type": "recognizeRoot",
-          "path": "s18/more-etymology.json"
+          "path": "s18/more-etymology"
         }
       },
       {
         "text": "Same - Opposite",
         "queryParams": {
           "type": "yes-no",
-          "path": "s18/same-opposite.json"
+          "path": "s18/same-opposite"
         }
       },
       {
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s18/match-column.json"
+          "path": "s18/match-column"
         }
       },
       {
         "text": "More match column",
         "queryParams": {
           "type": "match-column",
-          "path": "s18/more-match-column.json"
+          "path": "s18/more-match-column"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s18/recall.json"
+          "path": "s18/recall"
         }
       }
     ]
@@ -687,28 +687,28 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s19/match-column.json"
+          "path": "s19/match-column"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s19/yes-no.json"
+          "path": "s19/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s19/recall.json"
+          "path": "s19/recall"
         }
       },
       {
         "text": "Fill in the blank",
         "queryParams": {
           "type": "recall",
-          "path": "s19/fill-in-blank.json"
+          "path": "s19/fill-in-blank"
         }
       }
     ]
@@ -722,21 +722,21 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s20/match-column.json"
+          "path": "s20/match-column"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s20/yes-no.json"
+          "path": "s20/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s20/recall.json"
+          "path": "s20/recall"
         }
       }
     ]
@@ -750,35 +750,35 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s21/match-column-1.json"
+          "path": "s21/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s21/match-column-2.json"
+          "path": "s21/match-column-2"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s21/yes-no.json"
+          "path": "s21/yes-no"
         }
       },
       {
         "text": "Can you recall - 1",
         "queryParams": {
           "type": "recall",
-          "path": "s21/recall-1.json"
+          "path": "s21/recall-1"
         }
       },
       {
         "text": "Can you recall - 2",
         "queryParams": {
           "type": "recall",
-          "path": "s21/recall-2.json"
+          "path": "s21/recall-2"
         }
       }
     ]
@@ -792,35 +792,35 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s22/match-column-1.json"
+          "path": "s22/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s22/match-column-2.json"
+          "path": "s22/match-column-2"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s22/yes-no.json"
+          "path": "s22/yes-no"
         }
       },
       {
         "text": "Can you recall - 1",
         "queryParams": {
           "type": "recall",
-          "path": "s22/recall-1.json"
+          "path": "s22/recall-1"
         }
       },
       {
         "text": "Can you recall - 2",
         "queryParams": {
           "type": "recall",
-          "path": "s22/recall-2.json"
+          "path": "s22/recall-2"
         }
       }
     ]
@@ -834,49 +834,49 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s23/match-column-1.json"
+          "path": "s23/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s23/match-column-2.json"
+          "path": "s23/match-column-2"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s23/yes-no.json"
+          "path": "s23/yes-no"
         }
       },
       {
         "text": "Same - Opposite",
         "queryParams": {
           "type": "yes-no",
-          "path": "s23/same-opposite.json"
+          "path": "s23/same-opposite"
         }
       },
       {
         "text": "MCQ",
         "queryParams": {
           "type": "mcq",
-          "path": "s23/mcq.json"
+          "path": "s23/mcq"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s23/recall.json"
+          "path": "s23/recall"
         }
       },
       {
         "text": "Recognize root",
         "queryParams": {
           "type": "recognizeRoot",
-          "path": "s23/recognize-root.json"
+          "path": "s23/recognize-root"
         }
       }
     ]
@@ -890,21 +890,21 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s24/match-column.json"
+          "path": "s24/match-column"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s24/yes-no.json"
+          "path": "s24/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s24/recall.json"
+          "path": "s24/recall"
         }
       }
     ]
@@ -918,21 +918,21 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s25/match-column.json"
+          "path": "s25/match-column"
         }
       },
       {
         "text": "True/False",
         "queryParams": {
           "type": "yes-no",
-          "path": "s25/true-false.json"
+          "path": "s25/true-false"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s25/recall.json"
+          "path": "s25/recall"
         }
       }
     ]
@@ -946,28 +946,28 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s26/match-column-1.json"
+          "path": "s26/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s26/match-column-2.json"
+          "path": "s26/match-column-2"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s26/yes-no.json"
+          "path": "s26/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s26/recall.json"
+          "path": "s26/recall"
         }
       }
     ]
@@ -981,49 +981,49 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s27/match-column-1.json"
+          "path": "s27/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s27/match-column-2.json"
+          "path": "s27/match-column-2"
         }
       },
       {
         "text": "Match the column - 3",
         "queryParams": {
           "type": "match-column",
-          "path": "s27/match-column-3.json"
+          "path": "s27/match-column-3"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s27/yes-no.json"
+          "path": "s27/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s27/recall.json"
+          "path": "s27/recall"
         }
       },
       {
         "text": "MCQ",
         "queryParams": {
           "type": "mcq",
-          "path": "s27/mcq.json"
+          "path": "s27/mcq"
         }
       },
       {
         "text": "Recognize root",
         "queryParams": {
           "type": "recognizeRoot",
-          "path": "s27/recognize-root.json"
+          "path": "s27/recognize-root"
         }
       }
     ]
@@ -1037,28 +1037,28 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s28/match-column.json"
+          "path": "s28/match-column"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s28/yes-no.json"
+          "path": "s28/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s28/recall.json"
+          "path": "s28/recall"
         }
       },
       {
         "text": "Can you use",
         "queryParams": {
           "type": "recall",
-          "path": "s28/can-you-use.json"
+          "path": "s28/can-you-use"
         }
       }
     ]
@@ -1072,56 +1072,56 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s29/match-column-1.json"
+          "path": "s29/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s29/match-column-2.json"
+          "path": "s29/match-column-2"
         }
       },
       {
         "text": "Match the column - 3",
         "queryParams": {
           "type": "match-column",
-          "path": "s29/match-column-3.json"
+          "path": "s29/match-column-3"
         }
       },
       {
         "text": "Match the column - 4",
         "queryParams": {
           "type": "match-column",
-          "path": "s29/match-column-4.json"
+          "path": "s29/match-column-4"
         }
       },
       {
         "text": "Match the column - 5",
         "queryParams": {
           "type": "match-column",
-          "path": "s29/match-column-5.json"
+          "path": "s29/match-column-5"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s29/yes-no.json"
+          "path": "s29/yes-no"
         }
       },
       {
         "text": "Can you recall - 1",
         "queryParams": {
           "type": "recall",
-          "path": "s29/recall-1.json"
+          "path": "s29/recall-1"
         }
       },
       {
         "text": "Can you recall - 2",
         "queryParams": {
           "type": "recall",
-          "path": "s29/recall-2.json"
+          "path": "s29/recall-2"
         }
       }
     ]
@@ -1135,42 +1135,42 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s30/match-column-1.json"
+          "path": "s30/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s30/match-column-2.json"
+          "path": "s30/match-column-2"
         }
       },
       {
         "text": "Match the column - 3",
         "queryParams": {
           "type": "match-column",
-          "path": "s30/match-column-3.json"
+          "path": "s30/match-column-3"
         }
       },
       {
         "text": "Match the column - 4",
         "queryParams": {
           "type": "match-column",
-          "path": "s30/match-column-4.json"
+          "path": "s30/match-column-4"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s30/yes-no.json"
+          "path": "s30/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s30/recall.json"
+          "path": "s30/recall"
         }
       }
     ]
@@ -1184,77 +1184,77 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s31/match-column-1.json"
+          "path": "s31/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s31/match-column-2.json"
+          "path": "s31/match-column-2"
         }
       },
       {
         "text": "Match the column - 3",
         "queryParams": {
           "type": "match-column",
-          "path": "s31/match-column-3.json"
+          "path": "s31/match-column-3"
         }
       },
       {
         "text": "Match the column - 4",
         "queryParams": {
           "type": "match-column",
-          "path": "s31/match-column-4.json"
+          "path": "s31/match-column-4"
         }
       },
       {
         "text": "Match the column - 5",
         "queryParams": {
           "type": "match-column",
-          "path": "s31/match-column-5.json"
+          "path": "s31/match-column-5"
         }
       },
       {
         "text": "MCQ",
         "queryParams": {
           "type": "mcq",
-          "path": "s31/mcq.json"
+          "path": "s31/mcq"
         }
       },
       {
         "text": "Can you recall - 1",
         "queryParams": {
           "type": "recall",
-          "path": "s31/recall-1.json"
+          "path": "s31/recall-1"
         }
       },
       {
         "text": "Can you recall - 2",
         "queryParams": {
           "type": "recall",
-          "path": "s31/recall-2.json"
+          "path": "s31/recall-2"
         }
       },
       {
         "text": "Can you recall - 3",
         "queryParams": {
           "type": "recall",
-          "path": "s31/recall-3.json"
+          "path": "s31/recall-3"
         }
       },
       {
         "text": "Can you recall - 4",
         "queryParams": {
           "type": "recall",
-          "path": "s31/recall-4.json"
+          "path": "s31/recall-4"
         }
       },
       {
         "text": "Recognize root",
         "queryParams": {
           "type": "recognizeRoot",
-          "path": "s31/recognize-root.json"
+          "path": "s31/recognize-root"
         }
       }
     ]
@@ -1268,28 +1268,28 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s32/match-column.json"
+          "path": "s32/match-column"
         }
       },
       {
         "text": "True/False",
         "queryParams": {
           "type": "yes-no",
-          "path": "s32/true-false.json"
+          "path": "s32/true-false"
         }
       },
       {
         "text": "Same - Opposite",
         "queryParams": {
           "type": "yes-no",
-          "path": "s32/same-opposite.json"
+          "path": "s32/same-opposite"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s32/recall.json"
+          "path": "s32/recall"
         }
       }
     ]
@@ -1303,49 +1303,49 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s33/match-column-1.json"
+          "path": "s33/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s33/match-column-2.json"
+          "path": "s33/match-column-2"
         }
       },
       {
         "text": "Match the column - 3",
         "queryParams": {
           "type": "match-column",
-          "path": "s33/match-column-3.json"
+          "path": "s33/match-column-3"
         }
       },
       {
         "text": "True/False",
         "queryParams": {
           "type": "yes-no",
-          "path": "s33/true-false.json"
+          "path": "s33/true-false"
         }
       },
       {
         "text": "Same - Opposite - 1",
         "queryParams": {
           "type": "yes-no",
-          "path": "s33/same-opposite-1.json"
+          "path": "s33/same-opposite-1"
         }
       },
       {
         "text": "Same - Opposite - 2",
         "queryParams": {
           "type": "yes-no",
-          "path": "s33/same-opposite-2.json"
+          "path": "s33/same-opposite-2"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s33/recall.json"
+          "path": "s33/recall"
         }
       }
     ]
@@ -1359,28 +1359,28 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s34/match-column-1.json"
+          "path": "s34/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s34/match-column-2.json"
+          "path": "s34/match-column-2"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s34/yes-no.json"
+          "path": "s34/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s34/recall.json"
+          "path": "s34/recall"
         }
       }
     ]
@@ -1394,35 +1394,35 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s35/match-column-1.json"
+          "path": "s35/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s35/match-column-2.json"
+          "path": "s35/match-column-2"
         }
       },
       {
         "text": "Same - Opposite",
         "queryParams": {
           "type": "yes-no",
-          "path": "s35/same-opposite.json"
+          "path": "s35/same-opposite"
         }
       },
       {
         "text": "Can you recall - 1",
         "queryParams": {
           "type": "recall",
-          "path": "s35/recall-1.json"
+          "path": "s35/recall-1"
         }
       },
       {
         "text": "Can you recall - 2",
         "queryParams": {
           "type": "recall",
-          "path": "s35/recall-2.json"
+          "path": "s35/recall-2"
         }
       }
     ]
@@ -1436,14 +1436,14 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s36/match-column-1.json"
+          "path": "s36/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s36/match-column-2.json"
+          "path": "s36/match-column-2"
         }
       }
     ]
@@ -1457,133 +1457,133 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s37/match-column-1.json"
+          "path": "s37/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s37/match-column-2.json"
+          "path": "s37/match-column-2"
         }
       },
       {
         "text": "Match the column - 3",
         "queryParams": {
           "type": "match-column",
-          "path": "s37/match-column-3.json"
+          "path": "s37/match-column-3"
         }
       },
       {
         "text": "Match the column - 4",
         "queryParams": {
           "type": "match-column",
-          "path": "s37/match-column-4.json"
+          "path": "s37/match-column-4"
         }
       },
       {
         "text": "Match the column - 5",
         "queryParams": {
           "type": "match-column",
-          "path": "s37/match-column-5.json"
+          "path": "s37/match-column-5"
         }
       },
       {
         "text": "Yes/No - 1",
         "queryParams": {
           "type": "yes-no",
-          "path": "s37/yes-no-1.json"
+          "path": "s37/yes-no-1"
         }
       },
       {
         "text": "Yes/No - 2",
         "queryParams": {
           "type": "yes-no",
-          "path": "s37/yes-no-2.json"
+          "path": "s37/yes-no-2"
         }
       },
       {
         "text": "Yes/No - 3",
         "queryParams": {
           "type": "yes-no",
-          "path": "s37/yes-no-3.json"
+          "path": "s37/yes-no-3"
         }
       },
       {
         "text": "Same - Opposite - 1",
         "queryParams": {
           "type": "yes-no",
-          "path": "s37/same-opposite-1.json"
+          "path": "s37/same-opposite-1"
         }
       },
       {
         "text": "Same - Opposite - 2",
         "queryParams": {
           "type": "yes-no",
-          "path": "s37/same-opposite-2.json"
+          "path": "s37/same-opposite-2"
         }
       },
       {
         "text": "MCQ",
         "queryParams": {
           "type": "mcq",
-          "path": "s37/mcq.json"
+          "path": "s37/mcq"
         }
       },
       {
         "text": "Can you recall - 1",
         "queryParams": {
           "type": "recall",
-          "path": "s37/recall-1.json"
+          "path": "s37/recall-1"
         }
       },
       {
         "text": "Can you recall - 2",
         "queryParams": {
           "type": "recall",
-          "path": "s37/recall-2.json"
+          "path": "s37/recall-2"
         }
       },
       {
         "text": "Can you recall - 3",
         "queryParams": {
           "type": "recall",
-          "path": "s37/recall-3.json"
+          "path": "s37/recall-3"
         }
       },
       {
         "text": "Can you recall - 4",
         "queryParams": {
           "type": "recall",
-          "path": "s37/recall-4.json"
+          "path": "s37/recall-4"
         }
       },
       {
         "text": "Can you recall - 5",
         "queryParams": {
           "type": "recall",
-          "path": "s37/recall-5.json"
+          "path": "s37/recall-5"
         }
       },
       {
         "text": "Can you recall - 6",
         "queryParams": {
           "type": "recall",
-          "path": "s37/recall-6.json"
+          "path": "s37/recall-6"
         }
       },
       {
         "text": "Can you recall - 7",
         "queryParams": {
           "type": "recall",
-          "path": "s37/recall-7.json"
+          "path": "s37/recall-7"
         }
       },
       {
         "text": "Recognize root",
         "queryParams": {
           "type": "recognizeRoot",
-          "path": "s37/recognize-root.json"
+          "path": "s37/recognize-root"
         }
       }
     ]
@@ -1597,42 +1597,42 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s38/match-column-1.json"
+          "path": "s38/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s38/match-column-2.json"
+          "path": "s38/match-column-2"
         }
       },
       {
         "text": "Same - Opposite",
         "queryParams": {
           "type": "yes-no",
-          "path": "s38/same-opposite.json"
+          "path": "s38/same-opposite"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s38/recall.json"
+          "path": "s38/recall"
         }
       },
       {
         "text": "Recognize root - 1",
         "queryParams": {
           "type": "recognizeRoot",
-          "path": "s38/recognize-root-1.json"
+          "path": "s38/recognize-root-1"
         }
       },
       {
         "text": "Recognize root - 2",
         "queryParams": {
           "type": "recognizeRoot",
-          "path": "s38/recognize-root-2.json"
+          "path": "s38/recognize-root-2"
         }
       }
     ]
@@ -1646,28 +1646,28 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s39/match-column.json"
+          "path": "s39/match-column"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s39/yes-no.json"
+          "path": "s39/yes-no"
         }
       },
       {
         "text": "Same - Opposite",
         "queryParams": {
           "type": "yes-no",
-          "path": "s39/same-opposite.json"
+          "path": "s39/same-opposite"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s39/recall.json"
+          "path": "s39/recall"
         }
       }
     ]
@@ -1681,56 +1681,56 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s40/match-column-1.json"
+          "path": "s40/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s40/match-column-2.json"
+          "path": "s40/match-column-2"
         }
       },
       {
         "text": "Match the column - 3",
         "queryParams": {
           "type": "match-column",
-          "path": "s40/match-column-3.json"
+          "path": "s40/match-column-3"
         }
       },
       {
         "text": "Match the column - 4",
         "queryParams": {
           "type": "match-column",
-          "path": "s40/match-column-4.json"
+          "path": "s40/match-column-4"
         }
       },
       {
         "text": "Yes/No - 1",
         "queryParams": {
           "type": "yes-no",
-          "path": "s40/yes-no-1.json"
+          "path": "s40/yes-no-1"
         }
       },
       {
         "text": "Yes/No - 2",
         "queryParams": {
           "type": "yes-no",
-          "path": "s40/yes-no-2.json"
+          "path": "s40/yes-no-2"
         }
       },
       {
         "text": "Yes/No - 3",
         "queryParams": {
           "type": "yes-no",
-          "path": "s40/yes-no-3.json"
+          "path": "s40/yes-no-3"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s40/recall.json"
+          "path": "s40/recall"
         }
       }
     ]
@@ -1744,91 +1744,91 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s41/match-column-1.json"
+          "path": "s41/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s41/match-column-2.json"
+          "path": "s41/match-column-2"
         }
       },
       {
         "text": "Match the column - 3",
         "queryParams": {
           "type": "match-column",
-          "path": "s41/match-column-3.json"
+          "path": "s41/match-column-3"
         }
       },
       {
         "text": "Match the column - 4",
         "queryParams": {
           "type": "match-column",
-          "path": "s41/match-column-4.json"
+          "path": "s41/match-column-4"
         }
       },
       {
         "text": "True/False - 1",
         "queryParams": {
           "type": "yes-no",
-          "path": "s41/true-false-1.json"
+          "path": "s41/true-false-1"
         }
       },
       {
         "text": "True/False - 2",
         "queryParams": {
           "type": "yes-no",
-          "path": "s41/true-false-2.json"
+          "path": "s41/true-false-2"
         }
       },
       {
         "text": "MCQ",
         "queryParams": {
           "type": "mcq",
-          "path": "s41/mcq.json"
+          "path": "s41/mcq"
         }
       },
       {
         "text": "Recall - noun",
         "queryParams": {
           "type": "recall",
-          "path": "s41/recall-noun.json"
+          "path": "s41/recall-noun"
         }
       },
       {
         "text": "Recall - adjectives",
         "queryParams": {
           "type": "recall",
-          "path": "s41/recall-adjectives.json"
+          "path": "s41/recall-adjectives"
         }
       },
       {
         "text": "Recall - more adjectives",
         "queryParams": {
           "type": "recall",
-          "path": "s41/recall-more-adjectives.json"
+          "path": "s41/recall-more-adjectives"
         }
       },
       {
         "text": "Recall - adverbs",
         "queryParams": {
           "type": "recall",
-          "path": "s41/recall-adverbs.json"
+          "path": "s41/recall-adverbs"
         }
       },
       {
         "text": "Recall - final",
         "queryParams": {
           "type": "recall",
-          "path": "s41/recall-final-mop-up.json"
+          "path": "s41/recall-final-mop-up"
         }
       },
       {
         "text": "Recognize root",
         "queryParams": {
           "type": "recognizeRoot",
-          "path": "s41/recognize-root.json"
+          "path": "s41/recognize-root"
         }
       }
     ]
@@ -1842,28 +1842,28 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s42/match-column.json"
+          "path": "s42/match-column"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s42/yes-no.json"
+          "path": "s42/yes-no"
         }
       },
       {
         "text": "Same - Opposite",
         "queryParams": {
           "type": "yes-no",
-          "path": "s42/same-opposite.json"
+          "path": "s42/same-opposite"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s42/recall.json"
+          "path": "s42/recall"
         }
       }
     ]
@@ -1877,21 +1877,21 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s43/match-column.json"
+          "path": "s43/match-column"
         }
       },
       {
         "text": "Same - Opposite",
         "queryParams": {
           "type": "yes-no",
-          "path": "s43/same-opposite.json"
+          "path": "s43/same-opposite"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s43/recall.json"
+          "path": "s43/recall"
         }
       }
     ]
@@ -1905,42 +1905,42 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s44/match-column-1.json"
+          "path": "s44/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s44/match-column-2.json"
+          "path": "s44/match-column-2"
         }
       },
       {
         "text": "Same - Opposite",
         "queryParams": {
           "type": "yes-no",
-          "path": "s44/same-opposite.json"
+          "path": "s44/same-opposite"
         }
       },
       {
         "text": "MCQ",
         "queryParams": {
           "type": "mcq",
-          "path": "s44/mcq.json"
+          "path": "s44/mcq"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s44/recall.json"
+          "path": "s44/recall"
         }
       },
       {
         "text": "Recognize root",
         "queryParams": {
           "type": "recognizeRoot",
-          "path": "s44/recognize-root.json"
+          "path": "s44/recognize-root"
         }
       }
     ]
@@ -1954,28 +1954,28 @@
         "text": "Match the column - 1",
         "queryParams": {
           "type": "match-column",
-          "path": "s45/match-column-1.json"
+          "path": "s45/match-column-1"
         }
       },
       {
         "text": "Match the column - 2",
         "queryParams": {
           "type": "match-column",
-          "path": "s45/match-column-2.json"
+          "path": "s45/match-column-2"
         }
       },
       {
         "text": "Yes/No",
         "queryParams": {
           "type": "yes-no",
-          "path": "s45/yes-no.json"
+          "path": "s45/yes-no"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s45/recall.json"
+          "path": "s45/recall"
         }
       }
     ]
@@ -1989,49 +1989,49 @@
         "text": "Match the column",
         "queryParams": {
           "type": "match-column",
-          "path": "s46/match-column.json"
+          "path": "s46/match-column"
         }
       },
       {
         "text": "Yes/No - 1",
         "queryParams": {
           "type": "yes-no",
-          "path": "s46/yes-no-1.json"
+          "path": "s46/yes-no-1"
         }
       },
       {
         "text": "Yes/No - 2",
         "queryParams": {
           "type": "yes-no",
-          "path": "s46/yes-no-2.json"
+          "path": "s46/yes-no-2"
         }
       },
       {
         "text": "Same - Opposite",
         "queryParams": {
           "type": "yes-no",
-          "path": "s46/same-opposite.json"
+          "path": "s46/same-opposite"
         }
       },
       {
         "text": "MCQ",
         "queryParams": {
           "type": "mcq",
-          "path": "s46/mcq.json"
+          "path": "s46/mcq"
         }
       },
       {
         "text": "Can you recall",
         "queryParams": {
           "type": "recall",
-          "path": "s46/recall.json"
+          "path": "s46/recall"
         }
       },
       {
         "text": "Recognize root",
         "queryParams": {
           "type": "recognizeRoot",
-          "path": "s46/recognize-root.json"
+          "path": "s46/recognize-root"
         }
       }
     ]

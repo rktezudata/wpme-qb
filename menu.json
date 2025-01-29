@@ -2,7 +2,7 @@
   {
     "id": "session-1",
     "title": "Session 1",
-    "sessionLinkPath": "01.%20how-to-talk-about-personality-types/session-1",
+    "sessionLinkPath": "01.-how-to-talk-about-personality-types/session-1",
     "links": [
       {
         "text": "Match the columns",
@@ -30,7 +30,7 @@
   {
     "id": "session-2",
     "title": "Session 2",
-    "sessionLinkPath": "01.%20how-to-talk-about-personality-types/session-2",
+    "sessionLinkPath": "01.-how-to-talk-about-personality-types/session-2",
     "links": [
       {
         "text": "Match the column - 1",
@@ -65,7 +65,7 @@
   {
     "id": "session-3",
     "title": "Session 3",
-    "sessionLinkPath": "01.%20how-to-talk-about-personality-types/session-3",
+    "sessionLinkPath": "01.-how-to-talk-about-personality-types/session-3",
     "links": [
       {
         "text": "Match the column - 1",
@@ -128,7 +128,7 @@
   {
     "id": "session-4",
     "title": "Session 4",
-    "sessionLinkPath": "02.%20how-to-talk-about-doctors/session-4",
+    "sessionLinkPath": "02.-how-to-talk-about-doctors/session-4",
     "links": [
       {
         "text": "Match the column",
@@ -156,7 +156,7 @@
   {
     "id": "session-5",
     "title": "Session 5",
-    "sessionLinkPath": "02.%20how-to-talk-about-doctors/session-5",
+    "sessionLinkPath": "02.-how-to-talk-about-doctors/session-5",
     "links": [
       {
         "text": "Match the column - 1",
@@ -191,7 +191,7 @@
   {
     "id": "session-6",
     "title": "Session 6",
-    "sessionLinkPath": "02.%20how-to-talk-about-doctors/session-6",
+    "sessionLinkPath": "02.-how-to-talk-about-doctors/session-6",
     "links": [
       {
         "text": "Match the column - 1",
@@ -240,7 +240,7 @@
   {
     "id": "session-7",
     "title": "Session 7",
-    "sessionLinkPath": "03.%20how-to-talk-about-practitioners/session-7",
+    "sessionLinkPath": "03.-how-to-talk-about-practitioners/session-7",
     "links": [
       {
         "text": "Match the column",
@@ -268,7 +268,7 @@
   {
     "id": "session-8",
     "title": "Session 8",
-    "sessionLinkPath": "03.%20how-to-talk-about-practitioners/session-8",
+    "sessionLinkPath": "03.-how-to-talk-about-practitioners/session-8",
     "links": [
       {
         "text": "Match the column",
@@ -296,7 +296,7 @@
   {
     "id": "session-9",
     "title": "Session 9",
-    "sessionLinkPath": "03.%20how-to-talk-about-practitioners/session-9",
+    "sessionLinkPath": "03.-how-to-talk-about-practitioners/session-9",
     "links": [
       {
         "text": "Match the column - 1",
@@ -338,7 +338,7 @@
   {
     "id": "session-10",
     "title": "Session 10",
-    "sessionLinkPath": "03.%20how-to-talk-about-practitioners/session-10",
+    "sessionLinkPath": "03.-how-to-talk-about-practitioners/session-10",
     "links": [
       {
         "text": "Match the column",
@@ -380,7 +380,7 @@
   {
     "id": "session-11",
     "title": "Session 11",
-    "sessionLinkPath": "04. science-and-scientists/session-11",
+    "sessionLinkPath": "04.-science-and-scientists/session-11",
     "links": [
       {
         "text": "Match the column",
@@ -401,7 +401,7 @@
   {
     "id": "session-12",
     "title": "Session 12",
-    "sessionLinkPath": "04. science-and-scientists/session-12",
+    "sessionLinkPath": "04.-science-and-scientists/session-12",
     "links": [
       {
         "text": "Match the column - 1",
@@ -443,7 +443,7 @@
   {
     "id": "session-13",
     "title": "Session 13",
-    "sessionLinkPath": "04. science-and-scientists/session-13",
+    "sessionLinkPath": "04.-science-and-scientists/session-13",
     "links": [
       {
         "text": "Match the column - 1",
@@ -492,7 +492,7 @@
   {
     "id": "session-14",
     "title": "Session 14",
-    "sessionLinkPath": "05. liars-and-lying/session-14",
+    "sessionLinkPath": "05.-liars-and-lying/session-14",
     "links": [
       {
         "text": "Match the column",
@@ -527,7 +527,7 @@
   {
     "id": "session-15",
     "title": "Session 15",
-    "sessionLinkPath": "05. liars-and-lying/session-15",
+    "sessionLinkPath": "05.-liars-and-lying/session-15",
     "links": [
       {
         "text": "Match the column",
@@ -555,7 +555,7 @@
   {
     "id": "session-16",
     "title": "Session 16",
-    "sessionLinkPath": "05. liars-and-lying/session-16",
+    "sessionLinkPath": "05.-liars-and-lying/session-16",
     "links": [
       {
         "text": "Match the column - 1",
@@ -590,7 +590,7 @@
   {
     "id": "session-17",
     "title": "Session 17",
-    "sessionLinkPath": "05. liars-and-lying/session-17",
+    "sessionLinkPath": "05.-liars-and-lying/session-17",
     "links": [
       {
         "text": "Match the column",
@@ -632,7 +632,7 @@
   {
     "id": "session-18",
     "title": "Session 18",
-    "sessionLinkPath": "05. liars-and-lying/session-17",
+    "sessionLinkPath": "05.-liars-and-lying/session-17",
     "links": [
       {
         "text": "Etymology",
@@ -681,7 +681,7 @@
   {
     "id": "session-19",
     "title": "Session 19",
-    "sessionLinkPath": "06. how-to-talk-about-action/session-19",
+    "sessionLinkPath": "06.-how-to-talk-about-action/session-19",
     "links": [
       {
         "text": "Match the column",
@@ -716,7 +716,7 @@
   {
     "id": "session-20",
     "title": "Session 20",
-    "sessionLinkPath": "06. how-to-talk-about-action/session-20",
+    "sessionLinkPath": "06.-how-to-talk-about-action/session-20",
     "links": [
       {
         "text": "Match the column",
@@ -744,7 +744,7 @@
   {
     "id": "session-21",
     "title": "Session 21",
-    "sessionLinkPath": "06. how-to-talk-about-action/session-21",
+    "sessionLinkPath": "06.-how-to-talk-about-action/session-21",
     "links": [
       {
         "text": "Match the column - 1",
@@ -786,7 +786,7 @@
   {
     "id": "session-22",
     "title": "Session 22",
-    "sessionLinkPath": "06. how-to-talk-about-action/session-22",
+    "sessionLinkPath": "06.-how-to-talk-about-action/session-22",
     "links": [
       {
         "text": "Match the column - 1",
@@ -828,7 +828,7 @@
   {
     "id": "session-23",
     "title": "Session 23",
-    "sessionLinkPath": "06. how-to-talk-about-action/session-23",
+    "sessionLinkPath": "06.-how-to-talk-about-action/session-23",
     "links": [
       {
         "text": "Match the column - 1",
@@ -884,7 +884,7 @@
   {
     "id": "session-24",
     "title": "Session 24",
-    "sessionLinkPath": "07. how-to-talk-about-various-speech-habits/session-24",
+    "sessionLinkPath": "07.-how-to-talk-about-various-speech-habits/session-24",
     "links": [
       {
         "text": "Match the column",
@@ -912,7 +912,7 @@
   {
     "id": "session-25",
     "title": "Session 25",
-    "sessionLinkPath": "07. how-to-talk-about-various-speech-habits/session-25",
+    "sessionLinkPath": "07.-how-to-talk-about-various-speech-habits/session-25",
     "links": [
       {
         "text": "Match the column",
@@ -940,7 +940,7 @@
   {
     "id": "session-26",
     "title": "Session 26",
-    "sessionLinkPath": "07. how-to-talk-about-various-speech-habits/session-26",
+    "sessionLinkPath": "07.-how-to-talk-about-various-speech-habits/session-26",
     "links": [
       {
         "text": "Match the column - 1",
@@ -975,7 +975,7 @@
   {
     "id": "session-27",
     "title": "Session 27",
-    "sessionLinkPath": "07. how-to-talk-about-various-speech-habits/session-27",
+    "sessionLinkPath": "07.-how-to-talk-about-various-speech-habits/session-27",
     "links": [
       {
         "text": "Match the column - 1",
@@ -1031,7 +1031,7 @@
   {
     "id": "session-28",
     "title": "Session 28",
-    "sessionLinkPath": "08. how-to-insult-your-enemies/session-28",
+    "sessionLinkPath": "08.-how-to-insult-your-enemies/session-28",
     "links": [
       {
         "text": "Match the column",
@@ -1066,7 +1066,7 @@
   {
     "id": "session-29",
     "title": "Session 29",
-    "sessionLinkPath": "08. how-to-insult-your-enemies/session-29",
+    "sessionLinkPath": "08.-how-to-insult-your-enemies/session-29",
     "links": [
       {
         "text": "Match the column - 1",
@@ -1129,7 +1129,7 @@
   {
     "id": "session-30",
     "title": "Session 30",
-    "sessionLinkPath": "08. how-to-insult-your-enemies/session-30",
+    "sessionLinkPath": "08.-how-to-insult-your-enemies/session-30",
     "links": [
       {
         "text": "Match the column - 1",
@@ -1178,7 +1178,7 @@
   {
     "id": "session-31",
     "title": "Session 31",
-    "sessionLinkPath": "08. how-to-insult-your-enemies/session-31",
+    "sessionLinkPath": "08.-how-to-insult-your-enemies/session-31",
     "links": [
       {
         "text": "Match the column - 1",
@@ -1262,7 +1262,7 @@
   {
     "id": "session-32",
     "title": "Session 32",
-    "sessionLinkPath": "09.%20how-to-flatter-your-friends/session-32",
+    "sessionLinkPath": "09.-how-to-flatter-your-friends/session-32",
     "links": [
       {
         "text": "Match the column",
@@ -1297,7 +1297,7 @@
   {
     "id": "session-33",
     "title": "Session 33",
-    "sessionLinkPath": "09.%20how-to-flatter-your-friends/session-33",
+    "sessionLinkPath": "09.-how-to-flatter-your-friends/session-33",
     "links": [
       {
         "text": "Match the column - 1",
@@ -1353,7 +1353,7 @@
   {
     "id": "session-34",
     "title": "Session 34",
-    "sessionLinkPath": "09.%20how-to-flatter-your-friends/session-34",
+    "sessionLinkPath": "09.-how-to-flatter-your-friends/session-34",
     "links": [
       {
         "text": "Match the column - 1",
@@ -1388,7 +1388,7 @@
   {
     "id": "session-35",
     "title": "Session 35",
-    "sessionLinkPath": "09.%20how-to-flatter-your-friends/session-35",
+    "sessionLinkPath": "09.-how-to-flatter-your-friends/session-35",
     "links": [
       {
         "text": "Match the column - 1",
@@ -1430,7 +1430,7 @@
   {
     "id": "session-36",
     "title": "Session 36",
-    "sessionLinkPath": "09.%20how-to-flatter-your-friends/session-36",
+    "sessionLinkPath": "09.-how-to-flatter-your-friends/session-36",
     "links": [
       {
         "text": "Match the column - 1",
@@ -1451,7 +1451,7 @@
   {
     "id": "session-37",
     "title": "Session 37",
-    "sessionLinkPath": "09.%20how-to-flatter-your-friends/session-37",
+    "sessionLinkPath": "09.-how-to-flatter-your-friends/session-37",
     "links": [
       {
         "text": "Match the column - 1",
@@ -1591,7 +1591,7 @@
   {
     "id": "session-38",
     "title": "Session 38",
-    "sessionLinkPath": "09.%20how-to-flatter-your-friends/session-37",
+    "sessionLinkPath": "09.-how-to-flatter-your-friends/session-37",
     "links": [
       {
         "text": "Match the column - 1",
@@ -1640,7 +1640,7 @@
   {
     "id": "session-39",
     "title": "Session 39",
-    "sessionLinkPath": "10.%20how-to-talk-about-common-phenomena-and-occurrences/session-39",
+    "sessionLinkPath": "10.-how-to-talk-about-common-phenomena-and-occurrences/session-39",
     "links": [
       {
         "text": "Match the column",
@@ -1675,7 +1675,7 @@
   {
     "id": "session-40",
     "title": "Session 40",
-    "sessionLinkPath": "10.%20how-to-talk-about-common-phenomena-and-occurrences/session-40",
+    "sessionLinkPath": "10.-how-to-talk-about-common-phenomena-and-occurrences/session-40",
     "links": [
       {
         "text": "Match the column - 1",
@@ -1738,7 +1738,7 @@
   {
     "id": "session-41",
     "title": "Session 41",
-    "sessionLinkPath": "10.%20how-to-talk-about-common-phenomena-and-occurrences/session-41",
+    "sessionLinkPath": "10.-how-to-talk-about-common-phenomena-and-occurrences/session-41",
     "links": [
       {
         "text": "Match the column - 1",
@@ -1836,7 +1836,7 @@
   {
     "id": "session-42",
     "title": "Session 42",
-    "sessionLinkPath": "",
+    "sessionLinkPath": "11.-how-to-talk-about-what-goes-on/session-42",
     "links": [
       {
         "text": "Match the column",
@@ -1871,7 +1871,7 @@
   {
     "id": "session-43",
     "title": "Session 43",
-    "sessionLinkPath": "",
+    "sessionLinkPath": "11.-how-to-talk-about-what-goes-on/session-43",
     "links": [
       {
         "text": "Match the column",
@@ -1899,7 +1899,7 @@
   {
     "id": "session-44",
     "title": "Session 44",
-    "sessionLinkPath": "",
+    "sessionLinkPath": "11.-how-to-talk-about-what-goes-on/session-44",
     "links": [
       {
         "text": "Match the column - 1",
@@ -1948,7 +1948,7 @@
   {
     "id": "session-45",
     "title": "Session 45",
-    "sessionLinkPath": "",
+    "sessionLinkPath": "12.-how-to-talk-about-a-variety-of-personal-characteristics/session-45",
     "links": [
       {
         "text": "Match the column - 1",
